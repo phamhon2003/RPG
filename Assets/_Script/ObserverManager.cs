@@ -17,10 +17,10 @@ public class ObserverManager : MonoBehaviour
     {
         Action.Remove(Act);
     }
-    public void attack()
+    public void Attack()
     {
         foreach (action Act in Action) {
-            Act.attack();             
+            Act.Attack();             
         }
     }
 }

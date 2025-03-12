@@ -12,11 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9432dd199f22eb488c6b5da3f9995f2, type: 3}
   m_Name: Khoai
   m_EditorClassIdentifier: 
-  count: 0
-  name: Khoai
+  count: 8
+  Name: Khoai
   Tile: {fileID: 0}
   image: {fileID: -1267699685, guid: 354dbb48e4a46704d838608369c971a6, type: 3}
   type: 0
-  actiontype: 0
-  range: {x: 5, y: 4}
   stackable: 1

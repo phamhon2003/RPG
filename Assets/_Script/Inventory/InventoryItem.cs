@@ -21,9 +21,10 @@ public class InventoryItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
         refreshcount();
     }
     public void refreshcount()
-    {
+    {   
+        Count = item.count;
         countText.text=Count.ToString();
-        bool textActive = Count > 1;
+        bool textActive = Count >= 1;
         countText.gameObject.SetActive(textActive);
     }
     public void OnBeginDrag(PointerEventData eventData)

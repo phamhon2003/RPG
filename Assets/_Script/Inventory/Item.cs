@@ -9,8 +9,8 @@ public class Item : ScriptableObject
     public TileBase Tile;
     public Sprite image;
     public Itemtype type;
-    public Actiontype actiontype;
-    public Vector2Int range= new Vector2Int(5,4);
+    //public Actiontype actiontype;
+    //public Vector2Int range= new Vector2Int(5,4);
     public bool stackable=true;
 }
 public enum Itemtype

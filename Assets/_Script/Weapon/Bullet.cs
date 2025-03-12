@@ -1,0 +1,39 @@
+    using UnityEngine;
+
+public class Bullet : MonoBehaviour
+{
+    [SerializeField] float _speed, _dmg, _lifetime;
+    [SerializeField] Rigidbody2D _rb;
+    Vector2 _movement=Vector2.zero;
+    void Start()
+    {
+        if (_rb == null)
+        {
+            _rb=GetComponent<Rigidbody2D>();
+        }
+    }
+    public void Init(float speed, float dmg, float lifetime, Vector2 movement)
+    {
+        this._speed = speed;
+        this._dmg = dmg;
+        this._lifetime = lifetime;
+        this._movement = movement;
+    }
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+    private void FixedUpdate()
+    {
+        _rb.linearVelocity=_movement*_speed;
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Enemy"))
+        {
+            collision.GetComponentInChildren<action>().takedamage(_dmg);
+            gameObject.SetActive(false);
+        }
+    }
+}

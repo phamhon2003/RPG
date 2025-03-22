@@ -30,9 +30,9 @@ public class Bullet : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Enemy"))
+        if (collision.gameObject.CompareTag("Enemy"))
         {
-            collision.GetComponentInChildren<action>().takedamage(_dmg);
+            collision.gameObject.GetComponent<action>().takedamage(_dmg);
             gameObject.SetActive(false);
         }
     }

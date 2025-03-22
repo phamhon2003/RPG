@@ -90,9 +90,13 @@ public class InventoryManager : MonoBehaviour
     public void crafting(CraftingRecipe recipe)
     {
         if (Cancraft(recipe))
-        {
+        {            
+            if(recipe.resultItem.stackable == true || recipe.resultItem.count==0)
+            {
+                
+                removeIngredients(recipe);
+            }
             addItem(recipe.resultItem);
-            removeIngredients(recipe);
             for (int i = 0; i < InventorySlots.Length; i++)
             {
                 InventorySlot slot = InventorySlots[i];

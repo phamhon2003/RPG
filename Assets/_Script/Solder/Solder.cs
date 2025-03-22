@@ -11,11 +11,12 @@ public interface ISelected
 }
 public class Solder : MonoBehaviour, ISelected
 {
-    [SerializeField] private float MoveSpeed;
+    
+    [SerializeField] private float MoveSpeed,Damage;
     [SerializeField] private GameObject SelectedBackground;
     [SerializeField] float HP = 100f;
-    Animator Solderanimator;
-    bool isMoving;
+    public Animator Solderanimator;
+    public bool isMoving;
     void Start()
     {
         Solderanimator = GetComponent<Animator>();
@@ -52,6 +53,14 @@ public class Solder : MonoBehaviour, ISelected
             Solderanimator.SetBool("isWalking", false);
             isMoving = false;
         }
+        if (newPos.x < transform.position.x) 
+        {
+            transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+        }
+        else if (newPos.x > transform.position.x) 
+        {
+            transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+        }
     }
     private IEnumerator IEMove(Vector3 newPos)
     {
@@ -66,10 +75,13 @@ public class Solder : MonoBehaviour, ISelected
         StopAllCoroutines();
         StartCoroutine(IEMove(NewPos));
     }
+    
     public void Attack()
     {
-
+        
     }
+    
+    
     public void takedamage(float Damage)
     {
         HP -= Damage;

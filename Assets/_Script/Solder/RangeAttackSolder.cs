@@ -1,0 +1,83 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class RangeAttackSolder : MonoBehaviour
+{
+    private List<Collider2D> enemiesInTrigger = new List<Collider2D>();
+    [SerializeField] Bullet _bullet;
+    float _bulletspeed = 4, _bulletdamege, _lifetime;
+    Solder solder;
+    private void Start()
+    {
+        solder= GetComponentInParent<Solder>();
+    }
+    private Coroutine attackCoroutine;
+    private void OnTriggerEnter2D(Collider2D collision)
+    {      
+        if (collision.CompareTag("Enemy"))
+        {
+         
+            enemiesInTrigger.Add(collision);
+        }
+    }
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Enemy"))
+        {
+            if (attackCoroutine == null)
+            {
+                attackCoroutine = StartCoroutine(FireEverySecond());
+                
+            }
+            
+        }
+    }
+    void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Enemy"))
+        {
+            if (other == enemiesInTrigger[0])
+            {
+                StopCoroutine(attackCoroutine);
+                attackCoroutine = null;
+            }
+            enemiesInTrigger.Remove(other);
+
+        }        
+    }
+    public void fire()
+    {
+        if (enemiesInTrigger.Count != 0)
+        {
+            Vector2 direction = ((Vector2)enemiesInTrigger[0].transform.position - (Vector2)transform.position).normalized;
+            float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+            Quaternion rotation = Quaternion.Euler(0, 0, angle);
+            Bullet b = Instantiate<Bullet>(_bullet, this.transform.position, rotation);
+            b.Init(_bulletspeed, _bulletdamege, _lifetime, direction);
+        }
+    }
+    public IEnumerator FireEverySecond()
+    {
+        Debug.Log(solder.isMoving);
+        while (enemiesInTrigger.Count > 0)
+        {
+            while (solder.isMoving)
+            {
+                yield return null;
+            }
+            if (solder.transform.position.x > enemiesInTrigger[0].transform.position.x)
+            {
+                solder.transform.localScale = new Vector3(-Mathf.Abs(solder.transform.localScale.x), solder.transform.localScale.y, solder.transform.localScale.z);
+            }
+            else if(solder.transform.position.x < enemiesInTrigger[0].transform.position.x)
+            {
+                solder.transform.localScale = new Vector3(Mathf.Abs(solder.transform.localScale.x), solder.transform.localScale.y, solder.transform.localScale.z);
+            }
+            solder.Solderanimator.SetTrigger("Attack3"); 
+            yield return new WaitForSeconds(0.5f); 
+            fire();
+            yield return new WaitForSeconds(1f);
+        }      
+    }
+}

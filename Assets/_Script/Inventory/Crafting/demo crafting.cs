@@ -8,4 +8,5 @@ public class democrafting : MonoBehaviour
     {
         inventoryManager.crafting(recipe);
     }
+
 }

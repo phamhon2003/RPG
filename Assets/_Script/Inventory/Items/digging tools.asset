@@ -17,4 +17,4 @@ MonoBehaviour:
   Tile: {fileID: 0}
   image: {fileID: 4991867999440484623, guid: 99967a3ee1057824187826fe17c084ed, type: 3}
   type: 0
-  stackable: 1
+  stackable: 0

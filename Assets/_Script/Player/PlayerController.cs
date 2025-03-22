@@ -6,7 +6,7 @@ using UnityEngine.Tilemaps;
 public class PlayerController : MonoBehaviour, action
 {  
     [SerializeField] Tilemap interactabbleMap;
-    [SerializeField] float MoveSpeed;
+    [SerializeField] float MoveSpeed,Damage;
     float SpeedX, SpeedY;
     private Vector2 Movement,positionray;
     Rigidbody2D rb;
@@ -20,6 +20,7 @@ public class PlayerController : MonoBehaviour, action
     public GameObject khoai,weapon;
     public Transform aim;
     public WeaponController weaponController;
+    
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();

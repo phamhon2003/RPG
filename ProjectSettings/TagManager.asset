@@ -8,6 +8,7 @@ TagManager:
   - Tree
   - Potato
   - Enemy
+  - Solder
   layers:
   - Default
   - TransparentFX

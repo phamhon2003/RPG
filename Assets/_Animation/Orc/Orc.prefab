@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 2763645261144352687}
   - component: {fileID: 4090007041621579742}
   - component: {fileID: 8762097499641460675}
-  - component: {fileID: 3883479667662866667}
   m_Layer: 0
   m_Name: Orc
   m_TagString: Enemy
@@ -107,6 +106,7 @@ MonoBehaviour:
   HP: 100
   Enemyanimator: {fileID: 0}
   MoveSpeed: 2.5
+  isMoving: 0
 --- !u!70 &4090007041621579742
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -141,8 +141,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.004528332, y: -0.0078403475}
-  m_Size: {x: 0.15480137, y: 0.21468449}
+  m_Offset: {x: -0.041112136, y: 0.0053991796}
+  m_Size: {x: 0.11670571, y: 0.18820544}
   m_Direction: 0
 --- !u!95 &8762097499641460675
 Animator:
@@ -166,42 +166,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!58 &3883479667662866667
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3747537804936090767}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Radius: 4.3423815
 --- !u!1 &5659685415116883315
 GameObject:
   m_ObjectHideFlags: 0
@@ -212,13 +176,14 @@ GameObject:
   m_Component:
   - component: {fileID: 7485750908808424960}
   - component: {fileID: 6015990916621336677}
+  - component: {fileID: 6686813998018761356}
   m_Layer: 0
   m_Name: Arrrange
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &7485750908808424960
 Transform:
   m_ObjectHideFlags: 0
@@ -269,4 +234,17 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.62
+  m_Radius: 0.76
+--- !u!114 &6686813998018761356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5659685415116883315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34b9d6fba8458194f8365fcd593caf02, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _Damage: 0

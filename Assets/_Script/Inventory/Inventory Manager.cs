@@ -1,4 +1,4 @@
-using JetBrains.Annotations;
+﻿using JetBrains.Annotations;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEditorInternal.VersionControl;
@@ -8,13 +8,15 @@ using static UnityEditor.Progress;
 public class InventoryManager : MonoBehaviour
 {
     public static InventoryManager instance;
-    public int countMaxstack=99;
-    public InventorySlot[] InventorySlots;
+    public int countMaxstack = 99;
+    public InventorySlot[] InventorySlots,InventorySlotWhenOpenChest;
     public GameObject inventoryItemprefab;
     public int selectdslot = -1;
-    public List<Item> Listitem;
+    public List<Item> Listitem, ListTest;
     public CraftingRecipe CraftingRecipe;
     public Item ItemSelection;
+    [SerializeField] Item itemadd;
+
     private void Awake()
     {
         instance = this;
@@ -22,48 +24,39 @@ public class InventoryManager : MonoBehaviour
 
     private void Start()
     {
-        int count = 0; 
-        foreach (Item item in Listitem)
-        {
-            if (item.count > 0)
-            {
-                InventorySlot slot = InventorySlots[count];
-                InventoryItem itemItem = slot.GetComponentInChildren<InventoryItem>();
-                SpawnNewItem(item,slot);
-                count++;
-            }
-        }   
         changeselectedSlot(0);
     }
     private void Update()
     {
-        if(Input.inputString != null)
+        if (Input.GetKeyDown(KeyCode.P)) addItem(itemadd, 10);
+        if (Input.GetKeyDown(KeyCode.K)) SaveInventory();
+        if (Input.GetKeyDown(KeyCode.L)) LoadInventory();
+        if (Input.inputString != null)
         {
             bool inumber = int.TryParse(Input.inputString, out int number);
-   
-            if (inumber && number > 0 && number < 8) {
-                changeselectedSlot(number-1);
+
+            if (inumber && number > 0 && number < 8)
+            {
+                changeselectedSlot(number - 1);
                 Debug.Log(number);
             }
         }
-        if (InventorySlots[selectdslot].GetComponentInChildren<InventoryItem>() != null)
+        if (selectdslot >= 0 && selectdslot < InventorySlots.Length)
         {
-            ItemSelection = InventorySlots[selectdslot].GetComponentInChildren<InventoryItem>().item;
+            InventoryItem selectedItem = InventorySlots[selectdslot].GetComponentInChildren<InventoryItem>();
+            ItemSelection = selectedItem != null ? selectedItem.itemInstance.item : null;
         }
-        else
-        {
-            ItemSelection = null;
-        }    
     }
     void changeselectedSlot(int newvalue)
-    {   if (selectdslot >= 0)
+    {
+        if (selectdslot >= 0)
         {
             InventorySlots[selectdslot].deSelect();
         }
         InventorySlots[newvalue].Select();
         selectdslot = newvalue;
     }
-    public void addItem(Item item)
+    public void addItem(Item item, int count = 1)
     {
         for (int i = 0; i < InventorySlots.Length; i++)
         {
@@ -71,18 +64,44 @@ public class InventoryManager : MonoBehaviour
             InventoryItem itemItem = slot.GetComponentInChildren<InventoryItem>();
 
             if (itemItem != null &&
-                itemItem.item==item &&
-                itemItem.Count<countMaxstack&&
-                itemItem.item.stackable==true){
-                //itemItem.Count++;
-                addcountitem(item);
-                itemItem.refreshcount();                
+                itemItem.itemInstance.item == item &&
+                itemItem.itemInstance.count < countMaxstack &&
+                itemItem.itemInstance.IsStackable())
+            {
+                //addcountitem(item);
+                itemItem.itemInstance.count += count;
+                itemItem.refreshcount();
                 return;
             }
-            if (itemItem == null && item.count<=0) {
-                SpawnNewItem(item, slot);
+            if (itemItem == null)
+            {
+                SpawnNewItem(item, slot, count);
                 //Listitem.Add(item);
-                addcountitem(item);
+                //addcountitem(item);
+                return;
+            }
+        }
+    }
+
+    public void RemoveItem(Item item, int count = 1)
+    {
+        for (int i = 0; i < InventorySlots.Length; i++)
+        {
+            InventorySlot slot = InventorySlots[i];
+            InventoryItem itemInSlot = slot.GetComponentInChildren<InventoryItem>();
+
+            if (itemInSlot != null &&
+                itemInSlot.itemInstance.item == item)
+            {
+                if (itemInSlot.itemInstance.count > count)
+                {
+                    itemInSlot.itemInstance.count -= count;
+                    itemInSlot.refreshcount();
+                }
+                else
+                {
+                    Destroy(itemInSlot.gameObject);
+                }
                 return;
             }
         }
@@ -90,81 +109,107 @@ public class InventoryManager : MonoBehaviour
     public void crafting(CraftingRecipe recipe)
     {
         if (Cancraft(recipe))
-        {            
-            if(recipe.resultItem.stackable == true || recipe.resultItem.count==0)
-            {
-                
-                removeIngredients(recipe);
-            }
+        {
+            removeIngredients(recipe);
             addItem(recipe.resultItem);
-            for (int i = 0; i < InventorySlots.Length; i++)
+
+            foreach (var slot in InventorySlots)
             {
-                InventorySlot slot = InventorySlots[i];
-                InventoryItem itemItem = slot.GetComponentInChildren<InventoryItem>();
-                if (itemItem != null)
+                InventoryItem itemInSlot = slot.GetComponentInChildren<InventoryItem>();
+                if (itemInSlot != null)
                 {
-                    itemItem.refreshcount();
+                    itemInSlot.refreshcount();
                 }
             }
         }
-       
     }
     bool Cancraft(CraftingRecipe recipe)
     {
-        int count = 0;
+        int matchCount = 0;
         foreach (CraftingIngredient material in recipe.ingredients)
         {
-            foreach (Item item in Listitem)
+            foreach (var slot in InventorySlots)
             {
-                if (material.item.name == item.name && material.quantity <= item.count)
+                InventoryItem itemInSlot = slot.GetComponentInChildren<InventoryItem>();
+                if (itemInSlot != null &&
+                    itemInSlot.itemInstance.item.name == material.item.name &&
+                    itemInSlot.itemInstance.count >= material.quantity)
                 {
-                    count++;                  
+                    matchCount++;
+                    break;
                 }
             }
         }
-        if (count == recipe.ingredients.Count)
-        {   
-            return true;
-            
-        }
-        return false;
+        return matchCount == recipe.ingredients.Count;
     }
     void removeIngredients(CraftingRecipe recipe)
     {
         foreach (CraftingIngredient material in recipe.ingredients)
         {
-            foreach (Item item in Listitem)
-            {
-                if (material.item.name == item.name && material.quantity < item.count)
-                {                  
-                    item.count -= material.quantity;
-                }
-            }
+            RemoveItem(material.item, material.quantity);
         }
     }
-    void addcountitem(Item addcountitem)
+    void SpawnNewItem(Item item, InventorySlot slot, int count = 1)
     {
-        foreach (Item item2 in Listitem)
-        {
-            if (addcountitem.name == item2.name)
-            {
-                item2.count++;
-            }
-        }
-    }
-    void SpawnNewItem(Item item,InventorySlot slot)
-    {
-        GameObject newitem = Instantiate(inventoryItemprefab,slot.transform);
-        InventoryItem inventoryItem= newitem.GetComponent<InventoryItem>();
-        inventoryItem.InitialiseItem(item);
+        GameObject newitem = Instantiate(inventoryItemprefab, slot.transform);
+        InventoryItem inventoryItem = newitem.GetComponent<InventoryItem>();
+        inventoryItem.InitialiseItem(item, count);
     }
     public Item GetSelectItem()
     {
         InventorySlot slot = InventorySlots[selectdslot];
         InventoryItem itemInSlot = slot.GetComponentInChildren<InventoryItem>();
-        if (itemInSlot != null) { 
-            return itemInSlot.item;
+        return itemInSlot != null ? itemInSlot.itemInstance.item : null;
+    }
+
+    public void SaveInventory()
+    {
+        List<SavedItemData> saveData = new List<SavedItemData>();
+
+        foreach (var slot in InventorySlots)
+        {
+            InventoryItem item = slot.GetComponentInChildren<InventoryItem>();
+            if (item != null)
+            {
+                saveData.Add(new SavedItemData(item.itemInstance.item.name, item.itemInstance.count));
+            }
         }
-        return null;
+
+        string json = JsonUtility.ToJson(new SaveWrapper { items = saveData }, true);
+        PlayerPrefs.SetString("InventoryData", json);
+        PlayerPrefs.Save();
+        Debug.Log("Inventory Saved: " + json);
+    }
+
+    public void LoadInventory()
+    {
+        string json = PlayerPrefs.GetString("InventoryData", "");
+        Debug.Log("Trying to load inventory: " + json);
+        if (string.IsNullOrEmpty(json)) return;
+        Debug.Log("load");
+        SaveWrapper wrapper = JsonUtility.FromJson<SaveWrapper>(json);
+
+        foreach (var slot in InventorySlots)
+        {
+            foreach (Transform child in slot.transform)
+            {
+                Destroy(child.gameObject);
+            }
+        }
+        Debug.Log("load");
+        foreach (var data in wrapper.items)
+        {
+            Item item = ListTest.Find(i => i.name == data.itemName);
+            if (item != null)
+            {
+                addItem(item, data.count);
+            }
+        }
+    }
+
+    [System.Serializable]
+    class SaveWrapper
+    {
+        public List<SavedItemData> items;
     }
 }

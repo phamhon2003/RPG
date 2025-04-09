@@ -38,7 +38,7 @@ public class Potato : MonoBehaviour, CanGethit
     }
     public void Gethit()
     {
-        Gamemanager.instance.TimapsManager.movepos(transform.position);
+        TimapsManager.instance.movepos(transform.position);
         Destroy(gameObject);
     }
 }

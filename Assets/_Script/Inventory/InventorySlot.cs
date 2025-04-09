@@ -21,13 +21,22 @@ public class InventorySlot : MonoBehaviour,IDropHandler
     }
     public void OnDrop(PointerEventData eventData)
     {
+        InventoryItem inventoryItem = eventData.pointerDrag.GetComponent<InventoryItem>();
         if (transform.childCount == 0)
-        {
-            InventoryItem inventoryItem = eventData.pointerDrag.GetComponent<InventoryItem>();
+        {        
             inventoryItem.parentAfterDrag = transform;
+            return;
+        }
+        if(transform.childCount !=0)
+        {
+            InventoryItem inventoryItemOnDrop = transform.GetChild(0).GetComponent<InventoryItem>();
+            if (inventoryItem.itemInstance.item == inventoryItemOnDrop.itemInstance.item)
+            {
+                Debug.Log("childcount");
+                inventoryItemOnDrop.itemInstance.count += inventoryItem.itemInstance.count;
+                inventoryItemOnDrop.refreshcount();
+                Destroy(inventoryItem.gameObject);
+            }
         }
     }
-
-    
-    
 }

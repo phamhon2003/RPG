@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 60e9f44518efa8b4681ad6588debe4d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8052900151638947154
+    second: White Cow Walk_0
+  - first:
+      213: -8694052947149779909
+    second: White Cow Walk_1
+  - first:
+      213: 1419405807335952576
+    second: White Cow Walk_2
+  - first:
+      213: 8853861270504037478
+    second: White Cow Walk_3
+  - first:
+      213: -5556342291460878815
+    second: White Cow Walk_4
+  - first:
+      213: 4421211610113885424
+    second: White Cow Walk_5
+  - first:
+      213: -29307926634533693
+    second: White Cow Walk_6
+  - first:
+      213: 3024767656701010652
+    second: White Cow Walk_7
+  - first:
+      213: 7343955875873796914
+    second: White Cow Walk_8
+  - first:
+      213: -4314964156434915521
+    second: White Cow Walk_9
+  - first:
+      213: -5274818731741116304
+    second: White Cow Walk_10
+  - first:
+      213: -6795535422929939917
+    second: White Cow Walk_11
+  - first:
+      213: -974869303182685279
+    second: White Cow Walk_12
+  - first:
+      213: -6046446579515214487
+    second: White Cow Walk_13
+  - first:
+      213: -8352272310793090482
+    second: White Cow Walk_14
+  - first:
+      213: -6558949846758526602
+    second: White Cow Walk_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White Cow Walk_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 206
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa0fd96af95e3090800000000000000
+      internalID: -8052900151638947154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 208
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c03ba58e4885780800000000000000
+      internalID: -8694052947149779909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 206
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0d26abf0eb2b310800000000000000
+      internalID: 1419405807335952576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 208
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c5bfe6aeb3fda70800000000000000
+      internalID: 8853861270504037478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 142
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e8efaef18e3e2b0800000000000000
+      internalID: -5556342291460878815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 144
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4cba9e88c4b5d30800000000000000
+      internalID: 4421211610113885424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 142
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc68d39890e79ff0800000000000000
+      internalID: -29307926634533693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 144
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd221c968222af920800000000000000
+      internalID: 3024767656701010652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 79
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233b99b85f8fae560800000000000000
+      internalID: 7343955875873796914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f572d16fa2e14c0800000000000000
+      internalID: -4314964156434915521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 79
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0788ef78f441cc6b0800000000000000
+      internalID: -5274818731741116304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 79
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3325da1898861b1a0800000000000000
+      internalID: -6795535422929939917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab0d59a8819872f0800000000000000
+      internalID: -974869303182685279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 15
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965be921fd4b61ca0800000000000000
+      internalID: -6046446579515214487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 15
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ac8d7e594c61c80800000000000000
+      internalID: -8352272310793090482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Walk_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 15
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671fa5c7ddde9f4a0800000000000000
+      internalID: -6558949846758526602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      White Cow Walk_0: -8052900151638947154
+      White Cow Walk_1: -8694052947149779909
+      White Cow Walk_10: -5274818731741116304
+      White Cow Walk_11: -6795535422929939917
+      White Cow Walk_12: -974869303182685279
+      White Cow Walk_13: -6046446579515214487
+      White Cow Walk_14: -8352272310793090482
+      White Cow Walk_15: -6558949846758526602
+      White Cow Walk_2: 1419405807335952576
+      White Cow Walk_3: 8853861270504037478
+      White Cow Walk_4: -5556342291460878815
+      White Cow Walk_5: 4421211610113885424
+      White Cow Walk_6: -29307926634533693
+      White Cow Walk_7: 3024767656701010652
+      White Cow Walk_8: 7343955875873796914
+      White Cow Walk_9: -4314964156434915521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

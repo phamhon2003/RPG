@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 856ff34acfa227e429fa5424e118b0cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5554445947889580132
+    second: White Cow Sleeping_0
+  - first:
+      213: 3952398603972951209
+    second: White Cow Sleeping_1
+  - first:
+      213: 8625712741427786326
+    second: White Cow Sleeping_2
+  - first:
+      213: -4107632250725179693
+    second: White Cow Sleeping_3
+  - first:
+      213: 1017839580513188835
+    second: White Cow Sleeping_4
+  - first:
+      213: -9014737560373787317
+    second: White Cow Sleeping_5
+  - first:
+      213: -2002850743195533473
+    second: White Cow Sleeping_6
+  - first:
+      213: 6009544335578377620
+    second: White Cow Sleeping_7
+  - first:
+      213: 3768987665291074074
+    second: White Cow Sleeping_8
+  - first:
+      213: 8916788160497396523
+    second: White Cow Sleeping_9
+  - first:
+      213: 8326041314179952346
+    second: White Cow Sleeping_10
+  - first:
+      213: -1507664621373555590
+    second: White Cow Sleeping_11
+  - first:
+      213: -1275577505779086075
+    second: White Cow Sleeping_12
+  - first:
+      213: -6685584520841472456
+    second: White Cow Sleeping_13
+  - first:
+      213: 6552896039963647220
+    second: White Cow Sleeping_14
+  - first:
+      213: -2662492980772367660
+    second: White Cow Sleeping_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White Cow Sleeping_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 206
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468f010392b551d40800000000000000
+      internalID: 5554445947889580132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 206
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acbe80f69db9d630800000000000000
+      internalID: 3952398603972951209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 206
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6523d5f8900b4b770800000000000000
+      internalID: 8625712741427786326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 206
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de569b2b32cef6c0800000000000000
+      internalID: -4107632250725179693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 141
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb32daa4b7102e00800000000000000
+      internalID: 1017839580513188835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 140
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b458c8273f735e280800000000000000
+      internalID: -9014737560373787317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 139
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ff3b15cd17434e0800000000000000
+      internalID: -2002850743195533473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 140
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d2c18bbb0366350800000000000000
+      internalID: 6009544335578377620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 76
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ad08800522e4430800000000000000
+      internalID: 3768987665291074074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 76
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b2bdbb69bcebb70800000000000000
+      internalID: 8916788160497396523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 76
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade2ce4467a0c8370800000000000000
+      internalID: 8326041314179952346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 76
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cfa9ac303b31be0800000000000000
+      internalID: -1507664621373555590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 12
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d0f8c440d3c4ee0800000000000000
+      internalID: -1275577505779086075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 12
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836d46fcc480833a0800000000000000
+      internalID: -6685584520841472456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 12
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcd818ca3090fa50800000000000000
+      internalID: 6552896039963647220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Sleeping_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 12
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d297109dbcec0bd0800000000000000
+      internalID: -2662492980772367660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      White Cow Sleeping_0: 5554445947889580132
+      White Cow Sleeping_1: 3952398603972951209
+      White Cow Sleeping_10: 8326041314179952346
+      White Cow Sleeping_11: -1507664621373555590
+      White Cow Sleeping_12: -1275577505779086075
+      White Cow Sleeping_13: -6685584520841472456
+      White Cow Sleeping_14: 6552896039963647220
+      White Cow Sleeping_15: -2662492980772367660
+      White Cow Sleeping_2: 8625712741427786326
+      White Cow Sleeping_3: -4107632250725179693
+      White Cow Sleeping_4: 1017839580513188835
+      White Cow Sleeping_5: -9014737560373787317
+      White Cow Sleeping_6: -2002850743195533473
+      White Cow Sleeping_7: 6009544335578377620
+      White Cow Sleeping_8: 3768987665291074074
+      White Cow Sleeping_9: 8916788160497396523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

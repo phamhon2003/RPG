@@ -9,14 +9,14 @@ public interface ISelected
     public void ActionWhenSelected(Vector3 Pos);
     public void UnSelected();
 }
-public class Solder : MonoBehaviour, ISelected
+public class Solder : MonoBehaviour, ISelected, action
 {
     
     [SerializeField] private float MoveSpeed,Damage;
     [SerializeField] private GameObject SelectedBackground;
-    [SerializeField] float HP = 100f;
+    public float HP = 100f;
     public Animator Solderanimator;
-    public bool isMoving;
+    public bool isMoving,MovingToPos=false;
     void Start()
     {
         Solderanimator = GetComponent<Animator>();
@@ -65,10 +65,17 @@ public class Solder : MonoBehaviour, ISelected
     private IEnumerator IEMove(Vector3 newPos)
     {
         while (transform.position != newPos)
-        {
+        {   
+            MovingToPos=true;
             MoveToPos(newPos);
             yield return null;
         }
+        yield return new WaitForSeconds(2f);
+        MovetoposClick();
+    }
+    void MovetoposClick()
+    {
+        MovingToPos = false;
     }
     public void StartMoveToPos(Vector3 NewPos)
     {

@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour, action
 {
-    [SerializeField] float HP = 100f;
-    [SerializeField] Animator Enemyanimator;
+    public float HP = 100f;
+    public Animator Enemyanimator;
     [SerializeField] private float MoveSpeed;
-    bool isMoving;
+    public bool isMoving;
     void Start()
     {
         Enemyanimator = GetComponent<Animator>();
@@ -31,9 +31,16 @@ public class Enemy : MonoBehaviour, action
     {
         gameObject.SetActive(false);
     }
-    private void MoveToPos(Vector3 newPos)
+    public void MoveToPos(Vector3? newPos)
     {
-        transform.position = Vector3.MoveTowards(transform.position, newPos, MoveSpeed * Time.deltaTime);
+        if (newPos == null)
+        {
+            Enemyanimator.SetBool("isWalking", false);
+            isMoving = false;
+            return;
+        }
+        Vector3 targetPos = newPos.Value;
+        transform.position = Vector3.MoveTowards(transform.position, targetPos, MoveSpeed * Time.deltaTime);
         if (transform.position != newPos)
         {
             if (!isMoving)
@@ -42,34 +49,19 @@ public class Enemy : MonoBehaviour, action
                 isMoving = true;
             }
         }
-        if (newPos.x < transform.position.x)
+        else
+        {
+            Enemyanimator.SetBool("isWalking", false);
+            isMoving = false;
+        }
+        if (targetPos.x < transform.position.x)
         {
             transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
         }
-        else if (newPos.x > transform.position.x)
+        else if (targetPos.x > transform.position.x)
         {
             transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
         }
     }
-    public void OnTriggerStay2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Player") || collision.CompareTag("Solder"))
-        {
-            if (Vector3.Distance(transform.position, collision.transform.position) > 1.5f && Vector3.Distance(transform.position, collision.transform.position) <= 2.5f)
-            {
-                MoveToPos(collision.transform.position);
-            }
-            else if (Vector3.Distance(transform.position, collision.transform.position) <= 1.5f) {
-                isMoving = false;
-                Enemyanimator.SetBool("isWalking", false);
-                //Invoke("Attack", 0.5f);          
-            }
-            else if (Vector3.Distance(transform.position, collision.transform.position) > 2.5f)
-            {
-                isMoving = false;
-                Enemyanimator.SetBool("isWalking", false);
-                //Invoke("Attack", 0.5f);          
-            }
-        }
-    }
+
 }

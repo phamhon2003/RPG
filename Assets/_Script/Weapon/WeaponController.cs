@@ -8,24 +8,21 @@ public class WeaponController : MonoBehaviour
     [SerializeField] float _bulletspeed,_bulletdamege,_lifetime;
     public Transform player;  
     public float orbitRadius = 1f; 
-    Vector3 _position;
     void Start()
     {
         
         
     }
     void Update()
-    {
-            _position = new Vector3(player.position.x, player.position.y + 1f);
-        
+    { 
             Vector3 mouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             mouseWorldPos.z = 0; // Đảm bảo không thay đổi trục Z (2D)
 
             // Tính hướng từ nhân vật đến chuột
-            Vector2 direction = (mouseWorldPos - _position).normalized;
+            Vector2 direction = (mouseWorldPos - player.position).normalized;
 
             // Cập nhật vị trí vũ khí theo hướng chuột, giữ bán kính cố định
-            transform.position = (Vector2)_position + direction * orbitRadius;
+            transform.position = (Vector2)player.position + direction * orbitRadius;
             float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
             transform.rotation = Quaternion.Euler(0, 0, angle);
         

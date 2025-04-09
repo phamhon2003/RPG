@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 643cfe4b470de9048a11360b770704bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3201798377203550977
+    second: White Cow Idle_0
+  - first:
+      213: 3600734412965997428
+    second: White Cow Idle_1
+  - first:
+      213: 2041263207017289016
+    second: White Cow Idle_2
+  - first:
+      213: 5808827784918227923
+    second: White Cow Idle_3
+  - first:
+      213: 7627301738077957332
+    second: White Cow Idle_4
+  - first:
+      213: 4655478385885419586
+    second: White Cow Idle_5
+  - first:
+      213: -4850326667929595210
+    second: White Cow Idle_6
+  - first:
+      213: 2437506204886420016
+    second: White Cow Idle_7
+  - first:
+      213: -3369195734886492932
+    second: White Cow Idle_8
+  - first:
+      213: -4809018282369095453
+    second: White Cow Idle_9
+  - first:
+      213: -6640736778765334470
+    second: White Cow Idle_10
+  - first:
+      213: -5580361773311670078
+    second: White Cow Idle_11
+  - first:
+      213: 7061386612528010866
+    second: White Cow Idle_12
+  - first:
+      213: 6578403320384573981
+    second: White Cow Idle_13
+  - first:
+      213: 6899890041833501544
+    second: White Cow Idle_14
+  - first:
+      213: -4798944568333903530
+    second: White Cow Idle_15
+  - first:
+      213: -6840888689671409976
+    second: White Cow Idle_16
+  - first:
+      213: -5043811391450897136
+    second: White Cow Idle_17
+  - first:
+      213: -8332622920025228878
+    second: White Cow Idle_18
+  - first:
+      213: -2221566266170050622
+    second: White Cow Idle_19
+  - first:
+      213: 3498740723601850711
+    second: White Cow Idle_20
+  - first:
+      213: -5558867901106185326
+    second: White Cow Idle_21
+  - first:
+      213: 1561914184712692143
+    second: White Cow Idle_22
+  - first:
+      213: -5879594704143845453
+    second: White Cow Idle_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White Cow Idle_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 207
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bc3a309a21f6c20800000000000000
+      internalID: 3201798377203550977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 207
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bec5ffed068f130800000000000000
+      internalID: 3600734412965997428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 207
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835175b5216045c10800000000000000
+      internalID: 2041263207017289016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 207
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db5879081a1d9050800000000000000
+      internalID: 5808827784918227923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 207
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc2bd4058e99d960800000000000000
+      internalID: 7627301738077957332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 207
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248953a1de49b9040800000000000000
+      internalID: 4655478385885419586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 143
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2d379f79d20bcb0800000000000000
+      internalID: -4850326667929595210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 143
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ac0189af2c3d120800000000000000
+      internalID: 2437506204886420016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 143
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4545374563e31d0800000000000000
+      internalID: -3369195734886492932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 143
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8e709f95fe24db0800000000000000
+      internalID: -4809018282369095453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 143
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3802d6751d57d3a0800000000000000
+      internalID: -6640736778765334470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 143
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8c69f78829e82b0800000000000000
+      internalID: -5580361773311670078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2765e6516b51ff160800000000000000
+      internalID: 7061386612528010866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12d5cc47fe2b4b50800000000000000
+      internalID: 6578403320384573981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 79
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863bdb49f6551cf50800000000000000
+      internalID: 6899890041833501544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 79
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659daab4759b66db0800000000000000
+      internalID: -4798944568333903530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 79
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cee5283bf74011a0800000000000000
+      internalID: -6840888689671409976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 79
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01520824348c00ab0800000000000000
+      internalID: -5043811391450897136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b93e943a939c5c80800000000000000
+      internalID: -8332622920025228878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c771f350496b21e0800000000000000
+      internalID: -2221566266170050622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7514b77a6260e8030800000000000000
+      internalID: 3498740723601850711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 15
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b9e39981fead2b0800000000000000
+      internalID: -5558867901106185326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 15
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1a175fca80da510800000000000000
+      internalID: 1561914184712692143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Cow Idle_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 15
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7fc3c94cb776ea0800000000000000
+      internalID: -5879594704143845453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      White Cow Idle_0: 3201798377203550977
+      White Cow Idle_1: 3600734412965997428
+      White Cow Idle_10: -6640736778765334470
+      White Cow Idle_11: -5580361773311670078
+      White Cow Idle_12: 7061386612528010866
+      White Cow Idle_13: 6578403320384573981
+      White Cow Idle_14: 6899890041833501544
+      White Cow Idle_15: -4798944568333903530
+      White Cow Idle_16: -6840888689671409976
+      White Cow Idle_17: -5043811391450897136
+      White Cow Idle_18: -8332622920025228878
+      White Cow Idle_19: -2221566266170050622
+      White Cow Idle_2: 2041263207017289016
+      White Cow Idle_20: 3498740723601850711
+      White Cow Idle_21: -5558867901106185326
+      White Cow Idle_22: 1561914184712692143
+      White Cow Idle_23: -5879594704143845453
+      White Cow Idle_3: 5808827784918227923
+      White Cow Idle_4: 7627301738077957332
+      White Cow Idle_5: 4655478385885419586
+      White Cow Idle_6: -4850326667929595210
+      White Cow Idle_7: 2437506204886420016
+      White Cow Idle_8: -3369195734886492932
+      White Cow Idle_9: -4809018282369095453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

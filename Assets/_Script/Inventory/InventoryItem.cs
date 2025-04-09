@@ -1,9 +1,11 @@
-//using System.Collections;
+﻿//using System.Collections;
 //using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using TMPro;
+using UnityEditorInternal.Profiling.Memory.Experimental;
+using Unity.VisualScripting;
 
 
 public class InventoryItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
@@ -11,21 +13,32 @@ public class InventoryItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
     [Header("UI")]
     public Image image;
     public Text countText;
-    [HideInInspector] public Item item;
-    [HideInInspector] public int Count=1;
+    [HideInInspector] public int Count = 1;
     [HideInInspector] public Transform parentAfterDrag;
-    public void InitialiseItem(Item newitem)
-    {   
-        this.item = newitem;
-        image.sprite=newitem.image;
+    public ItemInstance itemInstance;
+    
+    
+    public void InitialiseItem(Item item, int count = 1)
+    {
+        itemInstance = new ItemInstance(item, count);
+        image.sprite = itemInstance.GetSprite();
         refreshcount();
     }
+
     public void refreshcount()
-    {   
-        Count = item.count;
-        countText.text=Count.ToString();
-        bool textActive = Count >= 1;
-        countText.gameObject.SetActive(textActive);
+    {
+        if (itemInstance != null)
+        {
+            if (itemInstance.count > 1)
+            {
+                countText.text = itemInstance.count.ToString();
+                countText.enabled = true;
+            }
+            else
+            {
+                countText.enabled = false;
+            }
+        }
     }
     public void OnBeginDrag(PointerEventData eventData)
     {
@@ -35,11 +48,14 @@ public class InventoryItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
     }
     public void OnDrag(PointerEventData eventData)
     {
-       transform.position = Input.mousePosition;
+        transform.position = Input.mousePosition;
     }
     public void OnEndDrag(PointerEventData eventData)
     {
         image.raycastTarget = true;
         transform.SetParent(parentAfterDrag);
+        
     }
+    
 }
+

@@ -1,4 +1,7 @@
+Ôªøusing System.Collections;
+using TMPro;
 using Unity.VisualScripting;
+using UnityEditor.Rendering.LookDev;
 using UnityEngine;
 using UnityEngine.Assertions.Must;
 using UnityEngine.Tilemaps;
@@ -8,7 +11,7 @@ public class PlayerController : MonoBehaviour, action
     [SerializeField] Tilemap interactabbleMap;
     [SerializeField] float MoveSpeed,Damage;
     float SpeedX, SpeedY;
-    private Vector2 Movement,positionray;
+    private Vector2 Movement;
     Rigidbody2D rb;
     Animator MyAnimator;
     bool facingRight = true;
@@ -16,11 +19,13 @@ public class PlayerController : MonoBehaviour, action
     bool canmove = true,cooldowntimecandig=true;
     bool stonedetection, treedetection;
     RaycastHit2D hit;
-    public LayerMask targetLayer; // L?p m‡ Raycast cÛ th? ch?m v‡o
+    public LayerMask targetLayer; // L?p m√† Raycast c√≥ th? ch?m v√†o
     public GameObject khoai,weapon;
     public Transform aim;
     public WeaponController weaponController;
-    
+    private Coroutine moveCoroutine;
+
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -30,7 +35,7 @@ public class PlayerController : MonoBehaviour, action
     
     private void Update()
     {
-        if (Input.inputString!=null) {
+        if (Input.inputString!=null && InventoryManager.instance.ItemSelection!=null) {
             bool inumber = int.TryParse(Input.inputString, out int number);
 
             if (inumber && InventoryManager.instance.ItemSelection.Name == "Bow")
@@ -42,7 +47,8 @@ public class PlayerController : MonoBehaviour, action
                 weapon.SetActive(false);
             }
         }
-        ShootRay();    
+        ShootRay();
+        InteractFarm();
         if (Input.GetKeyDown(KeyCode.Space))
         {
             if (InventoryManager.instance.ItemSelection != null)
@@ -64,7 +70,8 @@ public class PlayerController : MonoBehaviour, action
                         break;
                     case "Ax":
                         if (!iswalks)
-                        {                            
+                        {
+                            Debug.Log(treedetection);                         
                             if (treedetection && cooldowntimecandig)
                             {
                                 if (hit.collider != null)
@@ -73,21 +80,6 @@ public class PlayerController : MonoBehaviour, action
                                     hit.collider.GetComponent<CanGethit>().Gethit();
                                 }
                             }
-                        }
-                        break;
-                    case "Shovel":
-                        if (SpeedX == 0 && SpeedY == 0)
-                        {
-                            interacmap();
-                            GetComponentInChildren<Harvest>().CanHarvest();
-                        }
-                        break;
-                    case "Khoai":
-
-                        if (Gamemanager.instance.TimapsManager.cantrongkhoai(getpostile()) && Gamemanager.instance.TimapsManager.checkpos(Gamemanager.instance.TimapsManager.getpos(getpostile())))
-                        {
-                            Instantiate(khoai, Gamemanager.instance.TimapsManager.getpos(getpostile()), Quaternion.identity);
-                            Gamemanager.instance.TimapsManager.addpos(Gamemanager.instance.TimapsManager.getpos(getpostile()));
                         }
                         break;
                     case "Bow":
@@ -104,34 +96,28 @@ public class PlayerController : MonoBehaviour, action
                 }
             }
         }
-
     }
     private void FixedUpdate()
     {
-        positionray = new Vector2(transform.position.x,transform.position.y+0.8f);
-        Debug.DrawRay(positionray, transform.localScale.x > 0 ? Vector2.right * 2f : Vector2.left * 2f, Color.red);
-        move();
+        Debug.DrawRay(transform.position, transform.localScale.x > 0 ? Vector2.right * 2f : Vector2.left * 2f, Color.red);
+        Move();
         
     }
 
-    void interacmap()
+    void interacmap(Vector3Int Pos)
     {
             
             //Vector3Int tilePosition = interactabbleMap.WorldToCell(positon);
-            if (Gamemanager.instance.TimapsManager.IsInteractable(getpostile()))
+            if (TimapsManager.instance.IsInteractable(Pos))
             {            
-                Gamemanager.instance.TimapsManager.settileinterac(getpostile());
+                TimapsManager.instance.settileinterac(Pos);
                 Dig();
             }
         
     }
-    Vector3Int getpostile()
-    {
-        Vector3Int positon = new Vector3Int((int)(transform.position.x-1f ), (int)(transform.position.y ), 0);
-        return positon;
-    }
+    
 
-    void move()
+    void Move()
     {
         if (canmove == true)
         {
@@ -157,7 +143,12 @@ public class PlayerController : MonoBehaviour, action
         {
             iswalks = true;
         }
-        
+        if (Movement != Vector2.zero && moveCoroutine != null)
+        {
+            StopCoroutine(moveCoroutine);
+            moveCoroutine = null; 
+        }
+
     }
     
     void Mining()
@@ -167,6 +158,64 @@ public class PlayerController : MonoBehaviour, action
         cooldowntimecandig = false;
         Invoke("timecandig", 0.6f);
         
+    }
+    void InteractFarm()
+    {
+        if (Input.GetMouseButtonDown(0)) {
+            Vector3Int Pos = TimapsManager.instance.getpostile(Camera.main.ScreenToWorldPoint(Input.mousePosition));
+            if (InventoryManager.instance.ItemSelection != null && TimapsManager.instance.HightlightTile)
+            {
+                if (moveCoroutine != null)
+                {
+                    StopCoroutine(moveCoroutine);
+                }               
+                moveCoroutine = StartCoroutine(MoveToClickPosition(TimapsManager.instance.GetCenterTile(), () =>
+                {
+                    HandleInteraction(Pos);
+                }));
+            }
+        }
+    }
+    void HandleInteraction(Vector3Int Pos)
+    {
+        switch (InventoryManager.instance.ItemSelection.Name)
+        {
+            case "Shovel":
+                if (SpeedX == 0 && SpeedY == 0)
+                {
+                    interacmap(Pos);
+                    GetComponentInChildren<Harvest>().CanHarvest();
+                }
+                break;
+            case "Khoai":
+                //if (Gamemanager.instance.TimapsManager.cantrongkhoai(getpostile()) && Gamemanager.instance.TimapsManager.checkpos(Gamemanager.instance.TimapsManager.getpos(getpostile())))
+
+                    Instantiate(khoai,TimapsManager.instance.GetCenterTile(), Quaternion.identity);
+                    TimapsManager.instance.addpos(TimapsManager.instance.GetCenterTile());
+                    
+                break;
+            default:
+                break;
+        }
+    }
+    IEnumerator MoveToClickPosition(Vector2 targetPosition, System.Action onComplete)
+    {
+        while (Vector2.Distance(rb.position, targetPosition) > 0.1f)
+        {
+            if (rb.position.x < targetPosition.x && !facingRight)
+            {
+                flip();
+            }
+            if (rb.position.x > targetPosition.x && facingRight)
+            {
+                flip();
+            }
+            Vector2 newPosition = Vector2.MoveTowards(rb.position, targetPosition, MoveSpeed * Time.fixedDeltaTime);
+            rb.MovePosition(newPosition);
+            yield return new WaitForFixedUpdate(); 
+        }      
+        moveCoroutine = null;
+        onComplete?.Invoke();
     }
     void Dig()
     {
@@ -193,13 +242,10 @@ public class PlayerController : MonoBehaviour, action
         transform.localScale = currentScale;
         facingRight = !facingRight;
     }
-
-
-   
     void ShootRay()
     {
         
-         hit = Physics2D.Raycast(positionray, transform.localScale.x > 0 ? Vector2.right : Vector2.left , 2f , targetLayer); ;
+         hit = Physics2D.Raycast(transform.position, transform.localScale.x > 0 ? Vector2.right : Vector2.left , 2f , targetLayer); ;
 
         if (hit.collider != null)
         {
@@ -222,7 +268,7 @@ public class PlayerController : MonoBehaviour, action
         }
         else
         {
-           // Debug.Log("KhÙng tr˙ng");
+           // Debug.Log("Kh√¥ng tr√∫ng");
         }
       
     }

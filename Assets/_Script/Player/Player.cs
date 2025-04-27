@@ -26,6 +26,7 @@ public class Player : MonoBehaviour
 
     void SetMouseBeginHold()
     {
+        if (UIManager.Instance.IsOpenIventoryItem) return;
         MousePosBegin = InputManager.instance.MousePosition;
         MousePosEnd = MousePosBegin; 
         SetActiveSelectedArea(false); 
@@ -34,8 +35,8 @@ public class Player : MonoBehaviour
 
     void DrawSelectedArea(Vector2 mousePosBegin, Vector2 mousePosEnd)
     {
+        if (UIManager.Instance.IsOpenIventoryItem) return;
         MousePosEnd = InputManager.instance.MousePosition;
-       
         LeftBottomPos.x = Mathf.Min(mousePosBegin.x, mousePosEnd.x);
         LeftBottomPos.y = Mathf.Min(mousePosBegin.y, mousePosEnd.y);
         RightTopPos.x = Mathf.Max(mousePosBegin.x, mousePosEnd.x);
@@ -50,6 +51,7 @@ public class Player : MonoBehaviour
 
     void SelectAllSoldiersOnAreaSelected()
     {
+        if (UIManager.Instance.IsOpenIventoryItem) return;
         SetActiveSelectedArea(false);
         foreach (Solder S in selectedSoldiers)
         {
@@ -69,6 +71,7 @@ public class Player : MonoBehaviour
     }
     public void MoveSoldiersInCircle(Vector3 targetPos, List<Solder> selectedSoldiers)
     {
+        if (UIManager.Instance.IsOpenIventoryItem) return;
         int soldierCount = selectedSoldiers.Count;
         float baseRadius = 1f;  
         int soldiersPerCircle = 3; 

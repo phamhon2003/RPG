@@ -169,6 +169,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _bullet: {fileID: 4511052713612685843, guid: e0d1658b01b2f094fb753aca59cab431, type: 3}
+  _bulletspeed: 4
+  _bulletdamege: 20
+  _lifetime: 4
   distance: 0
 --- !u!1 &8072182932332352906
 GameObject:

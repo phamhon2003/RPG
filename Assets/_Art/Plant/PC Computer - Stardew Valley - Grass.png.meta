@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: a20acf035be7bc145b02ef8778844984
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8574998576129046750
+    second: PC Computer - Stardew Valley - Grass_0
+  - first:
+      213: 8003885551161748355
+    second: PC Computer - Stardew Valley - Grass_1
+  - first:
+      213: -7716723565758157161
+    second: PC Computer - Stardew Valley - Grass_2
+  - first:
+      213: -9096041611265044366
+    second: PC Computer - Stardew Valley - Grass_3
+  - first:
+      213: 8209723558520556054
+    second: PC Computer - Stardew Valley - Grass_4
+  - first:
+      213: 7449759235615251579
+    second: PC Computer - Stardew Valley - Grass_5
+  - first:
+      213: 8104490504403090966
+    second: PC Computer - Stardew Valley - Grass_6
+  - first:
+      213: 4082473701865940965
+    second: PC Computer - Stardew Valley - Grass_7
+  - first:
+      213: -4385127030135008551
+    second: PC Computer - Stardew Valley - Grass_8
+  - first:
+      213: 3258756602276902221
+    second: PC Computer - Stardew Valley - Grass_9
+  - first:
+      213: -5632728645766185439
+    second: PC Computer - Stardew Valley - Grass_10
+  - first:
+      213: 3295604819130199361
+    second: PC Computer - Stardew Valley - Grass_11
+  - first:
+      213: 4258811573657813148
+    second: PC Computer - Stardew Valley - Grass_12
+  - first:
+      213: 3041677423804619226
+    second: PC Computer - Stardew Valley - Grass_13
+  - first:
+      213: 9005261921896868428
+    second: PC Computer - Stardew Valley - Grass_14
+  - first:
+      213: -2137980813898375400
+    second: PC Computer - Stardew Valley - Grass_15
+  - first:
+      213: -7371161559360503962
+    second: PC Computer - Stardew Valley - Grass_16
+  - first:
+      213: -166593049767491875
+    second: PC Computer - Stardew Valley - Grass_17
+  - first:
+      213: -929810522357183733
+    second: PC Computer - Stardew Valley - Grass_18
+  - first:
+      213: -2153320595358383230
+    second: PC Computer - Stardew Valley - Grass_19
+  - first:
+      213: -1164600719706818233
+    second: PC Computer - Stardew Valley - Grass_20
+  - first:
+      213: -1930182008821520830
+    second: PC Computer - Stardew Valley - Grass_21
+  - first:
+      213: -5566036823340719136
+    second: PC Computer - Stardew Valley - Grass_22
+  - first:
+      213: -8779111845464015331
+    second: PC Computer - Stardew Valley - Grass_23
+  - first:
+      213: -1713607831651974141
+    second: PC Computer - Stardew Valley - Grass_24
+  - first:
+      213: 4084792367395732058
+    second: PC Computer - Stardew Valley - Grass_25
+  - first:
+      213: 7836210089805286726
+    second: PC Computer - Stardew Valley - Grass_26
+  - first:
+      213: -8456625871597873882
+    second: PC Computer - Stardew Valley - Grass_27
+  - first:
+      213: 5232964611878003933
+    second: PC Computer - Stardew Valley - Grass_28
+  - first:
+      213: -1829307626393141969
+    second: PC Computer - Stardew Valley - Grass_29
+  - first:
+      213: 6371276136058027597
+    second: PC Computer - Stardew Valley - Grass_30
+  - first:
+      213: 4924937612510196011
+    second: PC Computer - Stardew Valley - Grass_31
+  - first:
+      213: -1382138462352491313
+    second: PC Computer - Stardew Valley - Grass_32
+  - first:
+      213: -9030738734290381640
+    second: PC Computer - Stardew Valley - Grass_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22709503a3c7ff880800000000000000
+      internalID: -8574998576129046750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ba0eb9083831f60800000000000000
+      internalID: 8003885551161748355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 219
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e69194dc0b8e490800000000000000
+      internalID: -7716723565758157161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 199
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2701062f85e54c180800000000000000
+      internalID: -9096041611265044366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 219
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a06c9541ccee170800000000000000
+      internalID: 8209723558520556054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c5805ed8cd26760800000000000000
+      internalID: 7449759235615251579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 179
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ef870ac2fe87070800000000000000
+      internalID: 8104490504403090966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 199
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7e794b33cd7a830800000000000000
+      internalID: 4082473701865940965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2d6d11336e423c0800000000000000
+      internalID: -4385127030135008551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 159
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d457c283ddd693d20800000000000000
+      internalID: 3258756602276902221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 179
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e70f0e32784d1b0800000000000000
+      internalID: -5632728645766185439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d22544f175cbd20800000000000000
+      internalID: 3295604819130199361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 139
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c904235ef865a1b30800000000000000
+      internalID: 4258811573657813148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 159
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9133f5085363a20800000000000000
+      internalID: 3041677423804619226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aa30c810e19fc70800000000000000
+      internalID: 9005261921896868428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 119
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f9cfaf6cd5452e0800000000000000
+      internalID: -2137980813898375400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 139
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f7d48ad9f54b990800000000000000
+      internalID: -7371161559360503962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd64f8ef08420bdf0800000000000000
+      internalID: -166593049767491875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 119
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bca7a9146a813f0800000000000000
+      internalID: -929810522357183733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283812ac35edd12e0800000000000000
+      internalID: -2153320595358383230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 99
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749f5b4d0d186dfe0800000000000000
+      internalID: -1164600719706818233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 79
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246e75480bd9635e0800000000000000
+      internalID: -1930182008821520830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e36802dff671c2b0800000000000000
+      internalID: -5566036823340719136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e71bf4a445a2680800000000000000
+      internalID: -8779111845464015331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 59
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3048e0691ca0838e0800000000000000
+      internalID: -1713607831651974141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 39
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a79d7140910b830800000000000000
+      internalID: 4084792367395732058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 59
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d0d240f8fcfbc60800000000000000
+      internalID: 7836210089805286726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625d70d239704aa80800000000000000
+      internalID: -8456625871597873882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 19
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4ad2dc6993f9840800000000000000
+      internalID: 5232964611878003933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d7ce7e76efc96e0800000000000000
+      internalID: -1829307626393141969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e79a7a3e15b6850800000000000000
+      internalID: 6371276136058027597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2171a64aa4e85440800000000000000
+      internalID: 4924937612510196011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc33113468a1dce0800000000000000
+      internalID: -1382138462352491313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Grass_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4d243d7fe5ca280800000000000000
+      internalID: -9030738734290381640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ae7f12c998e84a141abd1fe92136983a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Stardew Valley - Grass_0: -8574998576129046750
+      PC Computer - Stardew Valley - Grass_1: 8003885551161748355
+      PC Computer - Stardew Valley - Grass_10: -5632728645766185439
+      PC Computer - Stardew Valley - Grass_11: 3295604819130199361
+      PC Computer - Stardew Valley - Grass_12: 4258811573657813148
+      PC Computer - Stardew Valley - Grass_13: 3041677423804619226
+      PC Computer - Stardew Valley - Grass_14: 9005261921896868428
+      PC Computer - Stardew Valley - Grass_15: -2137980813898375400
+      PC Computer - Stardew Valley - Grass_16: -7371161559360503962
+      PC Computer - Stardew Valley - Grass_17: -166593049767491875
+      PC Computer - Stardew Valley - Grass_18: -929810522357183733
+      PC Computer - Stardew Valley - Grass_19: -2153320595358383230
+      PC Computer - Stardew Valley - Grass_2: -7716723565758157161
+      PC Computer - Stardew Valley - Grass_20: -1164600719706818233
+      PC Computer - Stardew Valley - Grass_21: -1930182008821520830
+      PC Computer - Stardew Valley - Grass_22: -5566036823340719136
+      PC Computer - Stardew Valley - Grass_23: -8779111845464015331
+      PC Computer - Stardew Valley - Grass_24: -1713607831651974141
+      PC Computer - Stardew Valley - Grass_25: 4084792367395732058
+      PC Computer - Stardew Valley - Grass_26: 7836210089805286726
+      PC Computer - Stardew Valley - Grass_27: -8456625871597873882
+      PC Computer - Stardew Valley - Grass_28: 5232964611878003933
+      PC Computer - Stardew Valley - Grass_29: -1829307626393141969
+      PC Computer - Stardew Valley - Grass_3: -9096041611265044366
+      PC Computer - Stardew Valley - Grass_30: 6371276136058027597
+      PC Computer - Stardew Valley - Grass_31: 4924937612510196011
+      PC Computer - Stardew Valley - Grass_32: -1382138462352491313
+      PC Computer - Stardew Valley - Grass_33: -9030738734290381640
+      PC Computer - Stardew Valley - Grass_4: 8209723558520556054
+      PC Computer - Stardew Valley - Grass_5: 7449759235615251579
+      PC Computer - Stardew Valley - Grass_6: 8104490504403090966
+      PC Computer - Stardew Valley - Grass_7: 4082473701865940965
+      PC Computer - Stardew Valley - Grass_8: -4385127030135008551
+      PC Computer - Stardew Valley - Grass_9: 3258756602276902221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

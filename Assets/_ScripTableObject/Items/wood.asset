@@ -12,9 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9432dd199f22eb488c6b5da3f9995f2, type: 3}
   m_Name: wood
   m_EditorClassIdentifier: 
-  count: 0
   Name: Wood
-  Tile: {fileID: 0}
-  image: {fileID: 1877284799, guid: 41731bbd5b3a68e4e8207e9cab443088, type: 3}
-  type: 0
+  image: {fileID: 3962862938986188342, guid: 06950029619aee34d932a144e3b8553b, type: 3}
   stackable: 1

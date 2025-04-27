@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿
+using System.Collections;
 using TMPro;
 using Unity.VisualScripting;
 using UnityEditor.Rendering.LookDev;
@@ -7,27 +8,31 @@ using UnityEngine.Assertions.Must;
 using UnityEngine.Tilemaps;
 
 public class PlayerController : MonoBehaviour, action
-{  
-    [SerializeField] Tilemap interactabbleMap;
+{
+    [Header("PlayerStats")]
+    public float _HP = 100f, _Food = 100f;
     [SerializeField] float MoveSpeed,Damage;
-    float SpeedX, SpeedY;
-    private Vector2 Movement;
+    
+    
     Rigidbody2D rb;
-    Animator MyAnimator;
+    public Animator MyAnimator;
+    private Vector2 Movement;
+    float SpeedX, SpeedY,_CooldownTimeAction=0 ;
     bool facingRight = true;
     bool iswalks;
     bool canmove = true,cooldowntimecandig=true;
-    bool stonedetection, treedetection;
+    bool stonedetection, treedetection, _Canfishing; 
+    public bool _Isfishing, _Isreeling;
     RaycastHit2D hit;
-    public LayerMask targetLayer; // L?p mà Raycast có th? ch?m vào
-    public GameObject khoai,weapon;
-    public Transform aim;
+    public LayerMask targetLayer; 
+    public GameObject khoai;
+    //public Transform aim;
     public WeaponController weaponController;
     private Coroutine moveCoroutine;
 
 
     void Start()
-    {
+    {   
         rb = GetComponent<Rigidbody2D>();
         MyAnimator = GetComponent<Animator>();
     }
@@ -35,16 +40,23 @@ public class PlayerController : MonoBehaviour, action
     
     private void Update()
     {
+        if (_CooldownTimeAction > 0) _CooldownTimeAction -= Time.deltaTime;
+        if (_CooldownTimeAction <= 0 && !_Isfishing)
+        {
+            cooldowntimecandig=true ;
+            canmove = true;
+        }
+            if (UIManager.Instance.IsOpenIventoryItem) return;
         if (Input.inputString!=null && InventoryManager.instance.ItemSelection!=null) {
             bool inumber = int.TryParse(Input.inputString, out int number);
 
             if (inumber && InventoryManager.instance.ItemSelection.Name == "Bow")
             {
-                weapon.SetActive(true);
+                weaponController.gameObject.SetActive(true);
             }
             if (inumber && InventoryManager.instance.ItemSelection.Name != "Bow")
             {
-                weapon.SetActive(false);
+                weaponController.gameObject.SetActive(false);
             }
         }
         ShootRay();
@@ -90,32 +102,34 @@ public class PlayerController : MonoBehaviour, action
                         GetComponentInChildren<Sword>().Attack();
                         break;
                     default:
-                        //Debug.Log("stone");
-                        //Debug.Log("stone");
                         break;
                 }
             }
         }
+        if (Input.GetKeyDown(KeyCode.E) && !_Isfishing )
+        {
+            if (InventoryManager.instance.ItemSelection != null)
+            {
+                switch (InventoryManager.instance.ItemSelection.Name)
+                {
+                    case "fishing rod":
+                        fishing();
+                        break;
+                    default:
+                        break;
+                }
+            }
+                
+        }
     }
     private void FixedUpdate()
-    {
+    {   
+
+        if (UIManager.Instance.IsOpenIventoryItem) return;
         Debug.DrawRay(transform.position, transform.localScale.x > 0 ? Vector2.right * 2f : Vector2.left * 2f, Color.red);
         Move();
         
     }
-
-    void interacmap(Vector3Int Pos)
-    {
-            
-            //Vector3Int tilePosition = interactabbleMap.WorldToCell(positon);
-            if (TimapsManager.instance.IsInteractable(Pos))
-            {            
-                TimapsManager.instance.settileinterac(Pos);
-                Dig();
-            }
-        
-    }
-    
 
     void Move()
     {
@@ -162,43 +176,25 @@ public class PlayerController : MonoBehaviour, action
     void InteractFarm()
     {
         if (Input.GetMouseButtonDown(0)) {
+            if (TimapsManager.instance.interactabbleMap == null) return;
             Vector3Int Pos = TimapsManager.instance.getpostile(Camera.main.ScreenToWorldPoint(Input.mousePosition));
-            if (InventoryManager.instance.ItemSelection != null && TimapsManager.instance.HightlightTile)
+            Vector3 PosSeed = TimapsManager.instance.GetCenterTile(Pos);
+            if (InventoryManager.instance.ItemSelection != null && TimapsManager.instance.HightlightTile && TimapsManager.instance.InteractFarm)
             {
+                if (InventoryManager.instance.ItemSelection.Name == "Shovel" && TimapsManager.instance._CooldownDig > 0) return; 
                 if (moveCoroutine != null)
                 {
-                    StopCoroutine(moveCoroutine);
+                    StopCoroutine(moveCoroutine); 
                 }               
-                moveCoroutine = StartCoroutine(MoveToClickPosition(TimapsManager.instance.GetCenterTile(), () =>
+                moveCoroutine = StartCoroutine(MoveToClickPosition(PosSeed, () =>
                 {
-                    HandleInteraction(Pos);
+                    TimapsManager.instance.HandleInteraction(Pos, PosSeed);
                 }));
             }
         }
     }
-    void HandleInteraction(Vector3Int Pos)
-    {
-        switch (InventoryManager.instance.ItemSelection.Name)
-        {
-            case "Shovel":
-                if (SpeedX == 0 && SpeedY == 0)
-                {
-                    interacmap(Pos);
-                    GetComponentInChildren<Harvest>().CanHarvest();
-                }
-                break;
-            case "Khoai":
-                //if (Gamemanager.instance.TimapsManager.cantrongkhoai(getpostile()) && Gamemanager.instance.TimapsManager.checkpos(Gamemanager.instance.TimapsManager.getpos(getpostile())))
-
-                    Instantiate(khoai,TimapsManager.instance.GetCenterTile(), Quaternion.identity);
-                    TimapsManager.instance.addpos(TimapsManager.instance.GetCenterTile());
-                    
-                break;
-            default:
-                break;
-        }
-    }
-    IEnumerator MoveToClickPosition(Vector2 targetPosition, System.Action onComplete)
+    
+    public IEnumerator MoveToClickPosition(Vector2 targetPosition, System.Action onComplete)
     {
         while (Vector2.Distance(rb.position, targetPosition) > 0.1f)
         {
@@ -217,24 +213,21 @@ public class PlayerController : MonoBehaviour, action
         moveCoroutine = null;
         onComplete?.Invoke();
     }
-    void Dig()
+    public void Dig()
     {
         MyAnimator.SetTrigger("Dig");
+        canmove = false;
+        _CooldownTimeAction = 0.7f;
     }
-    void Axe()
+     void Axe()
     {
         MyAnimator.SetTrigger("Axe");
         canmove = false;
         cooldowntimecandig = false;
-        Invoke("timecandig", 0.6f);
+        _CooldownTimeAction = 0.7f;
 
     }
     
-    void timecandig()
-    {
-        canmove = true;
-        cooldowntimecandig = true;
-    }
     void flip()
     {
         Vector3 currentScale = transform.localScale;
@@ -246,31 +239,28 @@ public class PlayerController : MonoBehaviour, action
     {
         
          hit = Physics2D.Raycast(transform.position, transform.localScale.x > 0 ? Vector2.right : Vector2.left , 2f , targetLayer); ;
+        stonedetection = false;
+        treedetection = false;
+        _Canfishing = false;
 
         if (hit.collider != null)
         {
-            if (hit.collider.CompareTag("Stone"))
+            string tag = hit.collider.tag;
+
+            if (tag == "Stone")
             {
-                
                 stonedetection = true;
-            }else if (!hit.collider.CompareTag("Stone"))
-            {
-                stonedetection = false;
             }
-            if (hit.collider.CompareTag("Tree"))
+            else if (tag == "Tree")
             {
                 treedetection = true;
             }
-            else if (!hit.collider.CompareTag("Tree"))
+            else if (tag == "Fishing")
             {
-                treedetection = false;
+                _Canfishing = true;
             }
         }
-        else
-        {
-           // Debug.Log("Không trúng");
-        }
-      
+
     }
     public void Attack()
     {
@@ -280,4 +270,23 @@ public class PlayerController : MonoBehaviour, action
     {
         
     }
+    void fishing()
+    {
+        if (_Canfishing)
+        {
+            canmove = false;
+            _Isfishing = true;
+            MyAnimator.SetTrigger("Casting");
+            StartCoroutine(FishBiteRoutine());
+        }
+    }
+    IEnumerator FishBiteRoutine()
+    {
+        float waitTime = Random.Range(10, 20);
+        yield return new WaitForSeconds(waitTime);
+        _Isreeling = true;
+        MyAnimator.SetBool("Isreeling", _Isreeling);
+        UIManager.Instance.StartFishing();
+    }
+    
 }

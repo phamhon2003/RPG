@@ -7,6 +7,7 @@ public class Item : ScriptableObject
     public string Name;
     public Sprite image;
     public bool stackable=true;
+    public bool IsFood;
 }
 
 [System.Serializable]

@@ -1,4 +1,5 @@
-using UnityEngine;
+﻿using UnityEngine;
+using static UnityEditor.PlayerSettings;
 
 public class Enemy : MonoBehaviour, action
 {
@@ -6,13 +7,29 @@ public class Enemy : MonoBehaviour, action
     public Animator Enemyanimator;
     [SerializeField] private float MoveSpeed;
     public bool isMoving;
+
+    [Header("Wander Action")]
+    [SerializeField] public bool enableWander = true;
+    [SerializeField] private float wanderMoveDuration = 2f;
+    [SerializeField] private float wanderWaitDuration = 3f;
+
+    private float wanderTimer = 0f;
+    private bool isWandering = false;
+    private Vector3 wanderTarget;
+    private Vector3 spawnPos;
     void Start()
-    {
+    {   
+        EnenyManager.Instance.activeEnemies.Add(this);
         Enemyanimator = GetComponent<Animator>();
+        spawnPos = transform.position;
     }
-    void Update()
+    private void FixedUpdate()
     {
-        
+        SeparateFromOtherEnemies();
+        if (enableWander)
+        {
+            WanderBehavior();
+        }
     }
     public void Attack()
     {
@@ -54,14 +71,79 @@ public class Enemy : MonoBehaviour, action
             Enemyanimator.SetBool("isWalking", false);
             isMoving = false;
         }
-        if (targetPos.x < transform.position.x)
+        flip(targetPos);
+    }
+    public void flip(Vector3 Pos)
+    {
+        if (Pos.x < transform.position.x)
         {
             transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
         }
-        else if (targetPos.x > transform.position.x)
+        else if (Pos.x > transform.position.x)
         {
             transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
         }
-    }
 
+    }
+    void SeparateFromOtherEnemies()
+    {
+        float separationRadius = 0.5f;
+        Vector2 pushForce = Vector2.zero;
+        int nearbyCount = 0;
+
+        foreach (var other in EnenyManager.Instance.activeEnemies)
+        {
+            if (other == this) continue;
+
+            float dist = Vector2.Distance(transform.position, other.transform.position);
+            if (dist < separationRadius)
+            {
+                // Hướng đẩy ra khỏi con khác
+                Vector2 away = (Vector2)(transform.position - other.transform.position);
+                if (away != Vector2.zero)
+                {
+                    pushForce += away.normalized / dist;
+                    nearbyCount++;
+                }
+            }
+        }
+
+        if (nearbyCount > 0)
+        {
+            pushForce /= nearbyCount;
+            transform.position += (Vector3)(pushForce * Time.deltaTime * 1.5f); // tốc độ đẩy nhẹ
+        }
+    }
+    void WanderBehavior()
+    {
+        if (!isWandering)
+        {
+            wanderTimer -= Time.deltaTime;
+            if (wanderTimer <= 0f)
+            {
+                isWandering = true;
+                wanderTimer = wanderMoveDuration;
+
+                // Chọn vị trí ngẫu nhiên quanh vùng spawn
+                Vector2 offset = Random.insideUnitCircle.normalized * Random.Range(1f, 2f);
+                wanderTarget = spawnPos + new Vector3(offset.x, offset.y, 0f);
+            }
+            else
+            {   
+                MoveToPos(null); // đứng yên
+            }
+        }
+        else
+        {
+            MoveToPos(wanderTarget);
+            wanderTimer -= Time.deltaTime;
+
+            // Nếu gần đến hoặc hết thời gian thì dừng lại
+            if (Vector3.Distance(transform.position, wanderTarget) < 0.2f || wanderTimer <= 0f)
+            {
+                isWandering = false;
+                wanderTimer = wanderWaitDuration;
+            }
+        }
+    }
 }

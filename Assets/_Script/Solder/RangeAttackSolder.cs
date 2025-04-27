@@ -7,7 +7,7 @@ public class RangeAttackSolder : MonoBehaviour
 {
     private List<Collider2D> enemiesInTrigger = new List<Collider2D>();
     [SerializeField] Bullet _bullet;
-    float _bulletspeed = 4, _bulletdamege, _lifetime;
+    [SerializeField] float _bulletspeed = 4, _bulletdamege=5, _lifetime=4;
     Solder solder;
     [SerializeField] float distance;
 

@@ -1,0 +1,7163 @@
+fileFormatVersion: 2
+guid: 6c45583b1c995ff40963ac90d7fc3428
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7662552301746025781
+    second: PC Computer - Stardew Valley - Trees_0
+  - first:
+      213: -3612396199634385297
+    second: PC Computer - Stardew Valley - Trees_1
+  - first:
+      213: -7702738866874018020
+    second: PC Computer - Stardew Valley - Trees_2
+  - first:
+      213: 5874800401871251114
+    second: PC Computer - Stardew Valley - Trees_3
+  - first:
+      213: 1701990819765957706
+    second: PC Computer - Stardew Valley - Trees_4
+  - first:
+      213: -1012235030032479714
+    second: PC Computer - Stardew Valley - Trees_5
+  - first:
+      213: -162906899258969645
+    second: PC Computer - Stardew Valley - Trees_6
+  - first:
+      213: -3246410926596255796
+    second: PC Computer - Stardew Valley - Trees_7
+  - first:
+      213: 5383725339293050160
+    second: PC Computer - Stardew Valley - Trees_8
+  - first:
+      213: -7052796587223387176
+    second: PC Computer - Stardew Valley - Trees_9
+  - first:
+      213: 3425511527374701603
+    second: PC Computer - Stardew Valley - Trees_10
+  - first:
+      213: -6476808999499166838
+    second: PC Computer - Stardew Valley - Trees_11
+  - first:
+      213: -6762370987725165578
+    second: PC Computer - Stardew Valley - Trees_12
+  - first:
+      213: 8007699379981524726
+    second: PC Computer - Stardew Valley - Trees_13
+  - first:
+      213: 4144839895529400731
+    second: PC Computer - Stardew Valley - Trees_14
+  - first:
+      213: -3308569047018956443
+    second: PC Computer - Stardew Valley - Trees_15
+  - first:
+      213: 4324520626052030524
+    second: PC Computer - Stardew Valley - Trees_16
+  - first:
+      213: 8693700599033295210
+    second: PC Computer - Stardew Valley - Trees_17
+  - first:
+      213: 2692577738316750609
+    second: PC Computer - Stardew Valley - Trees_18
+  - first:
+      213: 8733495854230196281
+    second: PC Computer - Stardew Valley - Trees_19
+  - first:
+      213: 6463725342508252915
+    second: PC Computer - Stardew Valley - Trees_20
+  - first:
+      213: -4080037423554602746
+    second: PC Computer - Stardew Valley - Trees_21
+  - first:
+      213: -9050245518223464404
+    second: PC Computer - Stardew Valley - Trees_22
+  - first:
+      213: 319377143427109046
+    second: PC Computer - Stardew Valley - Trees_23
+  - first:
+      213: -8360127768977997944
+    second: PC Computer - Stardew Valley - Trees_24
+  - first:
+      213: -5560859604872025658
+    second: PC Computer - Stardew Valley - Trees_25
+  - first:
+      213: -7880920550065446866
+    second: PC Computer - Stardew Valley - Trees_26
+  - first:
+      213: 2427655411482439866
+    second: PC Computer - Stardew Valley - Trees_27
+  - first:
+      213: -8382186340529394536
+    second: PC Computer - Stardew Valley - Trees_28
+  - first:
+      213: 4608276100348626554
+    second: PC Computer - Stardew Valley - Trees_29
+  - first:
+      213: 3985807291558798280
+    second: PC Computer - Stardew Valley - Trees_30
+  - first:
+      213: 2012804524454869038
+    second: PC Computer - Stardew Valley - Trees_31
+  - first:
+      213: -5559646517953870086
+    second: PC Computer - Stardew Valley - Trees_32
+  - first:
+      213: 1537082744197011247
+    second: PC Computer - Stardew Valley - Trees_33
+  - first:
+      213: 8347045112975519082
+    second: PC Computer - Stardew Valley - Trees_34
+  - first:
+      213: 1784784912923039978
+    second: PC Computer - Stardew Valley - Trees_35
+  - first:
+      213: 3871582913081975580
+    second: PC Computer - Stardew Valley - Trees_36
+  - first:
+      213: -1983262748823836131
+    second: PC Computer - Stardew Valley - Trees_37
+  - first:
+      213: -2363276908902720520
+    second: PC Computer - Stardew Valley - Trees_38
+  - first:
+      213: -8244581600455720206
+    second: PC Computer - Stardew Valley - Trees_39
+  - first:
+      213: -6177659303778100892
+    second: PC Computer - Stardew Valley - Trees_40
+  - first:
+      213: 3344236063614941046
+    second: PC Computer - Stardew Valley - Trees_41
+  - first:
+      213: -7252790649015843511
+    second: PC Computer - Stardew Valley - Trees_42
+  - first:
+      213: 137629029873015234
+    second: PC Computer - Stardew Valley - Trees_43
+  - first:
+      213: 3355441489753180899
+    second: PC Computer - Stardew Valley - Trees_44
+  - first:
+      213: -7711940675307997207
+    second: PC Computer - Stardew Valley - Trees_45
+  - first:
+      213: 7035746099963014461
+    second: PC Computer - Stardew Valley - Trees_46
+  - first:
+      213: -2358219465561010339
+    second: PC Computer - Stardew Valley - Trees_47
+  - first:
+      213: -2660781044192834097
+    second: PC Computer - Stardew Valley - Trees_48
+  - first:
+      213: 7952436036445060960
+    second: PC Computer - Stardew Valley - Trees_49
+  - first:
+      213: 6606511320049737115
+    second: PC Computer - Stardew Valley - Trees_50
+  - first:
+      213: 7414021564411131639
+    second: PC Computer - Stardew Valley - Trees_51
+  - first:
+      213: -1246153790287661921
+    second: PC Computer - Stardew Valley - Trees_52
+  - first:
+      213: 3263480516113493459
+    second: PC Computer - Stardew Valley - Trees_53
+  - first:
+      213: -5711433856965780372
+    second: PC Computer - Stardew Valley - Trees_54
+  - first:
+      213: 6347937789927780623
+    second: PC Computer - Stardew Valley - Trees_55
+  - first:
+      213: 8026851052064582038
+    second: PC Computer - Stardew Valley - Trees_56
+  - first:
+      213: -3245336904885126764
+    second: PC Computer - Stardew Valley - Trees_57
+  - first:
+      213: -6020141201861821055
+    second: PC Computer - Stardew Valley - Trees_58
+  - first:
+      213: 816365479376748088
+    second: PC Computer - Stardew Valley - Trees_59
+  - first:
+      213: 8588268207365169392
+    second: PC Computer - Stardew Valley - Trees_60
+  - first:
+      213: -1551023408393672782
+    second: PC Computer - Stardew Valley - Trees_61
+  - first:
+      213: -2018826794238012174
+    second: PC Computer - Stardew Valley - Trees_62
+  - first:
+      213: -3576770551154910854
+    second: PC Computer - Stardew Valley - Trees_63
+  - first:
+      213: 2977756607054531793
+    second: PC Computer - Stardew Valley - Trees_64
+  - first:
+      213: -8675683064204664868
+    second: PC Computer - Stardew Valley - Trees_65
+  - first:
+      213: 6792979534810745381
+    second: PC Computer - Stardew Valley - Trees_66
+  - first:
+      213: -6172515842073452042
+    second: PC Computer - Stardew Valley - Trees_67
+  - first:
+      213: 3842644169244151584
+    second: PC Computer - Stardew Valley - Trees_68
+  - first:
+      213: -8881957205649421555
+    second: PC Computer - Stardew Valley - Trees_69
+  - first:
+      213: -2526443768569139350
+    second: PC Computer - Stardew Valley - Trees_70
+  - first:
+      213: -6367256164110900760
+    second: PC Computer - Stardew Valley - Trees_71
+  - first:
+      213: -6635628614421789726
+    second: PC Computer - Stardew Valley - Trees_72
+  - first:
+      213: -7415830531592199398
+    second: PC Computer - Stardew Valley - Trees_73
+  - first:
+      213: 4661750235191087394
+    second: PC Computer - Stardew Valley - Trees_74
+  - first:
+      213: -5631351594273437714
+    second: PC Computer - Stardew Valley - Trees_75
+  - first:
+      213: 8620260725723961665
+    second: PC Computer - Stardew Valley - Trees_76
+  - first:
+      213: 5670569479460398623
+    second: PC Computer - Stardew Valley - Trees_77
+  - first:
+      213: 8497664587654356832
+    second: PC Computer - Stardew Valley - Trees_78
+  - first:
+      213: 1313339095257872226
+    second: PC Computer - Stardew Valley - Trees_79
+  - first:
+      213: 7120574820016829465
+    second: PC Computer - Stardew Valley - Trees_80
+  - first:
+      213: 8534608020349782422
+    second: PC Computer - Stardew Valley - Trees_81
+  - first:
+      213: -4510855902855591477
+    second: PC Computer - Stardew Valley - Trees_82
+  - first:
+      213: -6456354274561362012
+    second: PC Computer - Stardew Valley - Trees_83
+  - first:
+      213: -1936458654142105588
+    second: PC Computer - Stardew Valley - Trees_84
+  - first:
+      213: 4055470501922546590
+    second: PC Computer - Stardew Valley - Trees_85
+  - first:
+      213: 6676761571400749131
+    second: PC Computer - Stardew Valley - Trees_86
+  - first:
+      213: 2415577841361876279
+    second: PC Computer - Stardew Valley - Trees_87
+  - first:
+      213: -8452894623039409281
+    second: PC Computer - Stardew Valley - Trees_88
+  - first:
+      213: -1912307342601441120
+    second: PC Computer - Stardew Valley - Trees_89
+  - first:
+      213: 2735565763374027113
+    second: PC Computer - Stardew Valley - Trees_90
+  - first:
+      213: -7018357210209264769
+    second: PC Computer - Stardew Valley - Trees_91
+  - first:
+      213: 3746419492397116948
+    second: PC Computer - Stardew Valley - Trees_92
+  - first:
+      213: -7336169893837668895
+    second: PC Computer - Stardew Valley - Trees_93
+  - first:
+      213: 5765704242639301793
+    second: PC Computer - Stardew Valley - Trees_94
+  - first:
+      213: 1540029937179331121
+    second: PC Computer - Stardew Valley - Trees_95
+  - first:
+      213: 5740606374627018669
+    second: PC Computer - Stardew Valley - Trees_96
+  - first:
+      213: -4879794736521629199
+    second: PC Computer - Stardew Valley - Trees_97
+  - first:
+      213: -8104079457462851064
+    second: PC Computer - Stardew Valley - Trees_98
+  - first:
+      213: -1315791665387523339
+    second: PC Computer - Stardew Valley - Trees_99
+  - first:
+      213: -3341929168886186970
+    second: PC Computer - Stardew Valley - Trees_100
+  - first:
+      213: -3789935135995773825
+    second: PC Computer - Stardew Valley - Trees_101
+  - first:
+      213: 1148208909790554692
+    second: PC Computer - Stardew Valley - Trees_102
+  - first:
+      213: -6531890954996360181
+    second: PC Computer - Stardew Valley - Trees_103
+  - first:
+      213: 1628041448395473393
+    second: PC Computer - Stardew Valley - Trees_104
+  - first:
+      213: -4323000758964711510
+    second: PC Computer - Stardew Valley - Trees_105
+  - first:
+      213: 1504840696411669220
+    second: PC Computer - Stardew Valley - Trees_106
+  - first:
+      213: -4816175837947477279
+    second: PC Computer - Stardew Valley - Trees_107
+  - first:
+      213: 5303829369039500898
+    second: PC Computer - Stardew Valley - Trees_108
+  - first:
+      213: 6277384488292829857
+    second: PC Computer - Stardew Valley - Trees_109
+  - first:
+      213: 4433008611640458417
+    second: PC Computer - Stardew Valley - Trees_110
+  - first:
+      213: 6059053533222113488
+    second: PC Computer - Stardew Valley - Trees_111
+  - first:
+      213: 7963098553427106620
+    second: PC Computer - Stardew Valley - Trees_112
+  - first:
+      213: -817564335084268740
+    second: PC Computer - Stardew Valley - Trees_113
+  - first:
+      213: -2399451267849104758
+    second: PC Computer - Stardew Valley - Trees_114
+  - first:
+      213: 1104631142928823397
+    second: PC Computer - Stardew Valley - Trees_115
+  - first:
+      213: -5570553791628865646
+    second: PC Computer - Stardew Valley - Trees_116
+  - first:
+      213: 6548229918771668276
+    second: PC Computer - Stardew Valley - Trees_117
+  - first:
+      213: -1525342484753706464
+    second: PC Computer - Stardew Valley - Trees_118
+  - first:
+      213: -6843132577227219747
+    second: PC Computer - Stardew Valley - Trees_119
+  - first:
+      213: 5353573312255530059
+    second: PC Computer - Stardew Valley - Trees_120
+  - first:
+      213: 39819635681870027
+    second: PC Computer - Stardew Valley - Trees_121
+  - first:
+      213: 7172762610316976839
+    second: PC Computer - Stardew Valley - Trees_122
+  - first:
+      213: 1726554142252936174
+    second: PC Computer - Stardew Valley - Trees_123
+  - first:
+      213: 6639789860249584113
+    second: PC Computer - Stardew Valley - Trees_124
+  - first:
+      213: 7899465519379454887
+    second: PC Computer - Stardew Valley - Trees_125
+  - first:
+      213: -4526950242286170015
+    second: PC Computer - Stardew Valley - Trees_126
+  - first:
+      213: -1733782096478482606
+    second: PC Computer - Stardew Valley - Trees_127
+  - first:
+      213: 745745249976948143
+    second: PC Computer - Stardew Valley - Trees_128
+  - first:
+      213: -2914331856827483596
+    second: PC Computer - Stardew Valley - Trees_129
+  - first:
+      213: -5428251836307042722
+    second: PC Computer - Stardew Valley - Trees_130
+  - first:
+      213: -6643486971984864585
+    second: PC Computer - Stardew Valley - Trees_131
+  - first:
+      213: 4995795115341336318
+    second: PC Computer - Stardew Valley - Trees_132
+  - first:
+      213: 5861581338764043984
+    second: PC Computer - Stardew Valley - Trees_133
+  - first:
+      213: -4634030631170129437
+    second: PC Computer - Stardew Valley - Trees_134
+  - first:
+      213: 2670270084162814858
+    second: PC Computer - Stardew Valley - Trees_135
+  - first:
+      213: -1377072438256710697
+    second: PC Computer - Stardew Valley - Trees_136
+  - first:
+      213: -5529424094474284638
+    second: PC Computer - Stardew Valley - Trees_137
+  - first:
+      213: 8629089630584483415
+    second: PC Computer - Stardew Valley - Trees_138
+  - first:
+      213: 5052862153122917704
+    second: PC Computer - Stardew Valley - Trees_139
+  - first:
+      213: -6316289590996107631
+    second: PC Computer - Stardew Valley - Trees_140
+  - first:
+      213: 2871103867825913183
+    second: PC Computer - Stardew Valley - Trees_141
+  - first:
+      213: 2807508575919433102
+    second: PC Computer - Stardew Valley - Trees_142
+  - first:
+      213: 4945242169224615569
+    second: PC Computer - Stardew Valley - Trees_143
+  - first:
+      213: -3896427853308844211
+    second: PC Computer - Stardew Valley - Trees_144
+  - first:
+      213: -5706901575356950329
+    second: PC Computer - Stardew Valley - Trees_145
+  - first:
+      213: 6088554801650956846
+    second: PC Computer - Stardew Valley - Trees_146
+  - first:
+      213: -1926296627891886448
+    second: PC Computer - Stardew Valley - Trees_147
+  - first:
+      213: 572548906887900275
+    second: PC Computer - Stardew Valley - Trees_148
+  - first:
+      213: 1354111489204381212
+    second: PC Computer - Stardew Valley - Trees_149
+  - first:
+      213: 2424128891297019919
+    second: PC Computer - Stardew Valley - Trees_150
+  - first:
+      213: -542425573205317293
+    second: PC Computer - Stardew Valley - Trees_151
+  - first:
+      213: -5158740426737633050
+    second: PC Computer - Stardew Valley - Trees_152
+  - first:
+      213: 1425830287853958574
+    second: PC Computer - Stardew Valley - Trees_153
+  - first:
+      213: -662352003571186757
+    second: PC Computer - Stardew Valley - Trees_154
+  - first:
+      213: 8264613625472904358
+    second: PC Computer - Stardew Valley - Trees_155
+  - first:
+      213: 8338225711681792101
+    second: PC Computer - Stardew Valley - Trees_156
+  - first:
+      213: -4832388956238451785
+    second: PC Computer - Stardew Valley - Trees_157
+  - first:
+      213: -4477166562117557731
+    second: PC Computer - Stardew Valley - Trees_158
+  - first:
+      213: 5188075726570302380
+    second: PC Computer - Stardew Valley - Trees_159
+  - first:
+      213: -7177387981543020212
+    second: PC Computer - Stardew Valley - Trees_160
+  - first:
+      213: 5434046704844144542
+    second: PC Computer - Stardew Valley - Trees_161
+  - first:
+      213: -7771931169539537781
+    second: PC Computer - Stardew Valley - Trees_162
+  - first:
+      213: 80324299245718263
+    second: PC Computer - Stardew Valley - Trees_163
+  - first:
+      213: 7922068258797299655
+    second: PC Computer - Stardew Valley - Trees_164
+  - first:
+      213: 3155235683038609185
+    second: PC Computer - Stardew Valley - Trees_165
+  - first:
+      213: 2088370863347988943
+    second: PC Computer - Stardew Valley - Trees_166
+  - first:
+      213: 6892807258447225864
+    second: PC Computer - Stardew Valley - Trees_167
+  - first:
+      213: -5812148563371151813
+    second: PC Computer - Stardew Valley - Trees_168
+  - first:
+      213: 6813699816200583387
+    second: PC Computer - Stardew Valley - Trees_169
+  - first:
+      213: 8349830504988822403
+    second: PC Computer - Stardew Valley - Trees_170
+  - first:
+      213: 3295101469946640529
+    second: PC Computer - Stardew Valley - Trees_171
+  - first:
+      213: 5404920089498589871
+    second: PC Computer - Stardew Valley - Trees_172
+  - first:
+      213: 5584741355842763377
+    second: PC Computer - Stardew Valley - Trees_173
+  - first:
+      213: -7923989123795365313
+    second: PC Computer - Stardew Valley - Trees_174
+  - first:
+      213: 2994686134871339862
+    second: PC Computer - Stardew Valley - Trees_175
+  - first:
+      213: 5834681542991476282
+    second: PC Computer - Stardew Valley - Trees_176
+  - first:
+      213: 5016139655893497453
+    second: PC Computer - Stardew Valley - Trees_177
+  - first:
+      213: 7009149446788236410
+    second: PC Computer - Stardew Valley - Trees_178
+  - first:
+      213: 7346639098135512103
+    second: PC Computer - Stardew Valley - Trees_179
+  - first:
+      213: 5543949637062585561
+    second: PC Computer - Stardew Valley - Trees_180
+  - first:
+      213: -2058618711819181808
+    second: PC Computer - Stardew Valley - Trees_181
+  - first:
+      213: 7179639516835201510
+    second: PC Computer - Stardew Valley - Trees_182
+  - first:
+      213: -611060112033395840
+    second: PC Computer - Stardew Valley - Trees_183
+  - first:
+      213: -3091845735112234743
+    second: PC Computer - Stardew Valley - Trees_184
+  - first:
+      213: -2521983734863204000
+    second: PC Computer - Stardew Valley - Trees_185
+  - first:
+      213: -5271700275298477502
+    second: PC Computer - Stardew Valley - Trees_186
+  - first:
+      213: -1805067218466086432
+    second: PC Computer - Stardew Valley - Trees_187
+  - first:
+      213: 7404722839196939627
+    second: PC Computer - Stardew Valley - Trees_188
+  - first:
+      213: 8036306370075108714
+    second: PC Computer - Stardew Valley - Trees_189
+  - first:
+      213: -1525369709005593154
+    second: PC Computer - Stardew Valley - Trees_190
+  - first:
+      213: 9115406730970789252
+    second: PC Computer - Stardew Valley - Trees_191
+  - first:
+      213: 8899810988512273656
+    second: PC Computer - Stardew Valley - Trees_192
+  - first:
+      213: -5347813601951431190
+    second: PC Computer - Stardew Valley - Trees_193
+  - first:
+      213: 6393149078777630760
+    second: PC Computer - Stardew Valley - Trees_194
+  - first:
+      213: -805109316157977
+    second: PC Computer - Stardew Valley - Trees_195
+  - first:
+      213: 2799897308078210984
+    second: PC Computer - Stardew Valley - Trees_196
+  - first:
+      213: 3183353698066957406
+    second: PC Computer - Stardew Valley - Trees_197
+  - first:
+      213: 7792148273339241174
+    second: PC Computer - Stardew Valley - Trees_198
+  - first:
+      213: 4437406656196068593
+    second: PC Computer - Stardew Valley - Trees_199
+  - first:
+      213: -1150655530328567804
+    second: PC Computer - Stardew Valley - Trees_200
+  - first:
+      213: 7975714314459305527
+    second: PC Computer - Stardew Valley - Trees_201
+  - first:
+      213: 6110844627156336415
+    second: PC Computer - Stardew Valley - Trees_202
+  - first:
+      213: -7043024468031415599
+    second: PC Computer - Stardew Valley - Trees_203
+  - first:
+      213: -7119945616541041266
+    second: PC Computer - Stardew Valley - Trees_204
+  - first:
+      213: 742920013900811964
+    second: PC Computer - Stardew Valley - Trees_205
+  - first:
+      213: -7648969076845518812
+    second: PC Computer - Stardew Valley - Trees_206
+  - first:
+      213: -946689705409308891
+    second: PC Computer - Stardew Valley - Trees_207
+  - first:
+      213: 6527993980922818733
+    second: PC Computer - Stardew Valley - Trees_208
+  - first:
+      213: 4978195005155629169
+    second: PC Computer - Stardew Valley - Trees_209
+  - first:
+      213: -7357084847556373533
+    second: PC Computer - Stardew Valley - Trees_210
+  - first:
+      213: -3163944763637073093
+    second: PC Computer - Stardew Valley - Trees_211
+  - first:
+      213: 9078509765860390068
+    second: PC Computer - Stardew Valley - Trees_212
+  - first:
+      213: -2946164216645101904
+    second: PC Computer - Stardew Valley - Trees_213
+  - first:
+      213: 6540498737857651814
+    second: PC Computer - Stardew Valley - Trees_214
+  - first:
+      213: -7828504785840344863
+    second: PC Computer - Stardew Valley - Trees_215
+  - first:
+      213: -4540713894145238703
+    second: PC Computer - Stardew Valley - Trees_216
+  - first:
+      213: -9175778316084760556
+    second: PC Computer - Stardew Valley - Trees_217
+  - first:
+      213: -2970550620678413958
+    second: PC Computer - Stardew Valley - Trees_218
+  - first:
+      213: 8951627341167871950
+    second: PC Computer - Stardew Valley - Trees_219
+  - first:
+      213: 2647230972534726699
+    second: PC Computer - Stardew Valley - Trees_220
+  - first:
+      213: 3645087990501850487
+    second: PC Computer - Stardew Valley - Trees_221
+  - first:
+      213: -1769675482947583914
+    second: PC Computer - Stardew Valley - Trees_222
+  - first:
+      213: -8736481895961610916
+    second: PC Computer - Stardew Valley - Trees_223
+  - first:
+      213: 6725887040487407103
+    second: PC Computer - Stardew Valley - Trees_224
+  - first:
+      213: 7403793304164062514
+    second: PC Computer - Stardew Valley - Trees_225
+  - first:
+      213: 4571927827691606163
+    second: PC Computer - Stardew Valley - Trees_226
+  - first:
+      213: 853532289514481739
+    second: PC Computer - Stardew Valley - Trees_227
+  - first:
+      213: 6032525575597948257
+    second: PC Computer - Stardew Valley - Trees_228
+  - first:
+      213: 8982830036754527714
+    second: PC Computer - Stardew Valley - Trees_229
+  - first:
+      213: 681809765814573792
+    second: PC Computer - Stardew Valley - Trees_230
+  - first:
+      213: -6774918238392358854
+    second: PC Computer - Stardew Valley - Trees_231
+  - first:
+      213: 4165640009421899567
+    second: PC Computer - Stardew Valley - Trees_232
+  - first:
+      213: -8306231407879897065
+    second: PC Computer - Stardew Valley - Trees_233
+  - first:
+      213: -7633365415739012943
+    second: PC Computer - Stardew Valley - Trees_234
+  - first:
+      213: 613029580335608039
+    second: PC Computer - Stardew Valley - Trees_235
+  - first:
+      213: 6123536354909465049
+    second: PC Computer - Stardew Valley - Trees_236
+  - first:
+      213: -4376657440935186597
+    second: PC Computer - Stardew Valley - Trees_237
+  - first:
+      213: -7455854035330568360
+    second: PC Computer - Stardew Valley - Trees_238
+  - first:
+      213: 1395551892557711672
+    second: PC Computer - Stardew Valley - Trees_239
+  - first:
+      213: 1494078513270825790
+    second: PC Computer - Stardew Valley - Trees_240
+  - first:
+      213: -8287702222378738271
+    second: PC Computer - Stardew Valley - Trees_241
+  - first:
+      213: -5290341073131103394
+    second: PC Computer - Stardew Valley - Trees_242
+  - first:
+      213: -567566534118126595
+    second: PC Computer - Stardew Valley - Trees_243
+  - first:
+      213: 6649002200661015659
+    second: PC Computer - Stardew Valley - Trees_244
+  - first:
+      213: -8638603253604424861
+    second: PC Computer - Stardew Valley - Trees_245
+  - first:
+      213: -6890612407433429623
+    second: PC Computer - Stardew Valley - Trees_246
+  - first:
+      213: -2887074624092206559
+    second: PC Computer - Stardew Valley - Trees_247
+  - first:
+      213: 4524147014952158084
+    second: PC Computer - Stardew Valley - Trees_248
+  - first:
+      213: -6579357477066775027
+    second: PC Computer - Stardew Valley - Trees_249
+  - first:
+      213: -8434563146320342755
+    second: PC Computer - Stardew Valley - Trees_250
+  - first:
+      213: -8055856092743826656
+    second: PC Computer - Stardew Valley - Trees_251
+  - first:
+      213: 8304956189297611489
+    second: PC Computer - Stardew Valley - Trees_252
+  - first:
+      213: 8552442017250753696
+    second: PC Computer - Stardew Valley - Trees_253
+  - first:
+      213: 2558964208418673090
+    second: PC Computer - Stardew Valley - Trees_254
+  - first:
+      213: 1649075329502271852
+    second: PC Computer - Stardew Valley - Trees_255
+  - first:
+      213: -8940530114905755331
+    second: PC Computer - Stardew Valley - Trees_256
+  - first:
+      213: 4964562618650644999
+    second: PC Computer - Stardew Valley - Trees_257
+  - first:
+      213: -1574097247902820276
+    second: PC Computer - Stardew Valley - Trees_258
+  - first:
+      213: -8871854923325842317
+    second: PC Computer - Stardew Valley - Trees_259
+  - first:
+      213: -476304753384953024
+    second: PC Computer - Stardew Valley - Trees_260
+  - first:
+      213: -4595916917748319810
+    second: PC Computer - Stardew Valley - Trees_261
+  - first:
+      213: 121890276490332333
+    second: PC Computer - Stardew Valley - Trees_262
+  - first:
+      213: -8660187027163297101
+    second: PC Computer - Stardew Valley - Trees_263
+  - first:
+      213: -4796245474321362587
+    second: PC Computer - Stardew Valley - Trees_264
+  - first:
+      213: -3587874148592015956
+    second: PC Computer - Stardew Valley - Trees_265
+  - first:
+      213: -5710620480411852652
+    second: PC Computer - Stardew Valley - Trees_266
+  - first:
+      213: -2578455381503022191
+    second: PC Computer - Stardew Valley - Trees_267
+  - first:
+      213: -2644927346154440293
+    second: PC Computer - Stardew Valley - Trees_268
+  - first:
+      213: -3718006547725346472
+    second: PC Computer - Stardew Valley - Trees_269
+  - first:
+      213: -5200713071130202075
+    second: PC Computer - Stardew Valley - Trees_270
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1195
+        width: 49
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca839d874529a590800000000000000
+      internalID: -7662552301746025781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1195
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6642d4bbc03eddc0800000000000000
+      internalID: -3612396199634385297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1195
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17116abfcf5a1590800000000000000
+      internalID: -7702738866874018020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1195
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6abd7e6db778150800000000000000
+      internalID: 5874800401871251114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1195
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44302f02afae9710800000000000000
+      internalID: 1701990819765957706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1195
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a05bd6a91d3f1f0800000000000000
+      internalID: -1012235030032479714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1195
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1753ac90d3dbdf0800000000000000
+      internalID: -162906899258969645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf8845667e62f2d0800000000000000
+      internalID: -3246410926596255796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1161
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035e4d00ca5d6ba40800000000000000
+      internalID: 5383725339293050160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d376790fde6f1e90800000000000000
+      internalID: -7052796587223387176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1151
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324cc23c59cd98f20800000000000000
+      internalID: 3425511527374701603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1151
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b8cc2d780cd16a0800000000000000
+      internalID: -6476808999499166838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1152
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbeb3d4a6b3722a0800000000000000
+      internalID: -6762370987725165578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1161
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe1ae3d820112f60800000000000000
+      internalID: 8007699379981524726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99a5e7bced658930800000000000000
+      internalID: 4144839895529400731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1151
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56915953bf99512d0800000000000000
+      internalID: -3308569047018956443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1151
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c306eabd898c30c30800000000000000
+      internalID: 4324520626052030524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_17
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1152
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61faf432aa36a870800000000000000
+      internalID: 8693700599033295210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1161
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f9e76ef25fd5520800000000000000
+      internalID: 2692577738316750609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930dcb6153c933970800000000000000
+      internalID: 8733495854230196281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1151
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fef4e5e3f3c3b950800000000000000
+      internalID: 6463725342508252915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_21
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1151
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6095aba849bc067c0800000000000000
+      internalID: -4080037423554602746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_22
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1152
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c282834c6a1176280800000000000000
+      internalID: -9050245518223464404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_23
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1151
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b01a5fd1d7ae6400800000000000000
+      internalID: 319377143427109046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fff25861cdafb80800000000000000
+      internalID: -8360127768977997944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9a8cde6abd3d2b0800000000000000
+      internalID: -5560859604872025658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20e54eb38851a290800000000000000
+      internalID: -7880920550065446866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab037760cb3c0b120800000000000000
+      internalID: 2427655411482439866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_28
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c2d9b1fed7cab80800000000000000
+      internalID: -8382186340529394536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76c33492b2e3ff30800000000000000
+      internalID: 4608276100348626554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1139
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3268c2d9e605730800000000000000
+      internalID: 3985807291558798280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1139
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e287e6afc0beeeb10800000000000000
+      internalID: 2012804524454869038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1139
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af64f9cb2fa28d2b0800000000000000
+      internalID: -5559646517953870086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1139
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27de3eac90d45510800000000000000
+      internalID: 1537082744197011247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_34
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1139
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6de0134e49a6d370800000000000000
+      internalID: 8347045112975519082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1139
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8114f0c64d4c810800000000000000
+      internalID: 1784784912923039978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_36
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1138
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1329bc9520aab530800000000000000
+      internalID: 3871582913081975580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_37
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1136
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a2718a9090a74e0800000000000000
+      internalID: -1983262748823836131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_38
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1139
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb58fa2c24f33fd0800000000000000
+      internalID: -2363276908902720520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1119
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f28d1f47bc559d80800000000000000
+      internalID: -8244581600455720206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1119
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4695be6089b844aa0800000000000000
+      internalID: -6177659303778100892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_41
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1119
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677b1d83bfc196e20800000000000000
+      internalID: 3344236063614941046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_42
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1120
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945c227e459e85b90800000000000000
+      internalID: -7252790649015843511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_43
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1035
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9dc5c9fd4f8e100800000000000000
+      internalID: 137629029873015234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1037
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea885dc14ce09e20800000000000000
+      internalID: 3355441489753180899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_45
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1037
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7716fb0dea9f490800000000000000
+      internalID: -7711940675307997207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1037
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3da22a0dcdf3a160800000000000000
+      internalID: 7035746099963014461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1037
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f03d4f3ebe54fd0800000000000000
+      internalID: -2358219465561010339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_48
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1037
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd0bcbdcb1031bd0800000000000000
+      internalID: -2660781044192834097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_49
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1037
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fb25bf07abc5e60800000000000000
+      internalID: 7952436036445060960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d5924fa0b0fab50800000000000000
+      internalID: 6606511320049737115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_51
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 999
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6bfc7e455e3e660800000000000000
+      internalID: 7414021564411131639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_52
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1001
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94b56aeab5c4bee0800000000000000
+      internalID: -1246153790287661921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 991
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd6a5e1d363a4d20800000000000000
+      internalID: 3263480516113493459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_54
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 991
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c5a65ea29ecb0b0800000000000000
+      internalID: -5711433856965780372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_55
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 992
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f017ce089c7681850800000000000000
+      internalID: 6347937789927780623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 999
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699a747f08a156f60800000000000000
+      internalID: 8026851052064582038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_57
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1001
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4993bdf874f36f2d0800000000000000
+      internalID: -3245336904885126764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_58
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 991
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d35551979247ca0800000000000000
+      internalID: -6020141201861821055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 991
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e74250410545b00800000000000000
+      internalID: 816365479376748088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_60
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 992
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f028c79e68af2770800000000000000
+      internalID: 8588268207365169392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_61
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 999
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b721608d68a97ae0800000000000000
+      internalID: -1551023408393672782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1001
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f417621abfabf3e0800000000000000
+      internalID: -2018826794238012174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_63
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 991
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79555f5222cc5ec0800000000000000
+      internalID: -3576770551154910854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_64
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 991
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcce077bdd135920800000000000000
+      internalID: 2977756607054531793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_65
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 992
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf55360838c99780800000000000000
+      internalID: -8675683064204664868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_66
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 991
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a84ea65e2854e50800000000000000
+      internalID: 6792979534810745381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 992
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1adb68b81d65aa0800000000000000
+      internalID: -6172515842073452042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_68
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 976
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f06024380d35530800000000000000
+      internalID: 3842644169244151584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_69
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 992
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b8b07eaf2fcb480800000000000000
+      internalID: -8881957205649421555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_70
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 976
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fef6537c440fcd0800000000000000
+      internalID: -2526443768569139350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_71
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 992
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1e0400146f2a7a0800000000000000
+      internalID: -6367256164110900760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_72
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 976
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3c8f7aee289e3a0800000000000000
+      internalID: -6635628614421789726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 979
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1363f91c6da51990800000000000000
+      internalID: -7415830531592199398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_74
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 980
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2219820d32dd1b040800000000000000
+      internalID: 4661750235191087394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 979
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7800aaf8b69d1b0800000000000000
+      internalID: -5631351594273437714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_76
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 980
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149170c357151a770800000000000000
+      internalID: 8620260725723961665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_77
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 979
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16a869c5e8e1be40800000000000000
+      internalID: 5670569479460398623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_78
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 980
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fdd8f7be4cde570800000000000000
+      internalID: 8497664587654356832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_79
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 978
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2677a72e2fae93210800000000000000
+      internalID: 1313339095257872226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_80
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 976
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914b1b7821d51d260800000000000000
+      internalID: 7120574820016829465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_81
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 981
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6990626b6c4017670800000000000000
+      internalID: 8534608020349782422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc98155b4783661c0800000000000000
+      internalID: -4510855902855591477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 959
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7f1b89efb6666a0800000000000000
+      internalID: -6456354274561362012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_84
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 959
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08f0a52d115025e0800000000000000
+      internalID: -1936458654142105588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_85
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 960
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e932b284fece74830800000000000000
+      internalID: 4055470501922546590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 872
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b401251364f98ac50800000000000000
+      internalID: 6676761571400749131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_87
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 872
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735fda99f3bd58120800000000000000
+      internalID: 2415577841361876279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_88
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 872
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f733ded202941ba80800000000000000
+      internalID: -8452894623039409281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_89
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 872
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0bede8a9e1675e0800000000000000
+      internalID: -1912307342601441120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_90
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 872
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96111a1719ea6f520800000000000000
+      internalID: 2735565763374027113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bdcaa5d49c99e90800000000000000
+      internalID: -7018357210209264769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 832
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41eedefcda4fdf330800000000000000
+      internalID: 3746419492397116948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_93
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 817
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edf3e9a950b03a90800000000000000
+      internalID: -7336169893837668895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_94
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 831
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac6a7ee575e30050800000000000000
+      internalID: 5765704242639301793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_95
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 831
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a8a0581194f5510800000000000000
+      internalID: 1540029937179331121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_96
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 832
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da78cfa251bbaaf40800000000000000
+      internalID: 5740606374627018669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_97
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 832
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1bec89a8c774cb0800000000000000
+      internalID: -4879794736521629199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_98
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 817
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ae262bba6888f80800000000000000
+      internalID: -8104079457462851064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_99
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 831
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f23822a37e5dbde0800000000000000
+      internalID: -1315791665387523339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_100
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 831
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cb50090251f91d0800000000000000
+      internalID: -3341929168886186970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_101
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 832
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c3331e212776bc0800000000000000
+      internalID: -3789935135995773825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_102
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 832
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a21048be14fef00800000000000000
+      internalID: 1148208909790554692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_103
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 817
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cdadba8cf0a55a0800000000000000
+      internalID: -6531890954996360181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_104
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 831
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f189335217f79610800000000000000
+      internalID: 1628041448395473393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_105
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 817
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf0a26c6bd9104c0800000000000000
+      internalID: -4323000758964711510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_106
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 820
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e24b21f3a442e410800000000000000
+      internalID: 1504840696411669220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_107
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 817
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e24253b791892db0800000000000000
+      internalID: -4816175837947477279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_108
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 820
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26632e2d5bcfa9940800000000000000
+      internalID: 5303829369039500898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_109
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 817
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aacd3fdeefbd1750800000000000000
+      internalID: 6277384488292829857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_110
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 820
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcb31f58d5358d30800000000000000
+      internalID: 4433008611640458417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d097c21615161450800000000000000
+      internalID: 6059053533222113488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_112
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 799
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b137ca1fb928e60800000000000000
+      internalID: 7963098553427106620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_113
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 799
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c331642a19d67a4f0800000000000000
+      internalID: -817564335084268740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a825ef3e8cf63bed0800000000000000
+      internalID: -2399451267849104758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 715
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5643b120c20745f00800000000000000
+      internalID: 1104631142928823397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_116
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 715
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f81cf27da61b2b0800000000000000
+      internalID: -5570553791628865646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_117
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 715
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43568f7ca6cffda50800000000000000
+      internalID: 6548229918771668276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022917b7715e4dae0800000000000000
+      internalID: -1525342484753706464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_119
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 656
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcd77f6d2f4801a0800000000000000
+      internalID: -6843132577227219747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_120
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 672
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4490042096bb4a40800000000000000
+      internalID: 5353573312255530059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_121
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 656
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc047e76fb77d8000800000000000000
+      internalID: 39819635681870027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_122
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 672
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2a5265795ca8360800000000000000
+      internalID: 7172762610316976839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_123
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 656
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb277e38d3f5f710800000000000000
+      internalID: 1726554142252936174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_124
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 672
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1ca63e2b5452c50800000000000000
+      internalID: 6639789860249584113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_125
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 671
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab1f06690a80ad60800000000000000
+      internalID: 7899465519379454887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1601aac4dba0d21c0800000000000000
+      internalID: -4526950242286170015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_127
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 658
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fc7758e5e50f7e0800000000000000
+      internalID: -1733782096478482606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_128
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 658
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa59fcd8a5b695a00800000000000000
+      internalID: 745745249976948143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_129
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 658
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a7134fd963e87d0800000000000000
+      internalID: -2914331856827483596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_130
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 656
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e8e8907b9faa4b0800000000000000
+      internalID: -5428251836307042722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_131
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 659
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba18e43cc79dc3a0800000000000000
+      internalID: -6643486971984864585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe4d844031a45540800000000000000
+      internalID: 4995795115341336318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_133
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 555
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6e61feb25885150800000000000000
+      internalID: 5861581338764043984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_134
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 639
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e143de61bd90bfb0800000000000000
+      internalID: -4634030631170129437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_135
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 639
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8380ec6e74be0520800000000000000
+      internalID: 2670270084162814858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_136
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 639
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db4ab7d9e7a3ece0800000000000000
+      internalID: -1377072438256710697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_137
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 639
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1df5c051a8343b0800000000000000
+      internalID: -5529424094474284638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_138
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 639
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75eaef5dc4fa0c770800000000000000
+      internalID: 8629089630584483415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_139
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 555
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d28e76b5f5f1640800000000000000
+      internalID: 5052862153122917704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_140
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 555
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19efd2605180858a0800000000000000
+      internalID: -6316289590996107631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_141
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 555
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d730b81c538d720800000000000000
+      internalID: 2871103867825913183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e856a8bcc2646f620800000000000000
+      internalID: 2807508575919433102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_143
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 521
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1965ae84d8701a440800000000000000
+      internalID: 4945242169224615569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_144
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 521
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47a696f28b1de9c0800000000000000
+      internalID: -3896427853308844211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_145
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 511
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c85bb0f0430dc0b0800000000000000
+      internalID: -5706901575356950329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_146
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 511
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a77e36554ee7450800000000000000
+      internalID: 6088554801650956846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_147
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 512
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096a8724c6b6445e0800000000000000
+      internalID: -1926296627891886448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_148
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 511
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c6793823a12f700800000000000000
+      internalID: 572548906887900275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_149
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 511
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c166d4c9935cac210800000000000000
+      internalID: 1354111489204381212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_150
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 512
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08358f026c34a120800000000000000
+      internalID: 2424128891297019919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_151
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 511
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3596208a0dae878f0800000000000000
+      internalID: -542425573205317293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_152
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 512
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e83bdff9e87868b0800000000000000
+      internalID: -5158740426737633050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_153
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 496
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea53789a71199c310800000000000000
+      internalID: 1425830287853958574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_154
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 499
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb30fdeac5adec6f0800000000000000
+      internalID: -662352003571186757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_155
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 499
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac6a28fd4ec1b270800000000000000
+      internalID: 8264613625472904358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_156
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 501
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56862d16b1457b370800000000000000
+      internalID: 8338225711681792101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_157
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 496
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbe2eee8d7efecb0800000000000000
+      internalID: -4832388956238451785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_158
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 499
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12e9b89bb8edd1c0800000000000000
+      internalID: -4477166562117557731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_159
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 501
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabac0eb26fbff740800000000000000
+      internalID: 5188075726570302380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_160
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 496
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4968f088abc46c90800000000000000
+      internalID: -7177387981543020212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_161
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 499
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ffd1fefac996b40800000000000000
+      internalID: 5434046704844144542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b844fcc57cd842490800000000000000
+      internalID: -7771931169539537781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_163
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 395
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa8f5b468e5d1100800000000000000
+      internalID: 80324299245718263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_164
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 479
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7a204cb17d0fd60800000000000000
+      internalID: 7922068258797299655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_165
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 479
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f3726f226a9cb20800000000000000
+      internalID: 3155235683038609185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_166
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 395
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9f12d4c326bfc10800000000000000
+      internalID: 2088370863347988943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_167
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 395
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8042bf09eab28af50800000000000000
+      internalID: 6892807258447225864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_168
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 395
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e277afca9175fa0800000000000000
+      internalID: -5812148563371151813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8b7ced1ef1f8e50800000000000000
+      internalID: 6813699816200583387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_170
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 361
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b4490ea9e80e370800000000000000
+      internalID: 8349830504988822403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_171
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1987907245d8abd20800000000000000
+      internalID: 3295101469946640529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_172
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 351
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa9fe55f22220b40800000000000000
+      internalID: 5404920089498589871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_173
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 352
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17af0758cacf08d40800000000000000
+      internalID: 5584741355842763377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_174
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 361
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f325e1000e5580290800000000000000
+      internalID: -7923989123795365313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_175
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6533bc25c234f8920800000000000000
+      internalID: 2994686134871339862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_176
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 351
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36f88b23f3f8f050800000000000000
+      internalID: 5834681542991476282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_177
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 352
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66384db078ec9540800000000000000
+      internalID: 5016139655893497453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_178
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 351
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7440792940854160800000000000000
+      internalID: 7009149446788236410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_179
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 351
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7240d59e55184f560800000000000000
+      internalID: 7346639098135512103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_180
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 352
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc65c162d010fc40800000000000000
+      internalID: 5543949637062585561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_181
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 351
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011ab0a40315e63e0800000000000000
+      internalID: -2058618711819181808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_182
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 352
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1c158e91433a360800000000000000
+      internalID: 7179639516835201510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_183
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 336
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bc6ddc0141587f0800000000000000
+      internalID: -611060112033395840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_184
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 352
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909245a6fae8715d0800000000000000
+      internalID: -3091845735112234743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_185
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 336
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0617a2ab72d100dd0800000000000000
+      internalID: -2521983734863204000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_186
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 336
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a5180c78827d6b0800000000000000
+      internalID: -5271700275298477502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_187
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 336
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e160afadec13f6e0800000000000000
+      internalID: -1805067218466086432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_188
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 339
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b653e8ab03cd2c660800000000000000
+      internalID: 7404722839196939627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_189
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 339
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65298eb012b68f60800000000000000
+      internalID: 8036306370075108714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_190
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 339
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5a497d45cc4dae0800000000000000
+      internalID: -1525369709005593154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_191
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 339
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485f7b6502e608e70800000000000000
+      internalID: 9115406730970789252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_192
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 341
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4646ad0fa728b70800000000000000
+      internalID: 8899810988512273656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_193
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 339
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5ceaaecdfb8c5b0800000000000000
+      internalID: -5347813601951431190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_194
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 341
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82018acf63709b850800000000000000
+      internalID: 6393149078777630760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_195
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 339
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed7431e1c32dfff0800000000000000
+      internalID: -805109316157977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aff29764cb3bd620800000000000000
+      internalID: 2799897308078210984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_197
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 237
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405bf725b8d2c20800000000000000
+      internalID: 3183353698066957406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_198
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 319
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d21f8de195432c60800000000000000
+      internalID: 7792148273339241174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_199
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 319
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4458ae7d5d49d30800000000000000
+      internalID: 4437406656196068593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_200
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 237
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4005def34ec0800f0800000000000000
+      internalID: -1150655530328567804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_201
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 319
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736585f69ed6fae60800000000000000
+      internalID: 7975714314459305527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_202
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 237
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ff14fcfc41ec450800000000000000
+      internalID: 6110844627156336415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_203
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da5a96df86224e90800000000000000
+      internalID: -7043024468031415599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_204
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 200
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8db8f15f2fd03d90800000000000000
+      internalID: -7119945616541041266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_205
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 201
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe061501d16f4a00800000000000000
+      internalID: 742920013900811964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_206
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 191
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420ecac862769d590800000000000000
+      internalID: -7648969076845518812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_207
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 192
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5271f8c8abeacd2f0800000000000000
+      internalID: -946689705409308891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_208
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 200
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0fac850f7189a50800000000000000
+      internalID: 6527993980922818733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_209
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 201
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178dce84bf9161540800000000000000
+      internalID: 4978195005155629169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_210
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 191
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e35ef68f4266e990800000000000000
+      internalID: -7357084847556373533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_211
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 192
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b747230096714d0800000000000000
+      internalID: -3163944763637073093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_212
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 200
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4f50438885dfd70800000000000000
+      internalID: 9078509765860390068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_213
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 201
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6d6e0214f1d17d0800000000000000
+      internalID: -2946164216645101904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_214
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 191
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66465e3f2f484ca50800000000000000
+      internalID: 6540498737857651814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_215
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 193
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e07a8ddf509b5390800000000000000
+      internalID: -7828504785840344863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_216
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 176
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159dac065c42cf0c0800000000000000
+      internalID: -4540713894145238703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_217
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 193
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4103904ac3619a080800000000000000
+      internalID: -9175778316084760556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_218
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 176
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71a52bf2fb76c6d0800000000000000
+      internalID: -2970550620678413958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_219
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 193
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec74cf793a19a3c70800000000000000
+      internalID: 8951627341167871950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_220
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 176
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20285c3b8adcb420800000000000000
+      internalID: 2647230972534726699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_221
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 179
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77db7e00734f59230800000000000000
+      internalID: 3645087990501850487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_222
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 180
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650013f3689d077e0800000000000000
+      internalID: -1769675482947583914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_223
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 179
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55b394e008c1c680800000000000000
+      internalID: -8736481895961610916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_224
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 180
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdb7a7c0a6275d50800000000000000
+      internalID: 6725887040487407103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_225
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 179
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2355d1d78ce8fb660800000000000000
+      internalID: 7403793304164062514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_226
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 180
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390184cd220c27f30800000000000000
+      internalID: 4571927827691606163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_227
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4826d8581b58db00800000000000000
+      internalID: 853532289514481739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_228
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 159
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d79ff9c06d7b350800000000000000
+      internalID: 6032525575597948257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_229
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 75
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5767a435c69ac70800000000000000
+      internalID: 8982830036754527714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea15cf9e56467900800000000000000
+      internalID: 681809765814573792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_231
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 76
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38ee4ad1c7aaf1a0800000000000000
+      internalID: -6774918238392358854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_232
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 77
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f274fbf94835fc930800000000000000
+      internalID: 4165640009421899567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_233
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 75
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7104027fa865abc80800000000000000
+      internalID: -8306231407879897065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_234
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 75
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8cf120996d01690800000000000000
+      internalID: -7633365415739012943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_235
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0f5b4c72be18800800000000000000
+      internalID: 613029580335608039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_236
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9a193fedb2bf450800000000000000
+      internalID: 6123536354909465049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_237
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fec79fe3df243c0800000000000000
+      internalID: -4376657440935186597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_238
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 31
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f65f6f14c778890800000000000000
+      internalID: -7455854035330568360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_239
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839c6856d0ffd5310800000000000000
+      internalID: 1395551892557711672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_240
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e332d0aed780cb410800000000000000
+      internalID: 1494078513270825790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_241
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad56e62dba2cfc80800000000000000
+      internalID: -8287702222378738271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_242
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 31
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b9c5bc2dee496b0800000000000000
+      internalID: -5290341073131103394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_243
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 32
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb4d7b8e399f18f0800000000000000
+      internalID: -567566534118126595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_244
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cb0390640064c50800000000000000
+      internalID: 6649002200661015659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_245
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363ef513c148d1880800000000000000
+      internalID: -8638603253604424861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_246
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 31
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98df7020680af50a0800000000000000
+      internalID: -6890612407433429623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_247
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 31
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a80fefcec0fe7d0800000000000000
+      internalID: -2887074624092206559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_248
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 32
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4830ed97dbff8ce30800000000000000
+      internalID: 4524147014952158084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_249
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06ef19cb3d61b4a0800000000000000
+      internalID: -6579357477066775027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_250
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 16
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1199f3b18962fa80800000000000000
+      internalID: -8434563146320342755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_251
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023865eb099d33090800000000000000
+      internalID: -8055856092743826656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_252
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2144217a1214370800000000000000
+      internalID: 8304956189297611489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_253
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac3b50b3b060b670800000000000000
+      internalID: 8552442017250753696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_254
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1dbbbb364438320800000000000000
+      internalID: 2558964208418673090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_255
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69d7d66641b2e610800000000000000
+      internalID: 1649075329502271852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_256
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d313c5dba3bdce380800000000000000
+      internalID: -8940530114905755331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_257
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 16
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702dad5f56ba5e440800000000000000
+      internalID: 4964562618650644999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_258
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 20
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4815d894eea72ae0800000000000000
+      internalID: -1574097247902820276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_259
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 16
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cdc5cc3f6d0e480800000000000000
+      internalID: -8871854923325842317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_260
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 20
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04be8a1b953d369f0800000000000000
+      internalID: -476304753384953024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_261
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9376cd9e50830c0800000000000000
+      internalID: -4595916917748319810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_262
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 16
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8c7c78f8a01b100800000000000000
+      internalID: 121890276490332333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_263
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 20
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba4c7d48c5d0d780800000000000000
+      internalID: -8660187027163297101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_264
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 19
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56110871720507db0800000000000000
+      internalID: -4796245474321362587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_265
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5ad52a87f453ec0800000000000000
+      internalID: -3587874148592015956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_266
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4902bf1edeccfb0b0800000000000000
+      internalID: -5710620480411852652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_267
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b6154ed7c773cd0800000000000000
+      internalID: -2578455381503022191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_268
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b997fb397945b4bd0800000000000000
+      internalID: -2644927346154440293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_269
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85911426ebcf66cc0800000000000000
+      internalID: -3718006547725346472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Trees_270
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520bd80340b53d7b0800000000000000
+      internalID: -5200713071130202075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 313441e275663674095bcc71ad223c5e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Stardew Valley - Trees_0: -7662552301746025781
+      PC Computer - Stardew Valley - Trees_1: -3612396199634385297
+      PC Computer - Stardew Valley - Trees_10: 3425511527374701603
+      PC Computer - Stardew Valley - Trees_100: -3341929168886186970
+      PC Computer - Stardew Valley - Trees_101: -3789935135995773825
+      PC Computer - Stardew Valley - Trees_102: 1148208909790554692
+      PC Computer - Stardew Valley - Trees_103: -6531890954996360181
+      PC Computer - Stardew Valley - Trees_104: 1628041448395473393
+      PC Computer - Stardew Valley - Trees_105: -4323000758964711510
+      PC Computer - Stardew Valley - Trees_106: 1504840696411669220
+      PC Computer - Stardew Valley - Trees_107: -4816175837947477279
+      PC Computer - Stardew Valley - Trees_108: 5303829369039500898
+      PC Computer - Stardew Valley - Trees_109: 6277384488292829857
+      PC Computer - Stardew Valley - Trees_11: -6476808999499166838
+      PC Computer - Stardew Valley - Trees_110: 4433008611640458417
+      PC Computer - Stardew Valley - Trees_111: 6059053533222113488
+      PC Computer - Stardew Valley - Trees_112: 7963098553427106620
+      PC Computer - Stardew Valley - Trees_113: -817564335084268740
+      PC Computer - Stardew Valley - Trees_114: -2399451267849104758
+      PC Computer - Stardew Valley - Trees_115: 1104631142928823397
+      PC Computer - Stardew Valley - Trees_116: -5570553791628865646
+      PC Computer - Stardew Valley - Trees_117: 6548229918771668276
+      PC Computer - Stardew Valley - Trees_118: -1525342484753706464
+      PC Computer - Stardew Valley - Trees_119: -6843132577227219747
+      PC Computer - Stardew Valley - Trees_12: -6762370987725165578
+      PC Computer - Stardew Valley - Trees_120: 5353573312255530059
+      PC Computer - Stardew Valley - Trees_121: 39819635681870027
+      PC Computer - Stardew Valley - Trees_122: 7172762610316976839
+      PC Computer - Stardew Valley - Trees_123: 1726554142252936174
+      PC Computer - Stardew Valley - Trees_124: 6639789860249584113
+      PC Computer - Stardew Valley - Trees_125: 7899465519379454887
+      PC Computer - Stardew Valley - Trees_126: -4526950242286170015
+      PC Computer - Stardew Valley - Trees_127: -1733782096478482606
+      PC Computer - Stardew Valley - Trees_128: 745745249976948143
+      PC Computer - Stardew Valley - Trees_129: -2914331856827483596
+      PC Computer - Stardew Valley - Trees_13: 8007699379981524726
+      PC Computer - Stardew Valley - Trees_130: -5428251836307042722
+      PC Computer - Stardew Valley - Trees_131: -6643486971984864585
+      PC Computer - Stardew Valley - Trees_132: 4995795115341336318
+      PC Computer - Stardew Valley - Trees_133: 5861581338764043984
+      PC Computer - Stardew Valley - Trees_134: -4634030631170129437
+      PC Computer - Stardew Valley - Trees_135: 2670270084162814858
+      PC Computer - Stardew Valley - Trees_136: -1377072438256710697
+      PC Computer - Stardew Valley - Trees_137: -5529424094474284638
+      PC Computer - Stardew Valley - Trees_138: 8629089630584483415
+      PC Computer - Stardew Valley - Trees_139: 5052862153122917704
+      PC Computer - Stardew Valley - Trees_14: 4144839895529400731
+      PC Computer - Stardew Valley - Trees_140: -6316289590996107631
+      PC Computer - Stardew Valley - Trees_141: 2871103867825913183
+      PC Computer - Stardew Valley - Trees_142: 2807508575919433102
+      PC Computer - Stardew Valley - Trees_143: 4945242169224615569
+      PC Computer - Stardew Valley - Trees_144: -3896427853308844211
+      PC Computer - Stardew Valley - Trees_145: -5706901575356950329
+      PC Computer - Stardew Valley - Trees_146: 6088554801650956846
+      PC Computer - Stardew Valley - Trees_147: -1926296627891886448
+      PC Computer - Stardew Valley - Trees_148: 572548906887900275
+      PC Computer - Stardew Valley - Trees_149: 1354111489204381212
+      PC Computer - Stardew Valley - Trees_15: -3308569047018956443
+      PC Computer - Stardew Valley - Trees_150: 2424128891297019919
+      PC Computer - Stardew Valley - Trees_151: -542425573205317293
+      PC Computer - Stardew Valley - Trees_152: -5158740426737633050
+      PC Computer - Stardew Valley - Trees_153: 1425830287853958574
+      PC Computer - Stardew Valley - Trees_154: -662352003571186757
+      PC Computer - Stardew Valley - Trees_155: 8264613625472904358
+      PC Computer - Stardew Valley - Trees_156: 8338225711681792101
+      PC Computer - Stardew Valley - Trees_157: -4832388956238451785
+      PC Computer - Stardew Valley - Trees_158: -4477166562117557731
+      PC Computer - Stardew Valley - Trees_159: 5188075726570302380
+      PC Computer - Stardew Valley - Trees_16: 4324520626052030524
+      PC Computer - Stardew Valley - Trees_160: -7177387981543020212
+      PC Computer - Stardew Valley - Trees_161: 5434046704844144542
+      PC Computer - Stardew Valley - Trees_162: -7771931169539537781
+      PC Computer - Stardew Valley - Trees_163: 80324299245718263
+      PC Computer - Stardew Valley - Trees_164: 7922068258797299655
+      PC Computer - Stardew Valley - Trees_165: 3155235683038609185
+      PC Computer - Stardew Valley - Trees_166: 2088370863347988943
+      PC Computer - Stardew Valley - Trees_167: 6892807258447225864
+      PC Computer - Stardew Valley - Trees_168: -5812148563371151813
+      PC Computer - Stardew Valley - Trees_169: 6813699816200583387
+      PC Computer - Stardew Valley - Trees_17: 8693700599033295210
+      PC Computer - Stardew Valley - Trees_170: 8349830504988822403
+      PC Computer - Stardew Valley - Trees_171: 3295101469946640529
+      PC Computer - Stardew Valley - Trees_172: 5404920089498589871
+      PC Computer - Stardew Valley - Trees_173: 5584741355842763377
+      PC Computer - Stardew Valley - Trees_174: -7923989123795365313
+      PC Computer - Stardew Valley - Trees_175: 2994686134871339862
+      PC Computer - Stardew Valley - Trees_176: 5834681542991476282
+      PC Computer - Stardew Valley - Trees_177: 5016139655893497453
+      PC Computer - Stardew Valley - Trees_178: 7009149446788236410
+      PC Computer - Stardew Valley - Trees_179: 7346639098135512103
+      PC Computer - Stardew Valley - Trees_18: 2692577738316750609
+      PC Computer - Stardew Valley - Trees_180: 5543949637062585561
+      PC Computer - Stardew Valley - Trees_181: -2058618711819181808
+      PC Computer - Stardew Valley - Trees_182: 7179639516835201510
+      PC Computer - Stardew Valley - Trees_183: -611060112033395840
+      PC Computer - Stardew Valley - Trees_184: -3091845735112234743
+      PC Computer - Stardew Valley - Trees_185: -2521983734863204000
+      PC Computer - Stardew Valley - Trees_186: -5271700275298477502
+      PC Computer - Stardew Valley - Trees_187: -1805067218466086432
+      PC Computer - Stardew Valley - Trees_188: 7404722839196939627
+      PC Computer - Stardew Valley - Trees_189: 8036306370075108714
+      PC Computer - Stardew Valley - Trees_19: 8733495854230196281
+      PC Computer - Stardew Valley - Trees_190: -1525369709005593154
+      PC Computer - Stardew Valley - Trees_191: 9115406730970789252
+      PC Computer - Stardew Valley - Trees_192: 8899810988512273656
+      PC Computer - Stardew Valley - Trees_193: -5347813601951431190
+      PC Computer - Stardew Valley - Trees_194: 6393149078777630760
+      PC Computer - Stardew Valley - Trees_195: -805109316157977
+      PC Computer - Stardew Valley - Trees_196: 2799897308078210984
+      PC Computer - Stardew Valley - Trees_197: 3183353698066957406
+      PC Computer - Stardew Valley - Trees_198: 7792148273339241174
+      PC Computer - Stardew Valley - Trees_199: 4437406656196068593
+      PC Computer - Stardew Valley - Trees_2: -7702738866874018020
+      PC Computer - Stardew Valley - Trees_20: 6463725342508252915
+      PC Computer - Stardew Valley - Trees_200: -1150655530328567804
+      PC Computer - Stardew Valley - Trees_201: 7975714314459305527
+      PC Computer - Stardew Valley - Trees_202: 6110844627156336415
+      PC Computer - Stardew Valley - Trees_203: -7043024468031415599
+      PC Computer - Stardew Valley - Trees_204: -7119945616541041266
+      PC Computer - Stardew Valley - Trees_205: 742920013900811964
+      PC Computer - Stardew Valley - Trees_206: -7648969076845518812
+      PC Computer - Stardew Valley - Trees_207: -946689705409308891
+      PC Computer - Stardew Valley - Trees_208: 6527993980922818733
+      PC Computer - Stardew Valley - Trees_209: 4978195005155629169
+      PC Computer - Stardew Valley - Trees_21: -4080037423554602746
+      PC Computer - Stardew Valley - Trees_210: -7357084847556373533
+      PC Computer - Stardew Valley - Trees_211: -3163944763637073093
+      PC Computer - Stardew Valley - Trees_212: 9078509765860390068
+      PC Computer - Stardew Valley - Trees_213: -2946164216645101904
+      PC Computer - Stardew Valley - Trees_214: 6540498737857651814
+      PC Computer - Stardew Valley - Trees_215: -7828504785840344863
+      PC Computer - Stardew Valley - Trees_216: -4540713894145238703
+      PC Computer - Stardew Valley - Trees_217: -9175778316084760556
+      PC Computer - Stardew Valley - Trees_218: -2970550620678413958
+      PC Computer - Stardew Valley - Trees_219: 8951627341167871950
+      PC Computer - Stardew Valley - Trees_22: -9050245518223464404
+      PC Computer - Stardew Valley - Trees_220: 2647230972534726699
+      PC Computer - Stardew Valley - Trees_221: 3645087990501850487
+      PC Computer - Stardew Valley - Trees_222: -1769675482947583914
+      PC Computer - Stardew Valley - Trees_223: -8736481895961610916
+      PC Computer - Stardew Valley - Trees_224: 6725887040487407103
+      PC Computer - Stardew Valley - Trees_225: 7403793304164062514
+      PC Computer - Stardew Valley - Trees_226: 4571927827691606163
+      PC Computer - Stardew Valley - Trees_227: 853532289514481739
+      PC Computer - Stardew Valley - Trees_228: 6032525575597948257
+      PC Computer - Stardew Valley - Trees_229: 8982830036754527714
+      PC Computer - Stardew Valley - Trees_23: 319377143427109046
+      PC Computer - Stardew Valley - Trees_230: 681809765814573792
+      PC Computer - Stardew Valley - Trees_231: -6774918238392358854
+      PC Computer - Stardew Valley - Trees_232: 4165640009421899567
+      PC Computer - Stardew Valley - Trees_233: -8306231407879897065
+      PC Computer - Stardew Valley - Trees_234: -7633365415739012943
+      PC Computer - Stardew Valley - Trees_235: 613029580335608039
+      PC Computer - Stardew Valley - Trees_236: 6123536354909465049
+      PC Computer - Stardew Valley - Trees_237: -4376657440935186597
+      PC Computer - Stardew Valley - Trees_238: -7455854035330568360
+      PC Computer - Stardew Valley - Trees_239: 1395551892557711672
+      PC Computer - Stardew Valley - Trees_24: -8360127768977997944
+      PC Computer - Stardew Valley - Trees_240: 1494078513270825790
+      PC Computer - Stardew Valley - Trees_241: -8287702222378738271
+      PC Computer - Stardew Valley - Trees_242: -5290341073131103394
+      PC Computer - Stardew Valley - Trees_243: -567566534118126595
+      PC Computer - Stardew Valley - Trees_244: 6649002200661015659
+      PC Computer - Stardew Valley - Trees_245: -8638603253604424861
+      PC Computer - Stardew Valley - Trees_246: -6890612407433429623
+      PC Computer - Stardew Valley - Trees_247: -2887074624092206559
+      PC Computer - Stardew Valley - Trees_248: 4524147014952158084
+      PC Computer - Stardew Valley - Trees_249: -6579357477066775027
+      PC Computer - Stardew Valley - Trees_25: -5560859604872025658
+      PC Computer - Stardew Valley - Trees_250: -8434563146320342755
+      PC Computer - Stardew Valley - Trees_251: -8055856092743826656
+      PC Computer - Stardew Valley - Trees_252: 8304956189297611489
+      PC Computer - Stardew Valley - Trees_253: 8552442017250753696
+      PC Computer - Stardew Valley - Trees_254: 2558964208418673090
+      PC Computer - Stardew Valley - Trees_255: 1649075329502271852
+      PC Computer - Stardew Valley - Trees_256: -8940530114905755331
+      PC Computer - Stardew Valley - Trees_257: 4964562618650644999
+      PC Computer - Stardew Valley - Trees_258: -1574097247902820276
+      PC Computer - Stardew Valley - Trees_259: -8871854923325842317
+      PC Computer - Stardew Valley - Trees_26: -7880920550065446866
+      PC Computer - Stardew Valley - Trees_260: -476304753384953024
+      PC Computer - Stardew Valley - Trees_261: -4595916917748319810
+      PC Computer - Stardew Valley - Trees_262: 121890276490332333
+      PC Computer - Stardew Valley - Trees_263: -8660187027163297101
+      PC Computer - Stardew Valley - Trees_264: -4796245474321362587
+      PC Computer - Stardew Valley - Trees_265: -3587874148592015956
+      PC Computer - Stardew Valley - Trees_266: -5710620480411852652
+      PC Computer - Stardew Valley - Trees_267: -2578455381503022191
+      PC Computer - Stardew Valley - Trees_268: -2644927346154440293
+      PC Computer - Stardew Valley - Trees_269: -3718006547725346472
+      PC Computer - Stardew Valley - Trees_27: 2427655411482439866
+      PC Computer - Stardew Valley - Trees_270: -5200713071130202075
+      PC Computer - Stardew Valley - Trees_28: -8382186340529394536
+      PC Computer - Stardew Valley - Trees_29: 4608276100348626554
+      PC Computer - Stardew Valley - Trees_3: 5874800401871251114
+      PC Computer - Stardew Valley - Trees_30: 3985807291558798280
+      PC Computer - Stardew Valley - Trees_31: 2012804524454869038
+      PC Computer - Stardew Valley - Trees_32: -5559646517953870086
+      PC Computer - Stardew Valley - Trees_33: 1537082744197011247
+      PC Computer - Stardew Valley - Trees_34: 8347045112975519082
+      PC Computer - Stardew Valley - Trees_35: 1784784912923039978
+      PC Computer - Stardew Valley - Trees_36: 3871582913081975580
+      PC Computer - Stardew Valley - Trees_37: -1983262748823836131
+      PC Computer - Stardew Valley - Trees_38: -2363276908902720520
+      PC Computer - Stardew Valley - Trees_39: -8244581600455720206
+      PC Computer - Stardew Valley - Trees_4: 1701990819765957706
+      PC Computer - Stardew Valley - Trees_40: -6177659303778100892
+      PC Computer - Stardew Valley - Trees_41: 3344236063614941046
+      PC Computer - Stardew Valley - Trees_42: -7252790649015843511
+      PC Computer - Stardew Valley - Trees_43: 137629029873015234
+      PC Computer - Stardew Valley - Trees_44: 3355441489753180899
+      PC Computer - Stardew Valley - Trees_45: -7711940675307997207
+      PC Computer - Stardew Valley - Trees_46: 7035746099963014461
+      PC Computer - Stardew Valley - Trees_47: -2358219465561010339
+      PC Computer - Stardew Valley - Trees_48: -2660781044192834097
+      PC Computer - Stardew Valley - Trees_49: 7952436036445060960
+      PC Computer - Stardew Valley - Trees_5: -1012235030032479714
+      PC Computer - Stardew Valley - Trees_50: 6606511320049737115
+      PC Computer - Stardew Valley - Trees_51: 7414021564411131639
+      PC Computer - Stardew Valley - Trees_52: -1246153790287661921
+      PC Computer - Stardew Valley - Trees_53: 3263480516113493459
+      PC Computer - Stardew Valley - Trees_54: -5711433856965780372
+      PC Computer - Stardew Valley - Trees_55: 6347937789927780623
+      PC Computer - Stardew Valley - Trees_56: 8026851052064582038
+      PC Computer - Stardew Valley - Trees_57: -3245336904885126764
+      PC Computer - Stardew Valley - Trees_58: -6020141201861821055
+      PC Computer - Stardew Valley - Trees_59: 816365479376748088
+      PC Computer - Stardew Valley - Trees_6: -162906899258969645
+      PC Computer - Stardew Valley - Trees_60: 8588268207365169392
+      PC Computer - Stardew Valley - Trees_61: -1551023408393672782
+      PC Computer - Stardew Valley - Trees_62: -2018826794238012174
+      PC Computer - Stardew Valley - Trees_63: -3576770551154910854
+      PC Computer - Stardew Valley - Trees_64: 2977756607054531793
+      PC Computer - Stardew Valley - Trees_65: -8675683064204664868
+      PC Computer - Stardew Valley - Trees_66: 6792979534810745381
+      PC Computer - Stardew Valley - Trees_67: -6172515842073452042
+      PC Computer - Stardew Valley - Trees_68: 3842644169244151584
+      PC Computer - Stardew Valley - Trees_69: -8881957205649421555
+      PC Computer - Stardew Valley - Trees_7: -3246410926596255796
+      PC Computer - Stardew Valley - Trees_70: -2526443768569139350
+      PC Computer - Stardew Valley - Trees_71: -6367256164110900760
+      PC Computer - Stardew Valley - Trees_72: -6635628614421789726
+      PC Computer - Stardew Valley - Trees_73: -7415830531592199398
+      PC Computer - Stardew Valley - Trees_74: 4661750235191087394
+      PC Computer - Stardew Valley - Trees_75: -5631351594273437714
+      PC Computer - Stardew Valley - Trees_76: 8620260725723961665
+      PC Computer - Stardew Valley - Trees_77: 5670569479460398623
+      PC Computer - Stardew Valley - Trees_78: 8497664587654356832
+      PC Computer - Stardew Valley - Trees_79: 1313339095257872226
+      PC Computer - Stardew Valley - Trees_8: 5383725339293050160
+      PC Computer - Stardew Valley - Trees_80: 7120574820016829465
+      PC Computer - Stardew Valley - Trees_81: 8534608020349782422
+      PC Computer - Stardew Valley - Trees_82: -4510855902855591477
+      PC Computer - Stardew Valley - Trees_83: -6456354274561362012
+      PC Computer - Stardew Valley - Trees_84: -1936458654142105588
+      PC Computer - Stardew Valley - Trees_85: 4055470501922546590
+      PC Computer - Stardew Valley - Trees_86: 6676761571400749131
+      PC Computer - Stardew Valley - Trees_87: 2415577841361876279
+      PC Computer - Stardew Valley - Trees_88: -8452894623039409281
+      PC Computer - Stardew Valley - Trees_89: -1912307342601441120
+      PC Computer - Stardew Valley - Trees_9: -7052796587223387176
+      PC Computer - Stardew Valley - Trees_90: 2735565763374027113
+      PC Computer - Stardew Valley - Trees_91: -7018357210209264769
+      PC Computer - Stardew Valley - Trees_92: 3746419492397116948
+      PC Computer - Stardew Valley - Trees_93: -7336169893837668895
+      PC Computer - Stardew Valley - Trees_94: 5765704242639301793
+      PC Computer - Stardew Valley - Trees_95: 1540029937179331121
+      PC Computer - Stardew Valley - Trees_96: 5740606374627018669
+      PC Computer - Stardew Valley - Trees_97: -4879794736521629199
+      PC Computer - Stardew Valley - Trees_98: -8104079457462851064
+      PC Computer - Stardew Valley - Trees_99: -1315791665387523339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

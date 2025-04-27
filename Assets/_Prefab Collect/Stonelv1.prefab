@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 312624217838788496}
   - component: {fileID: 1468592362011303246}
   - component: {fileID: 5842637154604639000}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Stonelv1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29,7 +29,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -15.766901, y: 15.126116, z: 9.982542}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_LocalScale: {x: 0.7, y: 0.7, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -102,9 +102,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 11400000, guid: d3c39bb5adba2f441816508cfba1feb9, type: 2}
-  playerLayer:
-    serializedVersion: 2
-    m_Bits: 64
 --- !u!58 &5842637154604639000
 CircleCollider2D:
   m_ObjectHideFlags: 0

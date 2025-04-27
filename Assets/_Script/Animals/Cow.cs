@@ -1,29 +1,58 @@
-﻿using System.Collections;
+﻿
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+
 
 public class Cow : MonoBehaviour
 {
+    public enum CowGender { Male, Female }
+    public CowGender gender;
     public float moveSpeed = 2f;
     public float moveTime = 2f; 
     public float waitTime = 1f;
     public float sleepTime = 5f;
-    public float sleepChance = 0.2f; 
-
-    private Rigidbody2D rb;
-    private Animator animator;
+    public float sleepChance = 0.2f;
+    [SerializeField] private float hunger = 100f;
+    [SerializeField] private float hungerDecreaseRate = 1f;
+    private Vector2 previousDirection;
     private Vector2 moveDirection;
     public float raycastDistance = 1.5f;
+    
+    [SerializeField] protected float breedCooldown = 30f; // thời gian giữa các lần sinh
+    protected float lastBreedTime = -999f;
+
+    [Header("States")]
     private bool isMoving = false;
     private bool isSleeping = false;
-    private Vector2 previousDirection;
-    void Start()
+    [SerializeField] public bool isReadyToBreed = false;
+
+    protected Rigidbody2D rb;
+    protected Animator animator;
+    protected Coroutine moveAndEatCoroutine, Sleepcoroutine, MoveRandom;
+    [SerializeField] protected GameObject _babyCowPrefab;
+    protected Grass targetGrass;
+    protected virtual void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        StartCoroutine(MoveRandomly());
+        MoveRandom=StartCoroutine(MoveRandomly());
     }
-    
-    IEnumerator MoveRandomly()
+    protected virtual void Update()
+    {   if(hunger>=0) hunger -= hungerDecreaseRate * Time.deltaTime; 
+
+        if (hunger < 10f )
+        {
+            FindClosestGrass();
+        }
+        if (targetGrass != null)
+        {
+            if (moveAndEatCoroutine == null)
+                moveAndEatCoroutine = StartCoroutine(MoveAndEatRoutine());
+        }
+
+    }
+    protected IEnumerator MoveRandomly()
     {
         while (true)
         {
@@ -53,40 +82,44 @@ public class Cow : MonoBehaviour
                 }
                 if (Random.value < sleepChance)
                 {
-                    StartCoroutine(Sleep());
+                    if (Sleepcoroutine != null)
+                        StopCoroutine(Sleepcoroutine);
+                    Sleepcoroutine=  StartCoroutine(Sleep());
                 }
             }          
             yield return new WaitForSeconds(waitTime);
         }
     }
 
-    void ChooseRandomDirection()
+    protected void ChooseRandomDirection()
     {
         int randomDir = Random.Range(0, 4);
-        while ((Vector2)DirectionFromInt(randomDir) == previousDirection)
+        while (DirectionFromInt(randomDir) == previousDirection)
         {
             randomDir = Random.Range(0, 4);
         }
 
         moveDirection = DirectionFromInt(randomDir);
         previousDirection = moveDirection;
-
-        switch (randomDir)
-        {
-        case 0:           
-               animator.Play("Walk_Up");
-               break;
-        case 1:             
-                    animator.Play("Walk_Down");
-               break;
-        case 2:                
-               animator.Play("Walk_Left");          
-               break;     
-        case 3:              
-               animator.Play("Walk_Right");
-               break;
-        }
+        SetAnimWalk(randomDir);
         rb.linearVelocity = moveDirection * moveSpeed;     
+    }
+    protected void SetAnimWalk(int dir) {
+        switch (dir)
+        {
+            case 0:
+                animator.Play("Walk_Up");
+                break;
+            case 1:
+                animator.Play("Walk_Down");
+                break;
+            case 2:
+                animator.Play("Walk_Left");
+                break;
+            case 3:
+                animator.Play("Walk_Right");
+                break;
+        }
     }
     Vector2 DirectionFromInt(int dir)
     {
@@ -100,13 +133,13 @@ public class Cow : MonoBehaviour
         }
     }
 
-    bool CheckObstacle()
+    protected bool CheckObstacle()
     {
         RaycastHit2D hit = Physics2D.Raycast(rb.position, moveDirection, raycastDistance);
         Debug.DrawRay(rb.position, moveDirection * raycastDistance, Color.red); // Vẽ tia ray mỗi lần kiểm tra
         return hit.collider != null && !hit.collider.isTrigger;
     }
-    void SetIdleAnimation()
+    protected void SetIdleAnimation()
     {
         if (moveDirection == Vector2.up)
             animator.Play("Idle Up");
@@ -135,5 +168,86 @@ public class Cow : MonoBehaviour
         SetIdleAnimation();
         yield return new WaitForSeconds(waitTime);
         isSleeping = false;
+        Sleepcoroutine=null;
+    }
+    protected void FindClosestGrass()
+    {   
+
+        Collider2D[] allGrass = Physics2D.OverlapCircleAll(transform.position, 5f);
+        targetGrass = null;  
+        foreach (Collider2D grassCollider in allGrass)
+        {
+            Grass grass = grassCollider.GetComponent<Grass>();
+            if (grass != null && grass._IsPlayerPlaced)
+            {      
+                targetGrass = grass;
+                break;
+            }
+        }
+      
+    }
+
+    protected IEnumerator MoveAndEatRoutine()
+    {
+        if (targetGrass == null) yield break; 
+        if (MoveRandom != null)
+        {
+            StopCoroutine(MoveRandom);
+            MoveRandom = null;
+        }
+        Vector3 targetPos = targetGrass.transform.position;
+        List<Node> path = Pathfinding.FindPath((Vector2)transform.position,(Vector2) targetPos);
+        foreach (Node node in path)
+        {
+            Vector2 MoveToPos = GridSystem.Instance.GridToWorld(node.gridPos);
+            if (targetGrass == null)
+            {
+                rb.linearVelocity = Vector2.zero;
+                moveAndEatCoroutine = null;
+                SetIdleAnimation();
+                if (MoveRandom == null)
+                    MoveRandom = StartCoroutine(MoveRandomly());
+                yield break;
+            }
+            yield return StartCoroutine(MoveToPosition(MoveToPos));
+        }
+        rb.linearVelocity = Vector2.zero;
+        SetIdleAnimation();
+        yield return new WaitForSeconds(2f);
+
+        if (targetGrass != null)
+        {
+            targetGrass.Consume();
+            hunger += 100;
+        }
+
+        moveAndEatCoroutine=null;
+        if (MoveRandom == null)
+            MoveRandom = StartCoroutine(MoveRandomly());
+    }
+    protected IEnumerator MoveToPosition(Vector2 targetPos)
+    { 
+        while (Mathf.Abs(transform.position.x - targetPos.x) > 0.05f)
+        {           
+            float directionX = targetPos.x - transform.position.x;
+            moveDirection = directionX > 0 ? Vector2.right : Vector2.left;
+
+            rb.linearVelocity = moveDirection * moveSpeed;
+            SetAnimWalk(directionX > 0 ? 3 : 2);
+
+            yield return null;
+        }
+        while (Mathf.Abs(transform.position.y - targetPos.y) > 0.05f)
+        {          
+            float directionY = targetPos.y - transform.position.y;
+            moveDirection = directionY > 0 ? Vector2.up : Vector2.down;
+
+            rb.linearVelocity = moveDirection * moveSpeed;
+            SetAnimWalk(directionY > 0 ? 0 : 1);
+
+            yield return null;
+        }
+        
     }
 }
+

@@ -1,0 +1,4628 @@
+fileFormatVersion: 2
+guid: 8f4253d68c33b3341882f3d7bd1c60ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6710947693009252704
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_0
+  - first:
+      213: -249823634393116064
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_1
+  - first:
+      213: -955792433384963448
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_2
+  - first:
+      213: 2343830953741144660
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_3
+  - first:
+      213: 181240180261968802
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_4
+  - first:
+      213: 4494254609159943021
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_5
+  - first:
+      213: -6385850317089987786
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_6
+  - first:
+      213: -6198030813051652238
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_7
+  - first:
+      213: -171921605832048068
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_8
+  - first:
+      213: -3049059004707659226
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_9
+  - first:
+      213: 7186075328849410002
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_10
+  - first:
+      213: 4141573137962592426
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_11
+  - first:
+      213: -8806787686292796377
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_12
+  - first:
+      213: 1062709582055682418
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_13
+  - first:
+      213: 8617054658846137846
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_14
+  - first:
+      213: -701704911187436719
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_15
+  - first:
+      213: -9046408139113257962
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_16
+  - first:
+      213: 6868151657504350237
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_17
+  - first:
+      213: -1087314203740283790
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_18
+  - first:
+      213: 1850061514343194763
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_19
+  - first:
+      213: 7236716197764926661
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_20
+  - first:
+      213: 6093618610939120011
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_21
+  - first:
+      213: -2477848625322157506
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_22
+  - first:
+      213: 1806679232300005953
+    second: PC Computer - Stardew Valley - Outdoors Spring (1)_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0613b04ee53122d50800000000000000
+      internalID: 6710947693009252704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06250876ab2788cf0800000000000000
+      internalID: -249823634393116064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882451988d75cb2f0800000000000000
+      internalID: -955792433384963448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4525e4395d5f68020800000000000000
+      internalID: 2343830953741144660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abda83dbf4e38200800000000000000
+      internalID: 181240180261968802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63f32561ccce5e30800000000000000
+      internalID: 4494254609159943021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633290568f6e067a0800000000000000
+      internalID: -6385850317089987786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277712960db2cf9a0800000000000000
+      internalID: -6198030813051652238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c328a2bd5363d9df0800000000000000
+      internalID: -171921605832048068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622a1356df09fa5d0800000000000000
+      internalID: -3049059004707659226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7744920711ab360800000000000000
+      internalID: 7186075328849410002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa86f8373d2d97930800000000000000
+      internalID: 4141573137962592426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ccb3a724108c580800000000000000
+      internalID: -8806787686292796377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27135d10cb08fbe00800000000000000
+      internalID: 1062709582055682418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd16ae9e8de59770800000000000000
+      internalID: 8617054658846137846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b968fd91b0346f0800000000000000
+      internalID: -701704911187436719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614a3f63ab3b47280800000000000000
+      internalID: -9046408139113257962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10ae012b83905f50800000000000000
+      internalID: 6868151657504350237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cd2d61e7519e0f0800000000000000
+      internalID: -1087314203740283790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b802c0f252dbca910800000000000000
+      internalID: 1850061514343194763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc08144a0bfd6460800000000000000
+      internalID: 7236716197764926661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b894cbd57d1e09450800000000000000
+      internalID: 6093618610939120011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a9b70bdc9ec9dd0800000000000000
+      internalID: -2477848625322157506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a3158803d921910800000000000000
+      internalID: 1806679232300005953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4906102cea0af41af16e9276d042ad
+      internalID: 1665396818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843a35f864307084981678e48a2f2495
+      internalID: 1148890939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ba88ddeb1eab646b2e370316069ec2
+      internalID: -685396804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec52ca3907b91447bf388d75a9c4a82
+      internalID: -2123135367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bd68994dbccce41ab1da91bdd2d4d7
+      internalID: 1910136438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5896e7ba706ae2f4599f6ab3e52e6589
+      internalID: -1979773055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722288ad90ab020468d2d4753352a45a
+      internalID: -1279850513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901e0b1207c4f0e44a7fa66934de1ace
+      internalID: -26259614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced282ecad570034c8fd1a18abc8f52b
+      internalID: 437514560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a72f87a0ccc1074b9ad47f0d6f1bd40
+      internalID: 696270328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd063a5be5caf84d820ed476add75f5
+      internalID: 1253298474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547bbff8cda33ab48b2ec05f0bda3744
+      internalID: 1650490429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bad7c2fa8473a488ce80bbda9aa545
+      internalID: -1327725129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5b01b65a2ff8a43991ba706f395566
+      internalID: -391511464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105df1af354f25643ae86a198c8a3997
+      internalID: -773086231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e51a6bc25f733e42a880ff54a5fe166
+      internalID: 789562709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1c87b775f5c6143888e441ad5d0bbc
+      internalID: -1688144077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61a59d50929da94da4b8c8ac51c0dac
+      internalID: 883296615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6b8173d7e75924b84efc564c46bb51
+      internalID: 1282546111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a18982b3469a740aaa1af8a15914f9
+      internalID: 1538608660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e950f479ef3fa645aa40d7511e27f8f
+      internalID: 1472750726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4166f4fa883933418e819fce2b52253
+      internalID: 1847309024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f468cee3b423fb2448e3b34b944653f6
+      internalID: -941028107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abef0d57ac59114abba92b70d7af1eb
+      internalID: -1135759915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3ac146822bc1947a32bdbd540d78f2
+      internalID: 1367336153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2113f7118e6f94ca8989713970f23b
+      internalID: -182601443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e22199f23162449a14ac4d7dd26f78
+      internalID: -276485223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ce89b4d7319b3499bcf7d6d5fcf877
+      internalID: 321076655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f21f931da65884b84d228a9847b869
+      internalID: 12049333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c116a7921364c408718b48916fd711
+      internalID: -79878149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b5b42131093c244b7e5938ad115c2e
+      internalID: 1600752140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386893e5d75bce545b3e53a945e459ee
+      internalID: 1905352239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa680a3017916e942825384a206e4ef1
+      internalID: 780809139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff747dd0b46b20c44b1a099e4bdbeef1
+      internalID: 1328660424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58c0cbe92dea3c4490d87b758d09734
+      internalID: 762633707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2215ae948f138404381c117966504078
+      internalID: -1967968541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e542e84250caf604aaf78156b0fb9a1b
+      internalID: -217737502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df60348eaa502a43829e7eb6b59a753
+      internalID: 1799191942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7476fe7cafd15044bbd7a7cedca9a6f4
+      internalID: -2030123885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adc2eca587a79a49b196731e0361c44
+      internalID: 2044718170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6588e85e26d06294eb92fcf07e03c3d2
+      internalID: -673765139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7425309c4345bff4b896e4444f447b50
+      internalID: -1165308228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0122d69cb6411c49aaaa13558fd6b57
+      internalID: 1647790122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92976e98282ed2c4aba4f4584b89fc1a
+      internalID: 1177158121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31db2c917ef43540882814c77e5cfd3
+      internalID: 1488756082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e35e828bfadd445bd4e2da9fc2e6f9
+      internalID: 1034000985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9f6f2cc30d2664ba8fbba4e1359f96
+      internalID: 849759529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac5f1e28b2408740a7207b1420c4680
+      internalID: 1091942466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a29f86537bb0e141baa72b1844db0c7
+      internalID: -837249577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12270be7b7234e6429d1139b777058ae
+      internalID: -115783125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3802f0939d8a8e4dad3c4eaaac8c93c
+      internalID: -1494466429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63a10cf8f0a38d43b5fae60d9058039
+      internalID: 758671265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f51e49022b12b4393a08ec2f2cb338
+      internalID: 135623682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37ef41625825c54fa8638387081a552
+      internalID: 1208497736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75af3cdf2541874a9cb52a236717e55
+      internalID: 1115338017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66de8636f28a47847ade5fc0bc0a0e7a
+      internalID: 226195177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a254ac32967f6b43ae0c1da781afb17
+      internalID: 1018909224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fe598384fffa14281780c39fc2069c
+      internalID: -1690871770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64b32fd8787d044e9f26aa5ddb69aaf
+      internalID: -1797358977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0031e83ee69a76459d570e655191df7
+      internalID: -1764214564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f9e32a7cc369d4db68465cbcf7a86b
+      internalID: -1877800354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0a77e4c0f197e42947bd1342e92424
+      internalID: 922086904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237f711fd2f378c428e520ca0a34b468
+      internalID: -444301051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb5af0ac7d3acb4f876b1d7f2e8d6f1
+      internalID: -1965772773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf8672de5e24b84f9b803ead92113b5
+      internalID: -127014744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffb3286d3560f943bb99df7289c713c
+      internalID: 213516486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a945cf2000bc44491a3289547a9b4a
+      internalID: 304223267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05383cd522887384ca91b9f3f2e2363c
+      internalID: -612862527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f3ecc3937aaa341b815b8ef45c338e
+      internalID: -1459208412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5475d608b4f0764fabd9a0466abad31
+      internalID: 225672521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8fc44f27b51e245bdabe288e6728d2
+      internalID: -1903446537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12da91243af12f42a1108859b1444ab
+      internalID: -1741888091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172204554775526408aa9213ef9eb3c8
+      internalID: -1721804721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859e94447ba1a0b4497efb6cbe5e4a2c
+      internalID: -1676768064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_98
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8dcfbc8da5d3944bcc52575ad2b664
+      internalID: -964354835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_99
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6f983d7834fb14da6cdde030a848a6
+      internalID: 922207071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_100
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd57faae7a29ab468ea6bf21a698901
+      internalID: -1231406327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_101
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2369b4d0578e0934b884eb6cd22962ff
+      internalID: -1512628043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_102
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d186f0ea0ae90a4191f9c3247d9aa77
+      internalID: 1955946524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_103
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7dd6b2726590d40be9eaba6745f889
+      internalID: 2000841781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_104
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab59f099d4265bd41941d0ef31476811
+      internalID: 1150461097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_105
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1476f854a69704684f79917966fd6c
+      internalID: -1928198336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_106
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544a0530fdb431c469d04134045e6289
+      internalID: 1591040720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_107
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8583230802241644b9764ce9857068d9
+      internalID: 233948767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_108
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567d87790f6b9fe4c9710fb3e90f935d
+      internalID: 746158611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa347456e13447438313bc5a18d54df
+      internalID: 1261847448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_110
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786cb052469ef7f4789308d45c75b2c1
+      internalID: 946825569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_111
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b9593276f1f6548a8aa45e7a1dd2ee
+      internalID: 881126866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_112
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c73994d54d7144882c6b9ecbead250
+      internalID: -1912406577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_113
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3208e05a9ffa640925ba0ac00b04d0
+      internalID: 1735660051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_114
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca94f381eda5df4f9bdd6c14b58e20c
+      internalID: 1352347030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_115
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28a6322dd4800e46ba3bbc30bfcdb8b
+      internalID: -1452907078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_116
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14069a2b0fbc964d91172484387f158
+      internalID: 2016318096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_117
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1b8190b1a46d440a54ccb4ecc621dc
+      internalID: 1833684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_118
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87190e9b5ab085448a9beeb7cdaa7765
+      internalID: 722743457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_119
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0e29988445b0244a6330e66f4d46d7
+      internalID: -462388053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_120
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dd72a1505ed1948ae14f05483dcff4
+      internalID: -1231352328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_121
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9223d93deb5a444b726adb2d775afb
+      internalID: 317673298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_122
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a7c7c452bbea3449e858d2b0909cd1
+      internalID: 302447478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_123
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09077ead1ac62842a0916f1b516ebe2
+      internalID: 1260961522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_124
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c578ab1100166e40bc51f56ed9c64b5
+      internalID: -1451974339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_125
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d058d40805707e74194ed258dce1d665
+      internalID: 1574355817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_126
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f052804da7e914283c1b10dd249588
+      internalID: -510543349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_127
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c3ce4dc324f37419d18626b40a5522
+      internalID: 896461835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_128
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7984a8ce07dd746a1d907199d9c64e
+      internalID: 955293739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_129
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194ae29c5ab9ca14492f4367fb8633e1
+      internalID: -1238166365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_130
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7432bb08b44ac0f4fa6ac13d46de44b6
+      internalID: 1326052951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_131
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43db8d131ee6dc94892f0ad3d7f59e45
+      internalID: -8499656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_132
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04b56995bf4e3448947e10550642d0d
+      internalID: 1373119020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_133
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb3bfbf3c48c564bb3e5444b80ac801
+      internalID: -916657447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_134
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c9091b85df0704db717f7ba254bf86
+      internalID: -2080234969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_135
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b7706bc607b1c408d4c66a8f95fb37
+      internalID: 2002715957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_136
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286212dddeb751c4e98f306d2011d756
+      internalID: 931270035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_137
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693625fc69b75c74e8a0c420dc9fc3d1
+      internalID: -961196189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_138
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dece4bd90c86a4493e691986d207ed
+      internalID: -1060290125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_139
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe902dd64034d640b3d4cf34a816afc
+      internalID: -1103899496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_140
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5c6e0c6dbe92c47b2fa88a7755e815
+      internalID: -1579689537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_141
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a0a27d4e3b44b4cab6ef5fd054677a
+      internalID: 595557750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_142
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8c278d0a49e1647ae1675cf11a1a35
+      internalID: 2078931582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_143
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1565f8afee7413d419d35bbe0cb345be
+      internalID: -790380082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_144
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9057e8e10ea9d7a4b894e726b98f43a5
+      internalID: -1700693559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_145
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2cdd549bbac004099c556a81ad926a
+      internalID: 57970006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_146
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93b21e112480d34194713aff12c893a
+      internalID: 620759872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_147
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d487f1d1a4ea67a45b63d8fe159137dc
+      internalID: 2076922139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_148
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a144e251853ab47881de469a90a0a0
+      internalID: 591279471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_149
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1097a65a328a3428f49684229af099
+      internalID: -230353207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c243419ce0f109349a9d376c72b6290c
+      internalID: 307898464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b18b88e2058f9d429f10eb5a7aad2ae
+      internalID: 855406460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_152
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf8c0ac6d27f947a7cbb3184a88af5
+      internalID: 1491351993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8274c47d0f5c5a14f99c396866fee6ca
+      internalID: 900596925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_154
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c70706765670c4409221564a8e894aa
+      internalID: 1586507957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc034232c8307c4abbdea78497557c3
+      internalID: 315925916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_156
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de857bc602b626b49a4d4bab93008cb0
+      internalID: 1232249269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_157
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4781aeb0f8e79c48816a0b1546f637d
+      internalID: 1357545035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_158
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b209565551ee774d869b5415a87ed9e
+      internalID: -1391128737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_159
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53beb3a5860cb7e4b81a8a0d381d794e
+      internalID: -2091201611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_160
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9874c4bcbd1b04da904f19a90c01af
+      internalID: 545989822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_161
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc66d3f8c93edd345975af0e5d3e897c
+      internalID: 1145887492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_162
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6db906d8e1c45146bc113984a6fa242
+      internalID: 1954445620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_163
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f413f639d226d5d4eb2f58b4082ad6fd
+      internalID: -1869365304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_164
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c265fdcde1e3f4689739adc52ee6c3
+      internalID: -1152065116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_165
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eda74e4f99b7f4ca7730aaa719ed18
+      internalID: -1105665754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df700da69eb194cae3f667b25b3a62
+      internalID: -832942284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_167
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bef4c025853cb428500e03753a4e76
+      internalID: 1117904414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_168
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884092dfa954e7344ad2b23b8b87ce48
+      internalID: -1439013842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_169
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c66eb4a5319c534b91e6acb797e5d51
+      internalID: -1624859063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_170
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052bfd7efe0f90048aea859a12e9e8b0
+      internalID: -598388546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_171
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ad758dab18ef043827ae57d9f6f03f
+      internalID: 851601008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_172
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1575eac46a1c0b4ea0acedb147f8501
+      internalID: 1975489103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268d1fa139894dc43b614c4fbcd86888
+      internalID: -352112411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_174
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787e8edefce57134ab6b2af4c22134ee
+      internalID: 227694346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_175
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c70671aaa96d74684796dd74762ab9
+      internalID: 1581605822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_176
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0456ed79779520843b99cd2e112ce814
+      internalID: 777841033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_177
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539f0fa01af08874ebe6bd3f82420bb4
+      internalID: -708210114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_178
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7675623a9ef9e44d92537f474c97b1e
+      internalID: 1607159691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_179
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e482f7593d4bb9d46b28442ed6e43eae
+      internalID: 607251974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_180
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899cd021f44f88541aadd827268236fa
+      internalID: 932963520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_181
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b64850d5aa4534c8caf699d6b18639
+      internalID: 1450825950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_182
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc63702f5289b448b7c26932ce5972b
+      internalID: -1357673798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_183
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5913703f11f3e41858ae356b7b3d0d
+      internalID: -1463906992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_184
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca3b2f592195ff4aba66b837faf56ef
+      internalID: 460059179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_185
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d0003cb7f70a24cbc4bb127d2618ac
+      internalID: -91026076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_186
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be78ac4a7b2f24409775af235dda543
+      internalID: 2136727565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_187
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a614e9579293a94e9f9c4c6138b328d
+      internalID: 2046295502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_188
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596aea1e8e6858d438cef2b8aff805e2
+      internalID: -1408606828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_189
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b20842ec960714ba1c0c1136eedc83
+      internalID: 2141772101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_190
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f7d5b89354ad24283d0f3e0a69ce61
+      internalID: 542818951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_191
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8faf63751f91fb4eb3a85560521aa04
+      internalID: 1558100161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Outdoors Spring (1)_192
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8981206833c2e44096003fb009ed7da
+      internalID: -352010135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c86413de8cad7194f94896de4d2ea1c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Stardew Valley - Outdoors Spring (1)_0: 6710947693009252704
+      PC Computer - Stardew Valley - Outdoors Spring (1)_1: -249823634393116064
+      PC Computer - Stardew Valley - Outdoors Spring (1)_10: 7186075328849410002
+      PC Computer - Stardew Valley - Outdoors Spring (1)_100: -1231406327
+      PC Computer - Stardew Valley - Outdoors Spring (1)_101: -1512628043
+      PC Computer - Stardew Valley - Outdoors Spring (1)_102: 1955946524
+      PC Computer - Stardew Valley - Outdoors Spring (1)_103: 2000841781
+      PC Computer - Stardew Valley - Outdoors Spring (1)_104: 1150461097
+      PC Computer - Stardew Valley - Outdoors Spring (1)_105: -1928198336
+      PC Computer - Stardew Valley - Outdoors Spring (1)_106: 1591040720
+      PC Computer - Stardew Valley - Outdoors Spring (1)_107: 233948767
+      PC Computer - Stardew Valley - Outdoors Spring (1)_108: 746158611
+      PC Computer - Stardew Valley - Outdoors Spring (1)_109: 1261847448
+      PC Computer - Stardew Valley - Outdoors Spring (1)_11: 4141573137962592426
+      PC Computer - Stardew Valley - Outdoors Spring (1)_110: 946825569
+      PC Computer - Stardew Valley - Outdoors Spring (1)_111: 881126866
+      PC Computer - Stardew Valley - Outdoors Spring (1)_112: -1912406577
+      PC Computer - Stardew Valley - Outdoors Spring (1)_113: 1735660051
+      PC Computer - Stardew Valley - Outdoors Spring (1)_114: 1352347030
+      PC Computer - Stardew Valley - Outdoors Spring (1)_115: -1452907078
+      PC Computer - Stardew Valley - Outdoors Spring (1)_116: 2016318096
+      PC Computer - Stardew Valley - Outdoors Spring (1)_117: 1833684
+      PC Computer - Stardew Valley - Outdoors Spring (1)_118: 722743457
+      PC Computer - Stardew Valley - Outdoors Spring (1)_119: -462388053
+      PC Computer - Stardew Valley - Outdoors Spring (1)_12: -8806787686292796377
+      PC Computer - Stardew Valley - Outdoors Spring (1)_120: -1231352328
+      PC Computer - Stardew Valley - Outdoors Spring (1)_121: 317673298
+      PC Computer - Stardew Valley - Outdoors Spring (1)_122: 302447478
+      PC Computer - Stardew Valley - Outdoors Spring (1)_123: 1260961522
+      PC Computer - Stardew Valley - Outdoors Spring (1)_124: -1451974339
+      PC Computer - Stardew Valley - Outdoors Spring (1)_125: 1574355817
+      PC Computer - Stardew Valley - Outdoors Spring (1)_126: -510543349
+      PC Computer - Stardew Valley - Outdoors Spring (1)_127: 896461835
+      PC Computer - Stardew Valley - Outdoors Spring (1)_128: 955293739
+      PC Computer - Stardew Valley - Outdoors Spring (1)_129: -1238166365
+      PC Computer - Stardew Valley - Outdoors Spring (1)_13: 1062709582055682418
+      PC Computer - Stardew Valley - Outdoors Spring (1)_130: 1326052951
+      PC Computer - Stardew Valley - Outdoors Spring (1)_131: -8499656
+      PC Computer - Stardew Valley - Outdoors Spring (1)_132: 1373119020
+      PC Computer - Stardew Valley - Outdoors Spring (1)_133: -916657447
+      PC Computer - Stardew Valley - Outdoors Spring (1)_134: -2080234969
+      PC Computer - Stardew Valley - Outdoors Spring (1)_135: 2002715957
+      PC Computer - Stardew Valley - Outdoors Spring (1)_136: 931270035
+      PC Computer - Stardew Valley - Outdoors Spring (1)_137: -961196189
+      PC Computer - Stardew Valley - Outdoors Spring (1)_138: -1060290125
+      PC Computer - Stardew Valley - Outdoors Spring (1)_139: -1103899496
+      PC Computer - Stardew Valley - Outdoors Spring (1)_14: 8617054658846137846
+      PC Computer - Stardew Valley - Outdoors Spring (1)_140: -1579689537
+      PC Computer - Stardew Valley - Outdoors Spring (1)_141: 595557750
+      PC Computer - Stardew Valley - Outdoors Spring (1)_142: 2078931582
+      PC Computer - Stardew Valley - Outdoors Spring (1)_143: -790380082
+      PC Computer - Stardew Valley - Outdoors Spring (1)_144: -1700693559
+      PC Computer - Stardew Valley - Outdoors Spring (1)_145: 57970006
+      PC Computer - Stardew Valley - Outdoors Spring (1)_146: 620759872
+      PC Computer - Stardew Valley - Outdoors Spring (1)_147: 2076922139
+      PC Computer - Stardew Valley - Outdoors Spring (1)_148: 591279471
+      PC Computer - Stardew Valley - Outdoors Spring (1)_149: -230353207
+      PC Computer - Stardew Valley - Outdoors Spring (1)_15: -701704911187436719
+      PC Computer - Stardew Valley - Outdoors Spring (1)_150: 307898464
+      PC Computer - Stardew Valley - Outdoors Spring (1)_151: 855406460
+      PC Computer - Stardew Valley - Outdoors Spring (1)_152: 1491351993
+      PC Computer - Stardew Valley - Outdoors Spring (1)_153: 900596925
+      PC Computer - Stardew Valley - Outdoors Spring (1)_154: 1586507957
+      PC Computer - Stardew Valley - Outdoors Spring (1)_155: 315925916
+      PC Computer - Stardew Valley - Outdoors Spring (1)_156: 1232249269
+      PC Computer - Stardew Valley - Outdoors Spring (1)_157: 1357545035
+      PC Computer - Stardew Valley - Outdoors Spring (1)_158: -1391128737
+      PC Computer - Stardew Valley - Outdoors Spring (1)_159: -2091201611
+      PC Computer - Stardew Valley - Outdoors Spring (1)_16: -9046408139113257962
+      PC Computer - Stardew Valley - Outdoors Spring (1)_160: 545989822
+      PC Computer - Stardew Valley - Outdoors Spring (1)_161: 1145887492
+      PC Computer - Stardew Valley - Outdoors Spring (1)_162: 1954445620
+      PC Computer - Stardew Valley - Outdoors Spring (1)_163: -1869365304
+      PC Computer - Stardew Valley - Outdoors Spring (1)_164: -1152065116
+      PC Computer - Stardew Valley - Outdoors Spring (1)_165: -1105665754
+      PC Computer - Stardew Valley - Outdoors Spring (1)_166: -832942284
+      PC Computer - Stardew Valley - Outdoors Spring (1)_167: 1117904414
+      PC Computer - Stardew Valley - Outdoors Spring (1)_168: -1439013842
+      PC Computer - Stardew Valley - Outdoors Spring (1)_169: -1624859063
+      PC Computer - Stardew Valley - Outdoors Spring (1)_17: 6868151657504350237
+      PC Computer - Stardew Valley - Outdoors Spring (1)_170: -598388546
+      PC Computer - Stardew Valley - Outdoors Spring (1)_171: 851601008
+      PC Computer - Stardew Valley - Outdoors Spring (1)_172: 1975489103
+      PC Computer - Stardew Valley - Outdoors Spring (1)_173: -352112411
+      PC Computer - Stardew Valley - Outdoors Spring (1)_174: 227694346
+      PC Computer - Stardew Valley - Outdoors Spring (1)_175: 1581605822
+      PC Computer - Stardew Valley - Outdoors Spring (1)_176: 777841033
+      PC Computer - Stardew Valley - Outdoors Spring (1)_177: -708210114
+      PC Computer - Stardew Valley - Outdoors Spring (1)_178: 1607159691
+      PC Computer - Stardew Valley - Outdoors Spring (1)_179: 607251974
+      PC Computer - Stardew Valley - Outdoors Spring (1)_18: -1087314203740283790
+      PC Computer - Stardew Valley - Outdoors Spring (1)_180: 932963520
+      PC Computer - Stardew Valley - Outdoors Spring (1)_181: 1450825950
+      PC Computer - Stardew Valley - Outdoors Spring (1)_182: -1357673798
+      PC Computer - Stardew Valley - Outdoors Spring (1)_183: -1463906992
+      PC Computer - Stardew Valley - Outdoors Spring (1)_184: 460059179
+      PC Computer - Stardew Valley - Outdoors Spring (1)_185: -91026076
+      PC Computer - Stardew Valley - Outdoors Spring (1)_186: 2136727565
+      PC Computer - Stardew Valley - Outdoors Spring (1)_187: 2046295502
+      PC Computer - Stardew Valley - Outdoors Spring (1)_188: -1408606828
+      PC Computer - Stardew Valley - Outdoors Spring (1)_189: 2141772101
+      PC Computer - Stardew Valley - Outdoors Spring (1)_19: 1850061514343194763
+      PC Computer - Stardew Valley - Outdoors Spring (1)_190: 542818951
+      PC Computer - Stardew Valley - Outdoors Spring (1)_191: 1558100161
+      PC Computer - Stardew Valley - Outdoors Spring (1)_192: -352010135
+      PC Computer - Stardew Valley - Outdoors Spring (1)_2: -955792433384963448
+      PC Computer - Stardew Valley - Outdoors Spring (1)_20: 7236716197764926661
+      PC Computer - Stardew Valley - Outdoors Spring (1)_21: 6093618610939120011
+      PC Computer - Stardew Valley - Outdoors Spring (1)_22: -2477848625322157506
+      PC Computer - Stardew Valley - Outdoors Spring (1)_23: 1806679232300005953
+      PC Computer - Stardew Valley - Outdoors Spring (1)_24: 1665396818
+      PC Computer - Stardew Valley - Outdoors Spring (1)_25: 1148890939
+      PC Computer - Stardew Valley - Outdoors Spring (1)_26: -685396804
+      PC Computer - Stardew Valley - Outdoors Spring (1)_27: -2123135367
+      PC Computer - Stardew Valley - Outdoors Spring (1)_28: 1910136438
+      PC Computer - Stardew Valley - Outdoors Spring (1)_29: -1979773055
+      PC Computer - Stardew Valley - Outdoors Spring (1)_3: 2343830953741144660
+      PC Computer - Stardew Valley - Outdoors Spring (1)_30: -1279850513
+      PC Computer - Stardew Valley - Outdoors Spring (1)_31: -26259614
+      PC Computer - Stardew Valley - Outdoors Spring (1)_32: 437514560
+      PC Computer - Stardew Valley - Outdoors Spring (1)_33: 696270328
+      PC Computer - Stardew Valley - Outdoors Spring (1)_34: 1253298474
+      PC Computer - Stardew Valley - Outdoors Spring (1)_35: 1650490429
+      PC Computer - Stardew Valley - Outdoors Spring (1)_36: -1327725129
+      PC Computer - Stardew Valley - Outdoors Spring (1)_37: -391511464
+      PC Computer - Stardew Valley - Outdoors Spring (1)_38: -773086231
+      PC Computer - Stardew Valley - Outdoors Spring (1)_39: 789562709
+      PC Computer - Stardew Valley - Outdoors Spring (1)_4: 181240180261968802
+      PC Computer - Stardew Valley - Outdoors Spring (1)_40: -1688144077
+      PC Computer - Stardew Valley - Outdoors Spring (1)_41: 883296615
+      PC Computer - Stardew Valley - Outdoors Spring (1)_42: 1282546111
+      PC Computer - Stardew Valley - Outdoors Spring (1)_43: 1538608660
+      PC Computer - Stardew Valley - Outdoors Spring (1)_44: 1472750726
+      PC Computer - Stardew Valley - Outdoors Spring (1)_45: 1847309024
+      PC Computer - Stardew Valley - Outdoors Spring (1)_46: -941028107
+      PC Computer - Stardew Valley - Outdoors Spring (1)_47: -1135759915
+      PC Computer - Stardew Valley - Outdoors Spring (1)_48: 1367336153
+      PC Computer - Stardew Valley - Outdoors Spring (1)_49: -182601443
+      PC Computer - Stardew Valley - Outdoors Spring (1)_5: 4494254609159943021
+      PC Computer - Stardew Valley - Outdoors Spring (1)_50: -276485223
+      PC Computer - Stardew Valley - Outdoors Spring (1)_51: 321076655
+      PC Computer - Stardew Valley - Outdoors Spring (1)_52: 12049333
+      PC Computer - Stardew Valley - Outdoors Spring (1)_53: -79878149
+      PC Computer - Stardew Valley - Outdoors Spring (1)_54: 1600752140
+      PC Computer - Stardew Valley - Outdoors Spring (1)_55: 1905352239
+      PC Computer - Stardew Valley - Outdoors Spring (1)_56: 780809139
+      PC Computer - Stardew Valley - Outdoors Spring (1)_57: 1328660424
+      PC Computer - Stardew Valley - Outdoors Spring (1)_58: 762633707
+      PC Computer - Stardew Valley - Outdoors Spring (1)_59: -1967968541
+      PC Computer - Stardew Valley - Outdoors Spring (1)_6: -6385850317089987786
+      PC Computer - Stardew Valley - Outdoors Spring (1)_60: -217737502
+      PC Computer - Stardew Valley - Outdoors Spring (1)_61: 1799191942
+      PC Computer - Stardew Valley - Outdoors Spring (1)_62: -2030123885
+      PC Computer - Stardew Valley - Outdoors Spring (1)_63: 2044718170
+      PC Computer - Stardew Valley - Outdoors Spring (1)_64: -673765139
+      PC Computer - Stardew Valley - Outdoors Spring (1)_65: -1165308228
+      PC Computer - Stardew Valley - Outdoors Spring (1)_66: 1647790122
+      PC Computer - Stardew Valley - Outdoors Spring (1)_67: 1177158121
+      PC Computer - Stardew Valley - Outdoors Spring (1)_68: 1488756082
+      PC Computer - Stardew Valley - Outdoors Spring (1)_69: 1034000985
+      PC Computer - Stardew Valley - Outdoors Spring (1)_7: -6198030813051652238
+      PC Computer - Stardew Valley - Outdoors Spring (1)_70: 849759529
+      PC Computer - Stardew Valley - Outdoors Spring (1)_71: 1091942466
+      PC Computer - Stardew Valley - Outdoors Spring (1)_72: -837249577
+      PC Computer - Stardew Valley - Outdoors Spring (1)_73: -115783125
+      PC Computer - Stardew Valley - Outdoors Spring (1)_74: -1494466429
+      PC Computer - Stardew Valley - Outdoors Spring (1)_75: 758671265
+      PC Computer - Stardew Valley - Outdoors Spring (1)_76: 135623682
+      PC Computer - Stardew Valley - Outdoors Spring (1)_77: 1208497736
+      PC Computer - Stardew Valley - Outdoors Spring (1)_78: 1115338017
+      PC Computer - Stardew Valley - Outdoors Spring (1)_79: 226195177
+      PC Computer - Stardew Valley - Outdoors Spring (1)_8: -171921605832048068
+      PC Computer - Stardew Valley - Outdoors Spring (1)_80: 1018909224
+      PC Computer - Stardew Valley - Outdoors Spring (1)_81: -1690871770
+      PC Computer - Stardew Valley - Outdoors Spring (1)_82: -1797358977
+      PC Computer - Stardew Valley - Outdoors Spring (1)_83: -1764214564
+      PC Computer - Stardew Valley - Outdoors Spring (1)_84: -1877800354
+      PC Computer - Stardew Valley - Outdoors Spring (1)_85: 922086904
+      PC Computer - Stardew Valley - Outdoors Spring (1)_86: -444301051
+      PC Computer - Stardew Valley - Outdoors Spring (1)_87: -1965772773
+      PC Computer - Stardew Valley - Outdoors Spring (1)_88: -127014744
+      PC Computer - Stardew Valley - Outdoors Spring (1)_89: 213516486
+      PC Computer - Stardew Valley - Outdoors Spring (1)_9: -3049059004707659226
+      PC Computer - Stardew Valley - Outdoors Spring (1)_90: 304223267
+      PC Computer - Stardew Valley - Outdoors Spring (1)_91: -612862527
+      PC Computer - Stardew Valley - Outdoors Spring (1)_92: -1459208412
+      PC Computer - Stardew Valley - Outdoors Spring (1)_93: 225672521
+      PC Computer - Stardew Valley - Outdoors Spring (1)_94: -1903446537
+      PC Computer - Stardew Valley - Outdoors Spring (1)_95: -1741888091
+      PC Computer - Stardew Valley - Outdoors Spring (1)_96: -1721804721
+      PC Computer - Stardew Valley - Outdoors Spring (1)_97: -1676768064
+      PC Computer - Stardew Valley - Outdoors Spring (1)_98: -964354835
+      PC Computer - Stardew Valley - Outdoors Spring (1)_99: 922207071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

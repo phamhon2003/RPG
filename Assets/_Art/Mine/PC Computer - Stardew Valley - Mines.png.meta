@@ -1,0 +1,7189 @@
+fileFormatVersion: 2
+guid: 96c6e24ead27fff4ea5577e7e2472c9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4671809863852124063
+    second: PC Computer - Stardew Valley - Mines_0
+  - first:
+      213: -5489409418353065772
+    second: PC Computer - Stardew Valley - Mines_1
+  - first:
+      213: -3937369555551577840
+    second: PC Computer - Stardew Valley - Mines_2
+  - first:
+      213: 831401430260768029
+    second: PC Computer - Stardew Valley - Mines_3
+  - first:
+      213: 1858434576075811443
+    second: PC Computer - Stardew Valley - Mines_4
+  - first:
+      213: -5872071475121219769
+    second: PC Computer - Stardew Valley - Mines_5
+  - first:
+      213: 2834953518350670742
+    second: PC Computer - Stardew Valley - Mines_6
+  - first:
+      213: 1823382637829540506
+    second: PC Computer - Stardew Valley - Mines_7
+  - first:
+      213: 8969532984710518864
+    second: PC Computer - Stardew Valley - Mines_8
+  - first:
+      213: 4014344662612984840
+    second: PC Computer - Stardew Valley - Mines_9
+  - first:
+      213: -943828293882447160
+    second: PC Computer - Stardew Valley - Mines_10
+  - first:
+      213: 3027802197857036551
+    second: PC Computer - Stardew Valley - Mines_11
+  - first:
+      213: -363096796613970517
+    second: PC Computer - Stardew Valley - Mines_12
+  - first:
+      213: 3507782802601400042
+    second: PC Computer - Stardew Valley - Mines_13
+  - first:
+      213: -171358665319172957
+    second: PC Computer - Stardew Valley - Mines_14
+  - first:
+      213: -5365606642700810459
+    second: PC Computer - Stardew Valley - Mines_15
+  - first:
+      213: 2081778014081420398
+    second: PC Computer - Stardew Valley - Mines_16
+  - first:
+      213: -5031003414545045565
+    second: PC Computer - Stardew Valley - Mines_17
+  - first:
+      213: 2622176848602201567
+    second: PC Computer - Stardew Valley - Mines_18
+  - first:
+      213: 4214608635045262956
+    second: PC Computer - Stardew Valley - Mines_19
+  - first:
+      213: 8310859541446027775
+    second: PC Computer - Stardew Valley - Mines_20
+  - first:
+      213: -112736863332424798
+    second: PC Computer - Stardew Valley - Mines_21
+  - first:
+      213: 922978240198999927
+    second: PC Computer - Stardew Valley - Mines_22
+  - first:
+      213: -5538280088204745642
+    second: PC Computer - Stardew Valley - Mines_23
+  - first:
+      213: 630374767480686171
+    second: PC Computer - Stardew Valley - Mines_24
+  - first:
+      213: 7915952330292403793
+    second: PC Computer - Stardew Valley - Mines_25
+  - first:
+      213: -3677706560300259080
+    second: PC Computer - Stardew Valley - Mines_26
+  - first:
+      213: 3372378344650106874
+    second: PC Computer - Stardew Valley - Mines_27
+  - first:
+      213: 6712636768507936676
+    second: PC Computer - Stardew Valley - Mines_28
+  - first:
+      213: 8173682343365129243
+    second: PC Computer - Stardew Valley - Mines_29
+  - first:
+      213: 9068939107578450310
+    second: PC Computer - Stardew Valley - Mines_30
+  - first:
+      213: 1623772528558643428
+    second: PC Computer - Stardew Valley - Mines_31
+  - first:
+      213: -1269132746709553062
+    second: PC Computer - Stardew Valley - Mines_32
+  - first:
+      213: -1632362861821710701
+    second: PC Computer - Stardew Valley - Mines_33
+  - first:
+      213: 3217687869168766491
+    second: PC Computer - Stardew Valley - Mines_34
+  - first:
+      213: -1530399161326729644
+    second: PC Computer - Stardew Valley - Mines_35
+  - first:
+      213: 6662848766963604329
+    second: PC Computer - Stardew Valley - Mines_36
+  - first:
+      213: 649844079837008672
+    second: PC Computer - Stardew Valley - Mines_37
+  - first:
+      213: 7369393964955781788
+    second: PC Computer - Stardew Valley - Mines_38
+  - first:
+      213: -5448399708868806370
+    second: PC Computer - Stardew Valley - Mines_39
+  - first:
+      213: 7621657524580151016
+    second: PC Computer - Stardew Valley - Mines_40
+  - first:
+      213: 457847824260371723
+    second: PC Computer - Stardew Valley - Mines_41
+  - first:
+      213: -2331432012383731850
+    second: PC Computer - Stardew Valley - Mines_42
+  - first:
+      213: 2809136180993803201
+    second: PC Computer - Stardew Valley - Mines_43
+  - first:
+      213: -5261856632249368606
+    second: PC Computer - Stardew Valley - Mines_44
+  - first:
+      213: -8291482552429340363
+    second: PC Computer - Stardew Valley - Mines_45
+  - first:
+      213: -2492799933237002811
+    second: PC Computer - Stardew Valley - Mines_46
+  - first:
+      213: -1572445978984439220
+    second: PC Computer - Stardew Valley - Mines_47
+  - first:
+      213: -7406743625975685535
+    second: PC Computer - Stardew Valley - Mines_48
+  - first:
+      213: 598834456047980103
+    second: PC Computer - Stardew Valley - Mines_49
+  - first:
+      213: 2107190146224786985
+    second: PC Computer - Stardew Valley - Mines_50
+  - first:
+      213: -8125403692705066731
+    second: PC Computer - Stardew Valley - Mines_51
+  - first:
+      213: -4031400300409484764
+    second: PC Computer - Stardew Valley - Mines_52
+  - first:
+      213: -5149569934033837564
+    second: PC Computer - Stardew Valley - Mines_53
+  - first:
+      213: 3710133732947748026
+    second: PC Computer - Stardew Valley - Mines_54
+  - first:
+      213: -4774505427753092251
+    second: PC Computer - Stardew Valley - Mines_55
+  - first:
+      213: -7144597303454573643
+    second: PC Computer - Stardew Valley - Mines_56
+  - first:
+      213: -4608724844358388432
+    second: PC Computer - Stardew Valley - Mines_57
+  - first:
+      213: -995845913280295439
+    second: PC Computer - Stardew Valley - Mines_58
+  - first:
+      213: 6614060015247017571
+    second: PC Computer - Stardew Valley - Mines_59
+  - first:
+      213: -6206235732053911078
+    second: PC Computer - Stardew Valley - Mines_60
+  - first:
+      213: -1600352124834578577
+    second: PC Computer - Stardew Valley - Mines_61
+  - first:
+      213: -6621586508442942009
+    second: PC Computer - Stardew Valley - Mines_62
+  - first:
+      213: -7899918571896079462
+    second: PC Computer - Stardew Valley - Mines_63
+  - first:
+      213: -5814579630242405974
+    second: PC Computer - Stardew Valley - Mines_64
+  - first:
+      213: 4034042150230051098
+    second: PC Computer - Stardew Valley - Mines_65
+  - first:
+      213: 5954756710137972785
+    second: PC Computer - Stardew Valley - Mines_66
+  - first:
+      213: -1467279041700783633
+    second: PC Computer - Stardew Valley - Mines_67
+  - first:
+      213: 4771793686698602727
+    second: PC Computer - Stardew Valley - Mines_68
+  - first:
+      213: 6404530444773186651
+    second: PC Computer - Stardew Valley - Mines_69
+  - first:
+      213: -4957829428775377556
+    second: PC Computer - Stardew Valley - Mines_70
+  - first:
+      213: -3880587395282474021
+    second: PC Computer - Stardew Valley - Mines_71
+  - first:
+      213: -2624139182311766401
+    second: PC Computer - Stardew Valley - Mines_72
+  - first:
+      213: -4336957183670269706
+    second: PC Computer - Stardew Valley - Mines_73
+  - first:
+      213: 2693754797946349787
+    second: PC Computer - Stardew Valley - Mines_74
+  - first:
+      213: 8751939871778085811
+    second: PC Computer - Stardew Valley - Mines_75
+  - first:
+      213: -2447001406141231128
+    second: PC Computer - Stardew Valley - Mines_76
+  - first:
+      213: 7827242480839580985
+    second: PC Computer - Stardew Valley - Mines_77
+  - first:
+      213: 8767394871859199795
+    second: PC Computer - Stardew Valley - Mines_78
+  - first:
+      213: 1844602674811785259
+    second: PC Computer - Stardew Valley - Mines_79
+  - first:
+      213: 5868913930409061912
+    second: PC Computer - Stardew Valley - Mines_80
+  - first:
+      213: 6248054546505481352
+    second: PC Computer - Stardew Valley - Mines_81
+  - first:
+      213: 2378621956883092363
+    second: PC Computer - Stardew Valley - Mines_82
+  - first:
+      213: 5891850258594946898
+    second: PC Computer - Stardew Valley - Mines_83
+  - first:
+      213: -8404033878768653250
+    second: PC Computer - Stardew Valley - Mines_84
+  - first:
+      213: -3366125023541434584
+    second: PC Computer - Stardew Valley - Mines_85
+  - first:
+      213: 773241096638789656
+    second: PC Computer - Stardew Valley - Mines_86
+  - first:
+      213: 3776878349559377379
+    second: PC Computer - Stardew Valley - Mines_87
+  - first:
+      213: 3249419263065841092
+    second: PC Computer - Stardew Valley - Mines_88
+  - first:
+      213: 7179867523580606309
+    second: PC Computer - Stardew Valley - Mines_89
+  - first:
+      213: -4388379352302279093
+    second: PC Computer - Stardew Valley - Mines_90
+  - first:
+      213: 8415008918902377137
+    second: PC Computer - Stardew Valley - Mines_91
+  - first:
+      213: 5690722210106847248
+    second: PC Computer - Stardew Valley - Mines_92
+  - first:
+      213: -4486172985095484298
+    second: PC Computer - Stardew Valley - Mines_93
+  - first:
+      213: -1486469972188262744
+    second: PC Computer - Stardew Valley - Mines_94
+  - first:
+      213: -1794433482530044597
+    second: PC Computer - Stardew Valley - Mines_95
+  - first:
+      213: 2912639538496235569
+    second: PC Computer - Stardew Valley - Mines_96
+  - first:
+      213: 3292252935021166441
+    second: PC Computer - Stardew Valley - Mines_97
+  - first:
+      213: -2060854193996138431
+    second: PC Computer - Stardew Valley - Mines_98
+  - first:
+      213: -3938268991317023032
+    second: PC Computer - Stardew Valley - Mines_99
+  - first:
+      213: -1956585572182977460
+    second: PC Computer - Stardew Valley - Mines_100
+  - first:
+      213: -2500021811352500597
+    second: PC Computer - Stardew Valley - Mines_101
+  - first:
+      213: 7535900096664119689
+    second: PC Computer - Stardew Valley - Mines_102
+  - first:
+      213: -1071536734972852315
+    second: PC Computer - Stardew Valley - Mines_103
+  - first:
+      213: -2550387318326913212
+    second: PC Computer - Stardew Valley - Mines_104
+  - first:
+      213: 5292896450552011559
+    second: PC Computer - Stardew Valley - Mines_105
+  - first:
+      213: -4720546402737250856
+    second: PC Computer - Stardew Valley - Mines_106
+  - first:
+      213: 3329737218584463804
+    second: PC Computer - Stardew Valley - Mines_107
+  - first:
+      213: 5371619250997043864
+    second: PC Computer - Stardew Valley - Mines_108
+  - first:
+      213: -7888835512145476891
+    second: PC Computer - Stardew Valley - Mines_109
+  - first:
+      213: 431494177166886411
+    second: PC Computer - Stardew Valley - Mines_110
+  - first:
+      213: 9169737597331655798
+    second: PC Computer - Stardew Valley - Mines_111
+  - first:
+      213: 1376898128811393745
+    second: PC Computer - Stardew Valley - Mines_112
+  - first:
+      213: -5248706591764432888
+    second: PC Computer - Stardew Valley - Mines_113
+  - first:
+      213: 5033028885687253371
+    second: PC Computer - Stardew Valley - Mines_114
+  - first:
+      213: -5540405841704705285
+    second: PC Computer - Stardew Valley - Mines_115
+  - first:
+      213: 5767932864597751233
+    second: PC Computer - Stardew Valley - Mines_116
+  - first:
+      213: 2783857624064586595
+    second: PC Computer - Stardew Valley - Mines_117
+  - first:
+      213: -8284488314368377347
+    second: PC Computer - Stardew Valley - Mines_118
+  - first:
+      213: 2638186464997667477
+    second: PC Computer - Stardew Valley - Mines_119
+  - first:
+      213: 7113956912940617116
+    second: PC Computer - Stardew Valley - Mines_120
+  - first:
+      213: 2327405987164227526
+    second: PC Computer - Stardew Valley - Mines_121
+  - first:
+      213: -6680742416928682870
+    second: PC Computer - Stardew Valley - Mines_122
+  - first:
+      213: -6805691385372696206
+    second: PC Computer - Stardew Valley - Mines_123
+  - first:
+      213: 7179240317438306773
+    second: PC Computer - Stardew Valley - Mines_124
+  - first:
+      213: -5901395777951868341
+    second: PC Computer - Stardew Valley - Mines_125
+  - first:
+      213: 6835735880821092054
+    second: PC Computer - Stardew Valley - Mines_126
+  - first:
+      213: 634834145919824397
+    second: PC Computer - Stardew Valley - Mines_127
+  - first:
+      213: 379702340168331409
+    second: PC Computer - Stardew Valley - Mines_128
+  - first:
+      213: 7324183561859534550
+    second: PC Computer - Stardew Valley - Mines_129
+  - first:
+      213: -3094003432535065472
+    second: PC Computer - Stardew Valley - Mines_130
+  - first:
+      213: 4282567741369266661
+    second: PC Computer - Stardew Valley - Mines_131
+  - first:
+      213: 7843960653471468088
+    second: PC Computer - Stardew Valley - Mines_132
+  - first:
+      213: -8823895729167447648
+    second: PC Computer - Stardew Valley - Mines_133
+  - first:
+      213: -851750447083202945
+    second: PC Computer - Stardew Valley - Mines_134
+  - first:
+      213: 5136585630691953242
+    second: PC Computer - Stardew Valley - Mines_135
+  - first:
+      213: 7495065496756194936
+    second: PC Computer - Stardew Valley - Mines_136
+  - first:
+      213: -6209209918765208134
+    second: PC Computer - Stardew Valley - Mines_137
+  - first:
+      213: 4428701199848432588
+    second: PC Computer - Stardew Valley - Mines_138
+  - first:
+      213: 5535582241060584608
+    second: PC Computer - Stardew Valley - Mines_139
+  - first:
+      213: -3812135373737391108
+    second: PC Computer - Stardew Valley - Mines_140
+  - first:
+      213: 6650690329276786544
+    second: PC Computer - Stardew Valley - Mines_141
+  - first:
+      213: -861167076052547478
+    second: PC Computer - Stardew Valley - Mines_142
+  - first:
+      213: 3070850433061171994
+    second: PC Computer - Stardew Valley - Mines_143
+  - first:
+      213: -1998517392646358042
+    second: PC Computer - Stardew Valley - Mines_144
+  - first:
+      213: 1941144263136910922
+    second: PC Computer - Stardew Valley - Mines_145
+  - first:
+      213: 5309689179144236577
+    second: PC Computer - Stardew Valley - Mines_146
+  - first:
+      213: 8824610128369671907
+    second: PC Computer - Stardew Valley - Mines_147
+  - first:
+      213: 6305887000385482308
+    second: PC Computer - Stardew Valley - Mines_148
+  - first:
+      213: -8556290402457392600
+    second: PC Computer - Stardew Valley - Mines_149
+  - first:
+      213: -2982916082902535127
+    second: PC Computer - Stardew Valley - Mines_150
+  - first:
+      213: 7163289357329926081
+    second: PC Computer - Stardew Valley - Mines_151
+  - first:
+      213: 3754461063084156287
+    second: PC Computer - Stardew Valley - Mines_152
+  - first:
+      213: 8007478254706019542
+    second: PC Computer - Stardew Valley - Mines_153
+  - first:
+      213: -6354284327837155790
+    second: PC Computer - Stardew Valley - Mines_154
+  - first:
+      213: -3481762100044730523
+    second: PC Computer - Stardew Valley - Mines_155
+  - first:
+      213: -408878448316194732
+    second: PC Computer - Stardew Valley - Mines_156
+  - first:
+      213: -362499763760981831
+    second: PC Computer - Stardew Valley - Mines_157
+  - first:
+      213: -1722679168198679212
+    second: PC Computer - Stardew Valley - Mines_158
+  - first:
+      213: 6414768821149054135
+    second: PC Computer - Stardew Valley - Mines_159
+  - first:
+      213: 5498370395029737246
+    second: PC Computer - Stardew Valley - Mines_160
+  - first:
+      213: -8098656991085958588
+    second: PC Computer - Stardew Valley - Mines_161
+  - first:
+      213: -5442082306171244223
+    second: PC Computer - Stardew Valley - Mines_162
+  - first:
+      213: -8562618624690467505
+    second: PC Computer - Stardew Valley - Mines_163
+  - first:
+      213: 1075155946458473780
+    second: PC Computer - Stardew Valley - Mines_164
+  - first:
+      213: 3931294812056255570
+    second: PC Computer - Stardew Valley - Mines_165
+  - first:
+      213: 6587818274568208778
+    second: PC Computer - Stardew Valley - Mines_166
+  - first:
+      213: 7209129352034007738
+    second: PC Computer - Stardew Valley - Mines_167
+  - first:
+      213: 1084818817271479303
+    second: PC Computer - Stardew Valley - Mines_168
+  - first:
+      213: -2804931305574507985
+    second: PC Computer - Stardew Valley - Mines_169
+  - first:
+      213: -2296385387576797531
+    second: PC Computer - Stardew Valley - Mines_170
+  - first:
+      213: 9194777367054323418
+    second: PC Computer - Stardew Valley - Mines_171
+  - first:
+      213: -3064549221562251161
+    second: PC Computer - Stardew Valley - Mines_172
+  - first:
+      213: -6184695608364396402
+    second: PC Computer - Stardew Valley - Mines_173
+  - first:
+      213: -3540396681927606153
+    second: PC Computer - Stardew Valley - Mines_174
+  - first:
+      213: 385545105372333845
+    second: PC Computer - Stardew Valley - Mines_175
+  - first:
+      213: -8243031475587791043
+    second: PC Computer - Stardew Valley - Mines_176
+  - first:
+      213: 313544193442406072
+    second: PC Computer - Stardew Valley - Mines_177
+  - first:
+      213: 2626057951471916410
+    second: PC Computer - Stardew Valley - Mines_178
+  - first:
+      213: 7464700591258379108
+    second: PC Computer - Stardew Valley - Mines_179
+  - first:
+      213: -1612015965356987286
+    second: PC Computer - Stardew Valley - Mines_180
+  - first:
+      213: 3636826530667331282
+    second: PC Computer - Stardew Valley - Mines_181
+  - first:
+      213: 639330196477352163
+    second: PC Computer - Stardew Valley - Mines_182
+  - first:
+      213: -6160268449920607160
+    second: PC Computer - Stardew Valley - Mines_183
+  - first:
+      213: 1568215737369644973
+    second: PC Computer - Stardew Valley - Mines_184
+  - first:
+      213: 2107617286811685310
+    second: PC Computer - Stardew Valley - Mines_185
+  - first:
+      213: -3110245255279946056
+    second: PC Computer - Stardew Valley - Mines_186
+  - first:
+      213: -7409628878243843749
+    second: PC Computer - Stardew Valley - Mines_187
+  - first:
+      213: -1765626192143999871
+    second: PC Computer - Stardew Valley - Mines_188
+  - first:
+      213: 7398014637538027380
+    second: PC Computer - Stardew Valley - Mines_189
+  - first:
+      213: 4980809983071045400
+    second: PC Computer - Stardew Valley - Mines_190
+  - first:
+      213: 354874920010334505
+    second: PC Computer - Stardew Valley - Mines_191
+  - first:
+      213: -2581590305028661778
+    second: PC Computer - Stardew Valley - Mines_192
+  - first:
+      213: -5997242406441790005
+    second: PC Computer - Stardew Valley - Mines_193
+  - first:
+      213: 8905379114110349952
+    second: PC Computer - Stardew Valley - Mines_194
+  - first:
+      213: 5573760383882845402
+    second: PC Computer - Stardew Valley - Mines_195
+  - first:
+      213: 4178225047755864663
+    second: PC Computer - Stardew Valley - Mines_196
+  - first:
+      213: -374786214832759660
+    second: PC Computer - Stardew Valley - Mines_197
+  - first:
+      213: -5788708244824081771
+    second: PC Computer - Stardew Valley - Mines_198
+  - first:
+      213: -6235601646888242709
+    second: PC Computer - Stardew Valley - Mines_199
+  - first:
+      213: 2322247412836765252
+    second: PC Computer - Stardew Valley - Mines_200
+  - first:
+      213: 6494054851901875315
+    second: PC Computer - Stardew Valley - Mines_201
+  - first:
+      213: -5208172539212278713
+    second: PC Computer - Stardew Valley - Mines_202
+  - first:
+      213: -3956837558995546010
+    second: PC Computer - Stardew Valley - Mines_203
+  - first:
+      213: -6845216689454913643
+    second: PC Computer - Stardew Valley - Mines_204
+  - first:
+      213: 415049572370619643
+    second: PC Computer - Stardew Valley - Mines_205
+  - first:
+      213: -8740782890862979898
+    second: PC Computer - Stardew Valley - Mines_206
+  - first:
+      213: -6953842376263981917
+    second: PC Computer - Stardew Valley - Mines_207
+  - first:
+      213: -8275629403844204998
+    second: PC Computer - Stardew Valley - Mines_208
+  - first:
+      213: 3694743305299445316
+    second: PC Computer - Stardew Valley - Mines_209
+  - first:
+      213: -1047116821500727432
+    second: PC Computer - Stardew Valley - Mines_210
+  - first:
+      213: -8709047803749394590
+    second: PC Computer - Stardew Valley - Mines_211
+  - first:
+      213: 6684350136314156747
+    second: PC Computer - Stardew Valley - Mines_212
+  - first:
+      213: 2681884708491666182
+    second: PC Computer - Stardew Valley - Mines_213
+  - first:
+      213: -4792179756139081968
+    second: PC Computer - Stardew Valley - Mines_214
+  - first:
+      213: 4858592173833241575
+    second: PC Computer - Stardew Valley - Mines_215
+  - first:
+      213: -3510138994471697153
+    second: PC Computer - Stardew Valley - Mines_216
+  - first:
+      213: -1914870792581852439
+    second: PC Computer - Stardew Valley - Mines_217
+  - first:
+      213: -8206999436065688454
+    second: PC Computer - Stardew Valley - Mines_218
+  - first:
+      213: 6651005746089702994
+    second: PC Computer - Stardew Valley - Mines_219
+  - first:
+      213: -259019612637019370
+    second: PC Computer - Stardew Valley - Mines_220
+  - first:
+      213: -152048801779245959
+    second: PC Computer - Stardew Valley - Mines_221
+  - first:
+      213: 3923147856469823045
+    second: PC Computer - Stardew Valley - Mines_222
+  - first:
+      213: 1489443153484952809
+    second: PC Computer - Stardew Valley - Mines_223
+  - first:
+      213: -4444365228651883356
+    second: PC Computer - Stardew Valley - Mines_224
+  - first:
+      213: -3153007752880417195
+    second: PC Computer - Stardew Valley - Mines_225
+  - first:
+      213: -4621556861979071773
+    second: PC Computer - Stardew Valley - Mines_226
+  - first:
+      213: 7905517990194614925
+    second: PC Computer - Stardew Valley - Mines_227
+  - first:
+      213: 768012197150334296
+    second: PC Computer - Stardew Valley - Mines_228
+  - first:
+      213: 3826365481927063956
+    second: PC Computer - Stardew Valley - Mines_229
+  - first:
+      213: -5383360096522682585
+    second: PC Computer - Stardew Valley - Mines_230
+  - first:
+      213: 3295023331081489564
+    second: PC Computer - Stardew Valley - Mines_231
+  - first:
+      213: -3531995175933085280
+    second: PC Computer - Stardew Valley - Mines_232
+  - first:
+      213: 5904646025269394005
+    second: PC Computer - Stardew Valley - Mines_233
+  - first:
+      213: -4459652304386389573
+    second: PC Computer - Stardew Valley - Mines_234
+  - first:
+      213: -5676960602151921297
+    second: PC Computer - Stardew Valley - Mines_235
+  - first:
+      213: -2451165588612497985
+    second: PC Computer - Stardew Valley - Mines_236
+  - first:
+      213: -4667130232201001278
+    second: PC Computer - Stardew Valley - Mines_237
+  - first:
+      213: 6047488635323928824
+    second: PC Computer - Stardew Valley - Mines_238
+  - first:
+      213: 2420180101534870041
+    second: PC Computer - Stardew Valley - Mines_239
+  - first:
+      213: 3515547450569194462
+    second: PC Computer - Stardew Valley - Mines_240
+  - first:
+      213: 439142831693896473
+    second: PC Computer - Stardew Valley - Mines_241
+  - first:
+      213: 8727121935562320983
+    second: PC Computer - Stardew Valley - Mines_242
+  - first:
+      213: 823225323189332001
+    second: PC Computer - Stardew Valley - Mines_243
+  - first:
+      213: -4339595423316022401
+    second: PC Computer - Stardew Valley - Mines_244
+  - first:
+      213: 7058493938431836130
+    second: PC Computer - Stardew Valley - Mines_245
+  - first:
+      213: -9059050841732966902
+    second: PC Computer - Stardew Valley - Mines_246
+  - first:
+      213: 911345099157983818
+    second: PC Computer - Stardew Valley - Mines_247
+  - first:
+      213: 8618445389836232138
+    second: PC Computer - Stardew Valley - Mines_248
+  - first:
+      213: 8486345082817477890
+    second: PC Computer - Stardew Valley - Mines_249
+  - first:
+      213: 9075322312576995496
+    second: PC Computer - Stardew Valley - Mines_250
+  - first:
+      213: 474738418859102803
+    second: PC Computer - Stardew Valley - Mines_251
+  - first:
+      213: -5265005073503560368
+    second: PC Computer - Stardew Valley - Mines_252
+  - first:
+      213: 1369044149585001686
+    second: PC Computer - Stardew Valley - Mines_253
+  - first:
+      213: 394874406664010876
+    second: PC Computer - Stardew Valley - Mines_254
+  - first:
+      213: -5255823832355470140
+    second: PC Computer - Stardew Valley - Mines_255
+  - first:
+      213: 2558166064357674988
+    second: PC Computer - Stardew Valley - Mines_256
+  - first:
+      213: 4723502326330264055
+    second: PC Computer - Stardew Valley - Mines_257
+  - first:
+      213: 1132463350257049251
+    second: PC Computer - Stardew Valley - Mines_258
+  - first:
+      213: -5977856420109033662
+    second: PC Computer - Stardew Valley - Mines_259
+  - first:
+      213: -6447333528572877248
+    second: PC Computer - Stardew Valley - Mines_260
+  - first:
+      213: 9167026857609453635
+    second: PC Computer - Stardew Valley - Mines_261
+  - first:
+      213: 2170195022546114752
+    second: PC Computer - Stardew Valley - Mines_262
+  - first:
+      213: -8099607616975103281
+    second: PC Computer - Stardew Valley - Mines_263
+  - first:
+      213: -3536280014145847881
+    second: PC Computer - Stardew Valley - Mines_264
+  - first:
+      213: -5350659010062089699
+    second: PC Computer - Stardew Valley - Mines_265
+  - first:
+      213: -7084579873822869583
+    second: PC Computer - Stardew Valley - Mines_266
+  - first:
+      213: -134880434615417195
+    second: PC Computer - Stardew Valley - Mines_267
+  - first:
+      213: 2868289527817130211
+    second: PC Computer - Stardew Valley - Mines_268
+  - first:
+      213: 5283903742307408891
+    second: PC Computer - Stardew Valley - Mines_269
+  - first:
+      213: 6829423044823825688
+    second: PC Computer - Stardew Valley - Mines_270
+  - first:
+      213: -7518655465010151636
+    second: PC Computer - Stardew Valley - Mines_271
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 465
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f976211a15a95d040800000000000000
+      internalID: 4671809863852124063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 470
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0c168d733b1d3b0800000000000000
+      internalID: -5489409418353065772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 474
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01919e31047ab59c0800000000000000
+      internalID: -3937369555551577840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 465
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dd174223bb98b00800000000000000
+      internalID: 831401430260768029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 467
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a6d49866c7ac910800000000000000
+      internalID: 1858434576075811443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74712bdda16328ea0800000000000000
+      internalID: -5872071475121219769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 465
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b19086437c75720800000000000000
+      internalID: 2834953518350670742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 467
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ac17139d4fd4910800000000000000
+      internalID: 1823382637829540506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 475
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058d1da1abe2a7c70800000000000000
+      internalID: 8969532984710518864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 470
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8044805a331d5b730800000000000000
+      internalID: 4014344662612984840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 450
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca7c26da29d6e2f0800000000000000
+      internalID: -943828293882447160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 470
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7096a659e0ae40a20800000000000000
+      internalID: 3027802197857036551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 465
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5fdb2236506faf0800000000000000
+      internalID: -363096796613970517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 465
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6d74abfd52ea030800000000000000
+      internalID: 3507782802601400042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 474
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a43778a3363f9df0800000000000000
+      internalID: -171358665319172957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 466
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5278759cf298985b0800000000000000
+      internalID: -5365606642700810459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c8a86f216f3ec10800000000000000
+      internalID: 2081778014081420398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 465
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7e344cc094e2ab0800000000000000
+      internalID: -5031003414545045565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 467
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddff2f63f7d36420800000000000000
+      internalID: 2622176848602201567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 465
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66ba2f393c4d7a30800000000000000
+      internalID: 4214608635045262956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 467
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff96e0a58ba165370800000000000000
+      internalID: 8310859541446027775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 449
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3aafb8b6a7f6ef0800000000000000
+      internalID: -112736863332424798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_22
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 463
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ff97eb1d31fcc00800000000000000
+      internalID: 922978240198999927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_23
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 466
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654efe35a931423b0800000000000000
+      internalID: -5538280088204745642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_24
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 468
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b564e0bd28a8fb800800000000000000
+      internalID: 630374767480686171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 472
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e110234bc1bdd60800000000000000
+      internalID: 7915952330292403793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_26
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 466
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8ed256e5926fcc0800000000000000
+      internalID: -3677706560300259080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_27
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 476
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7e611ac381dce20800000000000000
+      internalID: 3372378344650106874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_28
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 466
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af342d6393182d50800000000000000
+      internalID: 6712636768507936676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_29
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 468
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14392709c0ce6170800000000000000
+      internalID: 8173682343365129243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 472
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6819cdca1185bdd70800000000000000
+      internalID: 9068939107578450310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 466
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e896c8f28cc88610800000000000000
+      internalID: 1623772528558643428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 476
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50bf83bd72236ee0800000000000000
+      internalID: -1269132746709553062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 468
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ea39430aea859e0800000000000000
+      internalID: -1632362861821710701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_34
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 467
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e43e7a11687ac20800000000000000
+      internalID: 3217687869168766491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_35
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 464
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4568098321ee2cae0800000000000000
+      internalID: -1530399161326729644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 466
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bd30bf6a1377c50800000000000000
+      internalID: 6662848766963604329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 466
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02353126fb5b40900800000000000000
+      internalID: 649844079837008672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 466
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ac81334c8554660800000000000000
+      internalID: 7369393964955781788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_39
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 466
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e197886e4556364b0800000000000000
+      internalID: -5448399708868806370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_40
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 467
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee6848232195c960800000000000000
+      internalID: 7621657524580151016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_41
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 467
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05993e9b2a9a5600800000000000000
+      internalID: 457847824260371723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fb4ebefe615afd0800000000000000
+      internalID: -2331432012383731850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 451
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c345d1297e0cf620800000000000000
+      internalID: 2809136180993803201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 453
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef3ebf75412af6b0800000000000000
+      internalID: -5261856632249368606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 450
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53999197c8cbeec80800000000000000
+      internalID: -8291482552429340363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 450
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd7a4b0babc76dd0800000000000000
+      internalID: -2492799933237002811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 455
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42242a96bc8d2ae0800000000000000
+      internalID: -1572445978984439220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 450
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e945f2ae5f53990800000000000000
+      internalID: -7406743625975685535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 450
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e0108d3cc7f4800800000000000000
+      internalID: 598834456047980103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 450
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e8eeb064e3e3d10800000000000000
+      internalID: 2107190146224786985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 450
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511daa74464cc3f80800000000000000
+      internalID: -8125403692705066731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_52
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 449
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a80ba39c69d08c0800000000000000
+      internalID: -4031400300409484764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 449
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402a1e7bd6d0988b0800000000000000
+      internalID: -5149569934033837564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 453
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab46b8519fa0d7330800000000000000
+      internalID: 3710133732947748026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_55
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 449
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b3a902c9c8dbdb0800000000000000
+      internalID: -4774505427753092251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_56
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 449
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb50603b9a49dc90800000000000000
+      internalID: -7144597303454573643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_57
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 449
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03530801c258a00c0800000000000000
+      internalID: -4608724844358388432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 433
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd47e70b6b0e22f0800000000000000
+      internalID: -995845913280295439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_59
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 453
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366c9e38a8cd9cb50800000000000000
+      internalID: 6614060015247017571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 449
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad91796db750fd9a0800000000000000
+      internalID: -6206235732053911078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_61
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 453
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f71b3b8386ac9e0800000000000000
+      internalID: -1600352124834578577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 450
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c54dba37266b14a0800000000000000
+      internalID: -6621586508442942009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 450
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b7f971ae9dd5290800000000000000
+      internalID: -7899918571896079462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_64
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 455
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1ed2d12a67e4fa0800000000000000
+      internalID: -5814579630242405974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_65
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 450
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a194a6d56fbcbf730800000000000000
+      internalID: 4034042150230051098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_66
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 450
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138c5af9dab83a250800000000000000
+      internalID: 5954756710137972785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_67
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 451
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe99c0d4c7d23abe0800000000000000
+      internalID: -1467279041700783633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_68
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 450
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e03f157311d83240800000000000000
+      internalID: 4771793686698602727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_69
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 449
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c51e1c18671e850800000000000000
+      internalID: 6404530444773186651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 450
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65add8f660423bb0800000000000000
+      internalID: -4957829428775377556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_71
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 456
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb64500352652ac0800000000000000
+      internalID: -3880587395282474021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_72
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 449
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f768f15215f259bd0800000000000000
+      internalID: -2624139182311766401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_73
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 449
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8414d6b6800d3c0800000000000000
+      internalID: -4336957183670269706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_74
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 449
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8a89377b3226520800000000000000
+      internalID: 2693754797946349787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_75
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 454
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb19e091f2257970800000000000000
+      internalID: 8751939871778085811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef02169f218a0ed0800000000000000
+      internalID: -2447001406141231128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 449
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d5a49d093ff9c60800000000000000
+      internalID: 7827242480839580985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_78
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 449
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fbfbe2f2b0ca970800000000000000
+      internalID: 8767394871859199795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_79
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 433
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2054ef0c58599910800000000000000
+      internalID: 1844602674811785259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_80
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 433
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eaf57ff12927150800000000000000
+      internalID: 5868913930409061912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_81
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 433
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c39b5a18c85b650800000000000000
+      internalID: 6248054546505481352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_82
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 449
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8316fa3110920120800000000000000
+      internalID: 2378621956883092363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_83
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f5855089e04c150800000000000000
+      internalID: 5891850258594946898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_84
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 449
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c65a7b6bfde5b80800000000000000
+      internalID: -8404033878768653250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 436
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8276246202f1941d0800000000000000
+      internalID: -3366125023541434584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_86
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 449
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81873ea3eaa1bba00800000000000000
+      internalID: 773241096638789656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_87
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 436
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eda95129da2a6430800000000000000
+      internalID: 3776878349559377379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_88
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 436
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdd9558a91481d20800000000000000
+      internalID: 3249419263065841092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_89
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 442
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567b26dd87304a360800000000000000
+      internalID: 7179867523580606309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_90
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 431
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b462d5eca385913c0800000000000000
+      internalID: -4388379352302279093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 433
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba8be0f60e18c470800000000000000
+      internalID: 8415008918902377137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_92
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 437
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01038d803b189fe40800000000000000
+      internalID: 5690722210106847248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 433
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c0e665079edb1c0800000000000000
+      internalID: -4486172985095484298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_94
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 438
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae0f6a9f6ffe5be0800000000000000
+      internalID: -1486469972188262744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_95
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 437
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45cab44144e817e0800000000000000
+      internalID: -1794433482530044597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_96
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 433
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13863da7a36cb6820800000000000000
+      internalID: 2912639538496235569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_97
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 437
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f7caee99e60bd20800000000000000
+      internalID: 3292252935021166441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_98
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 433
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1487cf887006663e0800000000000000
+      internalID: -2060854193996138431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_99
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 437
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6ec9ed7357859c0800000000000000
+      internalID: -3938268991317023032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_100
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 437
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44116dd9cfc8d4e0800000000000000
+      internalID: -1956585572182977460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_101
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 439
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b860b9388632e4dd0800000000000000
+      internalID: -2500021811352500597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 433
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9892f740635e49860800000000000000
+      internalID: 7535900096664119689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_103
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 441
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7492c44032121f0800000000000000
+      internalID: -1071536734972852315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_104
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 436
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447967b1f343b9cd0800000000000000
+      internalID: -2550387318326913212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_105
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 433
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b14106745247940800000000000000
+      internalID: 5292896450552011559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_106
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 436
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd1917ae004d7eb0800000000000000
+      internalID: -4720546402737250856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_107
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9cf1dcb5a953e20800000000000000
+      internalID: 3329737218584463804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 433
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892245caf33db8a40800000000000000
+      internalID: 5371619250997043864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_109
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 432
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2051706e9358290800000000000000
+      internalID: -7888835512145476891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_110
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 437
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b068ea00ba9fcf500800000000000000
+      internalID: 431494177166886411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_111
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 439
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c4f7ce2c3714f70800000000000000
+      internalID: 9169737597331655798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_112
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 433
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d204b39d89bb1310800000000000000
+      internalID: 1376898128811393745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_113
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 440
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80831a3e929d827b0800000000000000
+      internalID: -5248706591764432888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_114
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 435
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b793babfa19e8d540800000000000000
+      internalID: 5033028885687253371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_115
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 435
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf221b5cd368c13b0800000000000000
+      internalID: -5540405841704705285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_116
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 436
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c576aa6160db0050800000000000000
+      internalID: 5767932864597751233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_117
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 434
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363f1a372cf32a620800000000000000
+      internalID: 2783857624064586595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdb23c65c5970d80800000000000000
+      internalID: -8284488314368377347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_119
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 433
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592fd69bc98bc9420800000000000000
+      internalID: 2638186464997667477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_120
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 433
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d8247fe1ad9b260800000000000000
+      internalID: 7113956912940617116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_121
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 433
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c78a090a6b9c4020800000000000000
+      internalID: 2327405987164227526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_122
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 415
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cc41bfa2c3943a0800000000000000
+      internalID: -6680742416928682870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_123
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 433
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271aceb3eb35d81a0800000000000000
+      internalID: -6805691385372696206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_124
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 433
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9a21e0809c1a360800000000000000
+      internalID: 7179240317438306773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_125
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 433
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a50309ec70a1ea0800000000000000
+      internalID: -5901395777951868341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_126
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 433
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deabbaf0996dde50800000000000000
+      internalID: 6835735880821092054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02f6deca426fc800800000000000000
+      internalID: 634834145919824397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_128
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 418
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1903e124449f44500800000000000000
+      internalID: 379702340168331409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_129
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 419
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de8462f42ab4a560800000000000000
+      internalID: 7324183561859534550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_130
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 415
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c78e55544ef05d0800000000000000
+      internalID: -3094003432535065472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_131
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 416
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1bcd6bbacbe6b30800000000000000
+      internalID: 4282567741369266661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_132
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 416
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ace4eb7a85bdc60800000000000000
+      internalID: 7843960653471468088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_133
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 416
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a943e7d5993b8580800000000000000
+      internalID: -8823895729167447648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_134
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 416
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76535c2b79fd24f0800000000000000
+      internalID: -851750447083202945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_135
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 416
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a05c39a61d84740800000000000000
+      internalID: 5136585630691953242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_136
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 416
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e8076db52d30860800000000000000
+      internalID: 7495065496756194936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_137
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 416
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdea280a7474d9a0800000000000000
+      internalID: -6209209918765208134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_138
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 416
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3ef49e648e57d30800000000000000
+      internalID: 4428701199848432588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_139
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 416
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac706f28b652dc40800000000000000
+      internalID: 5535582241060584608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_140
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 416
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb8eac3313981bc0800000000000000
+      internalID: -3812135373737391108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_141
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 416
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0772bab1e9ffb4c50800000000000000
+      internalID: 6650690329276786544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_142
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 416
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6840a36b158c04f0800000000000000
+      internalID: -861167076052547478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_143
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 416
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1337f4e23add9a20800000000000000
+      internalID: 3070850433061171994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_144
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 415
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebbfdd1507d344e0800000000000000
+      internalID: -1998517392646358042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_145
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 416
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e10163c6450fa10800000000000000
+      internalID: 1941144263136910922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_146
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 416
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ea0ae2d2ecfa940800000000000000
+      internalID: 5309689179144236577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_147
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eed9ce2820577a70800000000000000
+      internalID: 8824610128369671907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_148
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 400
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eeabb11d2038750800000000000000
+      internalID: 6305887000385482308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_149
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 400
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a617e4633f14980800000000000000
+      internalID: -8556290402457392600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_150
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 401
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9247bc370ad8a96d0800000000000000
+      internalID: -2982916082902535127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_151
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 400
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c78cfeb7bd196360800000000000000
+      internalID: 7163289357329926081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_152
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 400
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75aa24e1768a1430800000000000000
+      internalID: 3754461063084156287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_153
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 400
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcca661c07402f60800000000000000
+      internalID: 8007478254706019542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_154
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 400
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e3f6df11c01d7a0800000000000000
+      internalID: -6354284327837155790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_155
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 400
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f6a6231db4eafc0800000000000000
+      internalID: -3481762100044730523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_156
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 385
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450ecc3b73f535af0800000000000000
+      internalID: -408878448316194732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_157
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 400
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b81ddda26428faf0800000000000000
+      internalID: -362499763760981831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_158
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 383
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4556d857c60d718e0800000000000000
+      internalID: -1722679168198679212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_159
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 399
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b437d48146d50950800000000000000
+      internalID: 6414768821149054135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_160
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 383
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f854f1eb22e4c40800000000000000
+      internalID: 5498370395029737246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_161
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 400
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a6698006acb9f80800000000000000
+      internalID: -8098656991085958588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_162
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 400
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1417936d9f6d974b0800000000000000
+      internalID: -5442082306171244223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_163
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 399
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d4e204ab77b2980800000000000000
+      internalID: -8562618624690467505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_164
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 399
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4356eca03a8bbee00800000000000000
+      internalID: 1075155946458473780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_165
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 400
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cf2fb7dc3ce8630800000000000000
+      internalID: 3931294812056255570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_166
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 400
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81077421d1ac6b50800000000000000
+      internalID: 6587818274568208778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_167
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 400
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba34d733f8fb0460800000000000000
+      internalID: 7209129352034007738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_168
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 400
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c302977fc0e0f00800000000000000
+      internalID: 1084818817271479303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2adbd7b6d1e219d0800000000000000
+      internalID: -2804931305574507985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_170
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 400
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6561228a99120e0800000000000000
+      internalID: -2296385387576797531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_171
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 400
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade0310ac496a9f70800000000000000
+      internalID: 9194777367054323418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_172
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 401
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768051c38b88875d0800000000000000
+      internalID: -3064549221562251161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_173
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 400
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e809583bc1c8b2aa0800000000000000
+      internalID: -6184695608364396402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_174
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 400
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770cbb1c9fbfddec0800000000000000
+      internalID: -3540396681927606153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_175
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 384
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517cb9a0b3bb95500800000000000000
+      internalID: 385545105372333845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_176
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 383
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37c931eb8eda9d80800000000000000
+      internalID: -8243031475587791043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_177
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 383
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be558f58cee95400800000000000000
+      internalID: 313544193442406072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_178
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 385
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75d21d1bc1a17420800000000000000
+      internalID: 2626057951471916410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_179
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 387
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463aa9853a1f79760800000000000000
+      internalID: 7464700591258379108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_180
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c63a43508f0a9e0800000000000000
+      internalID: -1612015965356987286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_181
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 386
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de742ef57a987230800000000000000
+      internalID: 3636826530667331282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_182
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 382
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e896372d6b5fd800800000000000000
+      internalID: 639330196477352163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_183
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 382
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c9f69bb74528aa0800000000000000
+      internalID: -6160268449920607160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_184
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 383
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf481587eb63c510800000000000000
+      internalID: 1568215737369644973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_185
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 382
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb112e671c2cf3d10800000000000000
+      internalID: 2107617286811685310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_186
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 381
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6d1ba4b6036d4d0800000000000000
+      internalID: -3110245255279946056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_187
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 381
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51bcca0bc5bb2990800000000000000
+      internalID: -7409628878243843749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_188
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 380
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c912b355c3f77e0800000000000000
+      internalID: -1765626192143999871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_189
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 360
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4772891dd170ba660800000000000000
+      internalID: 7398014637538027380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_190
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 360
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8174ba64a446f1540800000000000000
+      internalID: 4980809983071045400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_191
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 361
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92149ea0cd4cce400800000000000000
+      internalID: 354874920010334505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_192
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 361
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed9c21ab495c2cd0800000000000000
+      internalID: -2581590305028661778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_193
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 360
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5d02c5ec385cca0800000000000000
+      internalID: -5997242406441790005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_194
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 361
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082fabe1f13469b70800000000000000
+      internalID: 8905379114110349952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_195
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 362
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc5b70c989f95d40800000000000000
+      internalID: 5573760383882845402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_196
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 362
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ab0233b890cf930800000000000000
+      internalID: 4178225047755864663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_197
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 361
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c1e2e5ced7ccaf0800000000000000
+      internalID: -374786214832759660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_198
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 361
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ab2ee65806aafa0800000000000000
+      internalID: -5788708244824081771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_199
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 359
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1b26cf651b679a0800000000000000
+      internalID: -6235601646888242709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_200
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 360
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e84bad7b74a3020800000000000000
+      internalID: 2322247412836765252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_201
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 359
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37463871b748f1a50800000000000000
+      internalID: 6494054851901875315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_202
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 360
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744de4f6baad8b7b0800000000000000
+      internalID: -5208172539212278713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_203
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 358
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660952e443d7619c0800000000000000
+      internalID: -3956837558995546010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_204
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 358
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597e67e30b7e001a0800000000000000
+      internalID: -6845216689454913643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_205
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 358
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc1455136d82c500800000000000000
+      internalID: 415049572370619643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_206
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 358
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4dc4b754082b680800000000000000
+      internalID: -8740782890862979898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_207
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 357
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a42abaa33dfe7f90800000000000000
+      internalID: -6953842376263981917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_208
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 361
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36a61347ee072d80800000000000000
+      internalID: -8275629403844204998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_209
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 358
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44640a8e57d564330800000000000000
+      internalID: 3694743305299445316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_210
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 358
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fec187cc4e771f0800000000000000
+      internalID: -1047116821500727432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_211
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2671f9d3a2f332780800000000000000
+      internalID: -8709047803749394590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_212
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 339
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6d655a80593cc50800000000000000
+      internalID: 6684350136314156747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_213
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 337
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603a232eee7f73520800000000000000
+      internalID: 2681884708491666182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_214
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f038fd6e1ce7db0800000000000000
+      internalID: -4792179756139081968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_215
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 338
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3c2d517df2d6340800000000000000
+      internalID: 4858592173833241575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_216
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 335
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4844a9e2b794fc0800000000000000
+      internalID: -3510138994471697153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_217
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 336
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e25369d8230d65e0800000000000000
+      internalID: -1914870792581852439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_218
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a743975de71ea1e80800000000000000
+      internalID: -8206999436065688454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_219
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 337
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25632cecc7e1d4c50800000000000000
+      internalID: 6651005746089702994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_220
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 337
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61349eed807c76cf0800000000000000
+      internalID: -259019612637019370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_221
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 337
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c9c6d9b60d3edf0800000000000000
+      internalID: -152048801779245959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_222
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 337
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e08329032d17630800000000000000
+      internalID: 3923147856469823045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_223
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 337
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4bb9c18a09ba410800000000000000
+      internalID: 1489443153484952809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_224
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 337
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a45b1e2f517252c0800000000000000
+      internalID: -4444365228651883356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_225
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 336
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556928377244e34d0800000000000000
+      internalID: -3153007752880417195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_226
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 335
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eae774258eecdfb0800000000000000
+      internalID: -4621556861979071773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_227
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 334
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8292031aba06bd60800000000000000
+      internalID: 7905517990194614925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_228
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 334
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d1052360788aa00800000000000000
+      internalID: 768012197150334296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_229
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 336
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4993413022bf91530800000000000000
+      internalID: 3826365481927063956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_230
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 334
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fb0c4b3867a45b0800000000000000
+      internalID: -5383360096522682585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_231
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 334
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c8cb703464abd20800000000000000
+      internalID: 3295023331081489564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a97d1ec915dbfec0800000000000000
+      internalID: -3531995175933085280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_233
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 293
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aba9c964481f150800000000000000
+      internalID: 5904646025269394005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_234
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 293
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb90c4f7bd12c12c0800000000000000
+      internalID: -4459652304386389573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_235
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 293
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69d8d009626731b0800000000000000
+      internalID: -5676960602151921297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_236
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 293
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd371d42e5bbfdd0800000000000000
+      internalID: -2451165588612497985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_237
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 293
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c64c2508c50b3fb0800000000000000
+      internalID: -4667130232201001278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_238
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 290
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0d1b37fdefce350800000000000000
+      internalID: 6047488635323928824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_239
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 298
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a647ccaf4369120800000000000000
+      internalID: 2420180101534870041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_240
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 301
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbf436b7cbb9c030800000000000000
+      internalID: 3515547450569194462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_241
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 299
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b16c82416281600800000000000000
+      internalID: 439142831693896473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_242
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 299
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c26b08927fc1970800000000000000
+      internalID: 8727121935562320983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_243
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 266
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1286eced11fac6b00800000000000000
+      internalID: 823225323189332001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_244
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 266
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b665464f8a6c3c0800000000000000
+      internalID: -4339595423316022401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_245
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 267
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef3a79e6dec4f160800000000000000
+      internalID: 7058493938431836130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_246
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 266
+        width: 98
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a069d40a149c74280800000000000000
+      internalID: -9059050841732966902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_247
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 266
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42da170a8fb5ac00800000000000000
+      internalID: 911345099157983818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_248
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 267
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5aa496b6eda9770800000000000000
+      internalID: 8618445389836232138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_249
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 267
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20df7b6e3ed85c570800000000000000
+      internalID: 8486345082817477890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_250
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 267
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a014576f8502fd70800000000000000
+      internalID: 9075322312576995496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_251
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 268
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352d351a31c969600800000000000000
+      internalID: 474738418859102803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_252
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 116
+        width: 54
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dd035e7c1fee6b0800000000000000
+      internalID: -5265005073503560368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_253
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 233
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc37d98662dff210800000000000000
+      internalID: 1369044149585001686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_254
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 233
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cf9144e20ea7500800000000000000
+      internalID: 394874406664010876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_255
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 233
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c48b6e22109f07b0800000000000000
+      internalID: -5255823832355470140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_256
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 233
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef8f765b7e608320800000000000000
+      internalID: 2558166064357674988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_257
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 252
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f985a0f6504d8140800000000000000
+      internalID: 4723502326330264055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_258
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 253
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae5831ca6157bf00800000000000000
+      internalID: 1132463350257049251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_259
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 253
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fdc1902436a0da0800000000000000
+      internalID: -5977856420109033662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_260
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 253
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046a2f0b0587686a0800000000000000
+      internalID: -6447333528572877248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_261
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 116
+        width: 54
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340e646ab52d73f70800000000000000
+      internalID: 9167026857609453635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_262
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 233
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c89e24ffd41e1e10800000000000000
+      internalID: 2170195022546114752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_263
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 233
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca962239c9689f80800000000000000
+      internalID: -8099607616975103281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_264
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 185
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdf58a201c9ceec0800000000000000
+      internalID: -3536280014145847881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_265
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 48
+        width: 62
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d128107baf3aeb5b0800000000000000
+      internalID: -5350659010062089699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_266
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 185
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7f7e5f3248ead90800000000000000
+      internalID: -7084579873822869583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_267
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 185
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596099795fec02ef0800000000000000
+      internalID: -134880434615417195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_268
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 185
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e05382f0263ec720800000000000000
+      internalID: 2868289527817130211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_269
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 48
+        width: 54
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb17935572345940800000000000000
+      internalID: 5283903742307408891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_270
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d379f431cf6ce50800000000000000
+      internalID: 6829423044823825688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Mines_271
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 8
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f358ba0be58a790800000000000000
+      internalID: -7518655465010151636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Stardew Valley - Mines_0: 4671809863852124063
+      PC Computer - Stardew Valley - Mines_1: -5489409418353065772
+      PC Computer - Stardew Valley - Mines_10: -943828293882447160
+      PC Computer - Stardew Valley - Mines_100: -1956585572182977460
+      PC Computer - Stardew Valley - Mines_101: -2500021811352500597
+      PC Computer - Stardew Valley - Mines_102: 7535900096664119689
+      PC Computer - Stardew Valley - Mines_103: -1071536734972852315
+      PC Computer - Stardew Valley - Mines_104: -2550387318326913212
+      PC Computer - Stardew Valley - Mines_105: 5292896450552011559
+      PC Computer - Stardew Valley - Mines_106: -4720546402737250856
+      PC Computer - Stardew Valley - Mines_107: 3329737218584463804
+      PC Computer - Stardew Valley - Mines_108: 5371619250997043864
+      PC Computer - Stardew Valley - Mines_109: -7888835512145476891
+      PC Computer - Stardew Valley - Mines_11: 3027802197857036551
+      PC Computer - Stardew Valley - Mines_110: 431494177166886411
+      PC Computer - Stardew Valley - Mines_111: 9169737597331655798
+      PC Computer - Stardew Valley - Mines_112: 1376898128811393745
+      PC Computer - Stardew Valley - Mines_113: -5248706591764432888
+      PC Computer - Stardew Valley - Mines_114: 5033028885687253371
+      PC Computer - Stardew Valley - Mines_115: -5540405841704705285
+      PC Computer - Stardew Valley - Mines_116: 5767932864597751233
+      PC Computer - Stardew Valley - Mines_117: 2783857624064586595
+      PC Computer - Stardew Valley - Mines_118: -8284488314368377347
+      PC Computer - Stardew Valley - Mines_119: 2638186464997667477
+      PC Computer - Stardew Valley - Mines_12: -363096796613970517
+      PC Computer - Stardew Valley - Mines_120: 7113956912940617116
+      PC Computer - Stardew Valley - Mines_121: 2327405987164227526
+      PC Computer - Stardew Valley - Mines_122: -6680742416928682870
+      PC Computer - Stardew Valley - Mines_123: -6805691385372696206
+      PC Computer - Stardew Valley - Mines_124: 7179240317438306773
+      PC Computer - Stardew Valley - Mines_125: -5901395777951868341
+      PC Computer - Stardew Valley - Mines_126: 6835735880821092054
+      PC Computer - Stardew Valley - Mines_127: 634834145919824397
+      PC Computer - Stardew Valley - Mines_128: 379702340168331409
+      PC Computer - Stardew Valley - Mines_129: 7324183561859534550
+      PC Computer - Stardew Valley - Mines_13: 3507782802601400042
+      PC Computer - Stardew Valley - Mines_130: -3094003432535065472
+      PC Computer - Stardew Valley - Mines_131: 4282567741369266661
+      PC Computer - Stardew Valley - Mines_132: 7843960653471468088
+      PC Computer - Stardew Valley - Mines_133: -8823895729167447648
+      PC Computer - Stardew Valley - Mines_134: -851750447083202945
+      PC Computer - Stardew Valley - Mines_135: 5136585630691953242
+      PC Computer - Stardew Valley - Mines_136: 7495065496756194936
+      PC Computer - Stardew Valley - Mines_137: -6209209918765208134
+      PC Computer - Stardew Valley - Mines_138: 4428701199848432588
+      PC Computer - Stardew Valley - Mines_139: 5535582241060584608
+      PC Computer - Stardew Valley - Mines_14: -171358665319172957
+      PC Computer - Stardew Valley - Mines_140: -3812135373737391108
+      PC Computer - Stardew Valley - Mines_141: 6650690329276786544
+      PC Computer - Stardew Valley - Mines_142: -861167076052547478
+      PC Computer - Stardew Valley - Mines_143: 3070850433061171994
+      PC Computer - Stardew Valley - Mines_144: -1998517392646358042
+      PC Computer - Stardew Valley - Mines_145: 1941144263136910922
+      PC Computer - Stardew Valley - Mines_146: 5309689179144236577
+      PC Computer - Stardew Valley - Mines_147: 8824610128369671907
+      PC Computer - Stardew Valley - Mines_148: 6305887000385482308
+      PC Computer - Stardew Valley - Mines_149: -8556290402457392600
+      PC Computer - Stardew Valley - Mines_15: -5365606642700810459
+      PC Computer - Stardew Valley - Mines_150: -2982916082902535127
+      PC Computer - Stardew Valley - Mines_151: 7163289357329926081
+      PC Computer - Stardew Valley - Mines_152: 3754461063084156287
+      PC Computer - Stardew Valley - Mines_153: 8007478254706019542
+      PC Computer - Stardew Valley - Mines_154: -6354284327837155790
+      PC Computer - Stardew Valley - Mines_155: -3481762100044730523
+      PC Computer - Stardew Valley - Mines_156: -408878448316194732
+      PC Computer - Stardew Valley - Mines_157: -362499763760981831
+      PC Computer - Stardew Valley - Mines_158: -1722679168198679212
+      PC Computer - Stardew Valley - Mines_159: 6414768821149054135
+      PC Computer - Stardew Valley - Mines_16: 2081778014081420398
+      PC Computer - Stardew Valley - Mines_160: 5498370395029737246
+      PC Computer - Stardew Valley - Mines_161: -8098656991085958588
+      PC Computer - Stardew Valley - Mines_162: -5442082306171244223
+      PC Computer - Stardew Valley - Mines_163: -8562618624690467505
+      PC Computer - Stardew Valley - Mines_164: 1075155946458473780
+      PC Computer - Stardew Valley - Mines_165: 3931294812056255570
+      PC Computer - Stardew Valley - Mines_166: 6587818274568208778
+      PC Computer - Stardew Valley - Mines_167: 7209129352034007738
+      PC Computer - Stardew Valley - Mines_168: 1084818817271479303
+      PC Computer - Stardew Valley - Mines_169: -2804931305574507985
+      PC Computer - Stardew Valley - Mines_17: -5031003414545045565
+      PC Computer - Stardew Valley - Mines_170: -2296385387576797531
+      PC Computer - Stardew Valley - Mines_171: 9194777367054323418
+      PC Computer - Stardew Valley - Mines_172: -3064549221562251161
+      PC Computer - Stardew Valley - Mines_173: -6184695608364396402
+      PC Computer - Stardew Valley - Mines_174: -3540396681927606153
+      PC Computer - Stardew Valley - Mines_175: 385545105372333845
+      PC Computer - Stardew Valley - Mines_176: -8243031475587791043
+      PC Computer - Stardew Valley - Mines_177: 313544193442406072
+      PC Computer - Stardew Valley - Mines_178: 2626057951471916410
+      PC Computer - Stardew Valley - Mines_179: 7464700591258379108
+      PC Computer - Stardew Valley - Mines_18: 2622176848602201567
+      PC Computer - Stardew Valley - Mines_180: -1612015965356987286
+      PC Computer - Stardew Valley - Mines_181: 3636826530667331282
+      PC Computer - Stardew Valley - Mines_182: 639330196477352163
+      PC Computer - Stardew Valley - Mines_183: -6160268449920607160
+      PC Computer - Stardew Valley - Mines_184: 1568215737369644973
+      PC Computer - Stardew Valley - Mines_185: 2107617286811685310
+      PC Computer - Stardew Valley - Mines_186: -3110245255279946056
+      PC Computer - Stardew Valley - Mines_187: -7409628878243843749
+      PC Computer - Stardew Valley - Mines_188: -1765626192143999871
+      PC Computer - Stardew Valley - Mines_189: 7398014637538027380
+      PC Computer - Stardew Valley - Mines_19: 4214608635045262956
+      PC Computer - Stardew Valley - Mines_190: 4980809983071045400
+      PC Computer - Stardew Valley - Mines_191: 354874920010334505
+      PC Computer - Stardew Valley - Mines_192: -2581590305028661778
+      PC Computer - Stardew Valley - Mines_193: -5997242406441790005
+      PC Computer - Stardew Valley - Mines_194: 8905379114110349952
+      PC Computer - Stardew Valley - Mines_195: 5573760383882845402
+      PC Computer - Stardew Valley - Mines_196: 4178225047755864663
+      PC Computer - Stardew Valley - Mines_197: -374786214832759660
+      PC Computer - Stardew Valley - Mines_198: -5788708244824081771
+      PC Computer - Stardew Valley - Mines_199: -6235601646888242709
+      PC Computer - Stardew Valley - Mines_2: -3937369555551577840
+      PC Computer - Stardew Valley - Mines_20: 8310859541446027775
+      PC Computer - Stardew Valley - Mines_200: 2322247412836765252
+      PC Computer - Stardew Valley - Mines_201: 6494054851901875315
+      PC Computer - Stardew Valley - Mines_202: -5208172539212278713
+      PC Computer - Stardew Valley - Mines_203: -3956837558995546010
+      PC Computer - Stardew Valley - Mines_204: -6845216689454913643
+      PC Computer - Stardew Valley - Mines_205: 415049572370619643
+      PC Computer - Stardew Valley - Mines_206: -8740782890862979898
+      PC Computer - Stardew Valley - Mines_207: -6953842376263981917
+      PC Computer - Stardew Valley - Mines_208: -8275629403844204998
+      PC Computer - Stardew Valley - Mines_209: 3694743305299445316
+      PC Computer - Stardew Valley - Mines_21: -112736863332424798
+      PC Computer - Stardew Valley - Mines_210: -1047116821500727432
+      PC Computer - Stardew Valley - Mines_211: -8709047803749394590
+      PC Computer - Stardew Valley - Mines_212: 6684350136314156747
+      PC Computer - Stardew Valley - Mines_213: 2681884708491666182
+      PC Computer - Stardew Valley - Mines_214: -4792179756139081968
+      PC Computer - Stardew Valley - Mines_215: 4858592173833241575
+      PC Computer - Stardew Valley - Mines_216: -3510138994471697153
+      PC Computer - Stardew Valley - Mines_217: -1914870792581852439
+      PC Computer - Stardew Valley - Mines_218: -8206999436065688454
+      PC Computer - Stardew Valley - Mines_219: 6651005746089702994
+      PC Computer - Stardew Valley - Mines_22: 922978240198999927
+      PC Computer - Stardew Valley - Mines_220: -259019612637019370
+      PC Computer - Stardew Valley - Mines_221: -152048801779245959
+      PC Computer - Stardew Valley - Mines_222: 3923147856469823045
+      PC Computer - Stardew Valley - Mines_223: 1489443153484952809
+      PC Computer - Stardew Valley - Mines_224: -4444365228651883356
+      PC Computer - Stardew Valley - Mines_225: -3153007752880417195
+      PC Computer - Stardew Valley - Mines_226: -4621556861979071773
+      PC Computer - Stardew Valley - Mines_227: 7905517990194614925
+      PC Computer - Stardew Valley - Mines_228: 768012197150334296
+      PC Computer - Stardew Valley - Mines_229: 3826365481927063956
+      PC Computer - Stardew Valley - Mines_23: -5538280088204745642
+      PC Computer - Stardew Valley - Mines_230: -5383360096522682585
+      PC Computer - Stardew Valley - Mines_231: 3295023331081489564
+      PC Computer - Stardew Valley - Mines_232: -3531995175933085280
+      PC Computer - Stardew Valley - Mines_233: 5904646025269394005
+      PC Computer - Stardew Valley - Mines_234: -4459652304386389573
+      PC Computer - Stardew Valley - Mines_235: -5676960602151921297
+      PC Computer - Stardew Valley - Mines_236: -2451165588612497985
+      PC Computer - Stardew Valley - Mines_237: -4667130232201001278
+      PC Computer - Stardew Valley - Mines_238: 6047488635323928824
+      PC Computer - Stardew Valley - Mines_239: 2420180101534870041
+      PC Computer - Stardew Valley - Mines_24: 630374767480686171
+      PC Computer - Stardew Valley - Mines_240: 3515547450569194462
+      PC Computer - Stardew Valley - Mines_241: 439142831693896473
+      PC Computer - Stardew Valley - Mines_242: 8727121935562320983
+      PC Computer - Stardew Valley - Mines_243: 823225323189332001
+      PC Computer - Stardew Valley - Mines_244: -4339595423316022401
+      PC Computer - Stardew Valley - Mines_245: 7058493938431836130
+      PC Computer - Stardew Valley - Mines_246: -9059050841732966902
+      PC Computer - Stardew Valley - Mines_247: 911345099157983818
+      PC Computer - Stardew Valley - Mines_248: 8618445389836232138
+      PC Computer - Stardew Valley - Mines_249: 8486345082817477890
+      PC Computer - Stardew Valley - Mines_25: 7915952330292403793
+      PC Computer - Stardew Valley - Mines_250: 9075322312576995496
+      PC Computer - Stardew Valley - Mines_251: 474738418859102803
+      PC Computer - Stardew Valley - Mines_252: -5265005073503560368
+      PC Computer - Stardew Valley - Mines_253: 1369044149585001686
+      PC Computer - Stardew Valley - Mines_254: 394874406664010876
+      PC Computer - Stardew Valley - Mines_255: -5255823832355470140
+      PC Computer - Stardew Valley - Mines_256: 2558166064357674988
+      PC Computer - Stardew Valley - Mines_257: 4723502326330264055
+      PC Computer - Stardew Valley - Mines_258: 1132463350257049251
+      PC Computer - Stardew Valley - Mines_259: -5977856420109033662
+      PC Computer - Stardew Valley - Mines_26: -3677706560300259080
+      PC Computer - Stardew Valley - Mines_260: -6447333528572877248
+      PC Computer - Stardew Valley - Mines_261: 9167026857609453635
+      PC Computer - Stardew Valley - Mines_262: 2170195022546114752
+      PC Computer - Stardew Valley - Mines_263: -8099607616975103281
+      PC Computer - Stardew Valley - Mines_264: -3536280014145847881
+      PC Computer - Stardew Valley - Mines_265: -5350659010062089699
+      PC Computer - Stardew Valley - Mines_266: -7084579873822869583
+      PC Computer - Stardew Valley - Mines_267: -134880434615417195
+      PC Computer - Stardew Valley - Mines_268: 2868289527817130211
+      PC Computer - Stardew Valley - Mines_269: 5283903742307408891
+      PC Computer - Stardew Valley - Mines_27: 3372378344650106874
+      PC Computer - Stardew Valley - Mines_270: 6829423044823825688
+      PC Computer - Stardew Valley - Mines_271: -7518655465010151636
+      PC Computer - Stardew Valley - Mines_28: 6712636768507936676
+      PC Computer - Stardew Valley - Mines_29: 8173682343365129243
+      PC Computer - Stardew Valley - Mines_3: 831401430260768029
+      PC Computer - Stardew Valley - Mines_30: 9068939107578450310
+      PC Computer - Stardew Valley - Mines_31: 1623772528558643428
+      PC Computer - Stardew Valley - Mines_32: -1269132746709553062
+      PC Computer - Stardew Valley - Mines_33: -1632362861821710701
+      PC Computer - Stardew Valley - Mines_34: 3217687869168766491
+      PC Computer - Stardew Valley - Mines_35: -1530399161326729644
+      PC Computer - Stardew Valley - Mines_36: 6662848766963604329
+      PC Computer - Stardew Valley - Mines_37: 649844079837008672
+      PC Computer - Stardew Valley - Mines_38: 7369393964955781788
+      PC Computer - Stardew Valley - Mines_39: -5448399708868806370
+      PC Computer - Stardew Valley - Mines_4: 1858434576075811443
+      PC Computer - Stardew Valley - Mines_40: 7621657524580151016
+      PC Computer - Stardew Valley - Mines_41: 457847824260371723
+      PC Computer - Stardew Valley - Mines_42: -2331432012383731850
+      PC Computer - Stardew Valley - Mines_43: 2809136180993803201
+      PC Computer - Stardew Valley - Mines_44: -5261856632249368606
+      PC Computer - Stardew Valley - Mines_45: -8291482552429340363
+      PC Computer - Stardew Valley - Mines_46: -2492799933237002811
+      PC Computer - Stardew Valley - Mines_47: -1572445978984439220
+      PC Computer - Stardew Valley - Mines_48: -7406743625975685535
+      PC Computer - Stardew Valley - Mines_49: 598834456047980103
+      PC Computer - Stardew Valley - Mines_5: -5872071475121219769
+      PC Computer - Stardew Valley - Mines_50: 2107190146224786985
+      PC Computer - Stardew Valley - Mines_51: -8125403692705066731
+      PC Computer - Stardew Valley - Mines_52: -4031400300409484764
+      PC Computer - Stardew Valley - Mines_53: -5149569934033837564
+      PC Computer - Stardew Valley - Mines_54: 3710133732947748026
+      PC Computer - Stardew Valley - Mines_55: -4774505427753092251
+      PC Computer - Stardew Valley - Mines_56: -7144597303454573643
+      PC Computer - Stardew Valley - Mines_57: -4608724844358388432
+      PC Computer - Stardew Valley - Mines_58: -995845913280295439
+      PC Computer - Stardew Valley - Mines_59: 6614060015247017571
+      PC Computer - Stardew Valley - Mines_6: 2834953518350670742
+      PC Computer - Stardew Valley - Mines_60: -6206235732053911078
+      PC Computer - Stardew Valley - Mines_61: -1600352124834578577
+      PC Computer - Stardew Valley - Mines_62: -6621586508442942009
+      PC Computer - Stardew Valley - Mines_63: -7899918571896079462
+      PC Computer - Stardew Valley - Mines_64: -5814579630242405974
+      PC Computer - Stardew Valley - Mines_65: 4034042150230051098
+      PC Computer - Stardew Valley - Mines_66: 5954756710137972785
+      PC Computer - Stardew Valley - Mines_67: -1467279041700783633
+      PC Computer - Stardew Valley - Mines_68: 4771793686698602727
+      PC Computer - Stardew Valley - Mines_69: 6404530444773186651
+      PC Computer - Stardew Valley - Mines_7: 1823382637829540506
+      PC Computer - Stardew Valley - Mines_70: -4957829428775377556
+      PC Computer - Stardew Valley - Mines_71: -3880587395282474021
+      PC Computer - Stardew Valley - Mines_72: -2624139182311766401
+      PC Computer - Stardew Valley - Mines_73: -4336957183670269706
+      PC Computer - Stardew Valley - Mines_74: 2693754797946349787
+      PC Computer - Stardew Valley - Mines_75: 8751939871778085811
+      PC Computer - Stardew Valley - Mines_76: -2447001406141231128
+      PC Computer - Stardew Valley - Mines_77: 7827242480839580985
+      PC Computer - Stardew Valley - Mines_78: 8767394871859199795
+      PC Computer - Stardew Valley - Mines_79: 1844602674811785259
+      PC Computer - Stardew Valley - Mines_8: 8969532984710518864
+      PC Computer - Stardew Valley - Mines_80: 5868913930409061912
+      PC Computer - Stardew Valley - Mines_81: 6248054546505481352
+      PC Computer - Stardew Valley - Mines_82: 2378621956883092363
+      PC Computer - Stardew Valley - Mines_83: 5891850258594946898
+      PC Computer - Stardew Valley - Mines_84: -8404033878768653250
+      PC Computer - Stardew Valley - Mines_85: -3366125023541434584
+      PC Computer - Stardew Valley - Mines_86: 773241096638789656
+      PC Computer - Stardew Valley - Mines_87: 3776878349559377379
+      PC Computer - Stardew Valley - Mines_88: 3249419263065841092
+      PC Computer - Stardew Valley - Mines_89: 7179867523580606309
+      PC Computer - Stardew Valley - Mines_9: 4014344662612984840
+      PC Computer - Stardew Valley - Mines_90: -4388379352302279093
+      PC Computer - Stardew Valley - Mines_91: 8415008918902377137
+      PC Computer - Stardew Valley - Mines_92: 5690722210106847248
+      PC Computer - Stardew Valley - Mines_93: -4486172985095484298
+      PC Computer - Stardew Valley - Mines_94: -1486469972188262744
+      PC Computer - Stardew Valley - Mines_95: -1794433482530044597
+      PC Computer - Stardew Valley - Mines_96: 2912639538496235569
+      PC Computer - Stardew Valley - Mines_97: 3292252935021166441
+      PC Computer - Stardew Valley - Mines_98: -2060854193996138431
+      PC Computer - Stardew Valley - Mines_99: -3938268991317023032
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -71,11 +71,28 @@ public class Frence : MonoBehaviour
                 }
                 if (left)
                 {
+                    if (topLeft)
+                    {
+                        fenceTilemap.SetTile(cellPos, fenceHorizontal);
+                        fenceTilemap.SetTile(cellPos + Vector3Int.left, fenceBottomLeft);
+                        if(fenceTilemap.GetTile(cellPos + Vector3Int.right) == fenceSingle)
+                            fenceTilemap.SetTile(cellPos + Vector3Int.right, fenceHorizontal);
+                        return;
+                    }
+                    if (bottomLeft)
+                    {
+                        fenceTilemap.SetTile(cellPos, fenceHorizontal);
+                        fenceTilemap.SetTile(cellPos + Vector3Int.left, fenceTopLeft);
+                        if (fenceTilemap.GetTile(cellPos + Vector3Int.right) == fenceSingle)
+                            fenceTilemap.SetTile(cellPos + Vector3Int.right, fenceHorizontal);
+                        return;
+                    }
                     fenceTilemap.SetTile(cellPos, fenceHorizontal);
                     fenceTilemap.SetTile(cellPos + Vector3Int.right, fenceHorizontal);
                     fenceTilemap.SetTile(cellPos + Vector3Int.left, fenceHorizontal);
                     return;
                 }
+                
                 fenceTilemap.SetTile(cellPos, fenceHorizontal);
                 fenceTilemap.SetTile(cellPos + Vector3Int.right, fenceHorizontal);
                 return;

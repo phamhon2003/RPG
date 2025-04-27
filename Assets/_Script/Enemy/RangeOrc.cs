@@ -28,6 +28,7 @@ public class RangeOrc : MonoBehaviour
         }
         if (Solderintrigger())
         {
+            enemy.enableWander = false;
             MoveCloserToSolder();
             Solder solder = _SolderInTrigger[0].GetComponent<Solder>();
             if (solder != null && solder.HP <= 0)
@@ -37,7 +38,8 @@ public class RangeOrc : MonoBehaviour
         }
         else
         {
-            StopMoving(); 
+            enemy.enableWander = true; 
+            //StopMoving(); 
         }
     }
     void StopMoving()
@@ -47,12 +49,25 @@ public class RangeOrc : MonoBehaviour
     }
     void MoveCloserToSolder()
     {
-        Vector3 direction, newPos;
         Vector3 targetPos = _SolderInTrigger[0].transform.position; 
         distance = Vector3.Distance(transform.position, targetPos);
-        direction = (targetPos - transform.position).normalized;
-        newPos = transform.position + direction * (distance - 1.5f);
-        enemy.MoveToPos(newPos);
+        if (distance > 1f)
+        {
+           
+            if (attackCoroutine != null)
+            {
+                StopCoroutine(attackCoroutine);
+                attackCoroutine = null;
+            }
+            enemy.MoveToPos(targetPos);
+        }
+        else
+        {
+            enemy.Enemyanimator.SetBool("isWalking", false);
+            enemy.isMoving = false;
+            if (attackCoroutine == null)
+                attackCoroutine = StartCoroutine(AttackEverySecond());
+        }
         
     }
     bool Solderintrigger()
@@ -67,31 +82,10 @@ public class RangeOrc : MonoBehaviour
             _SolderInTrigger.Add(collision);
         }
     }
-    private void OnTriggerStay2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Solder") || collision.CompareTag("Player"))
-        {
-            if (attackCoroutine == null )
-            {
-
-                attackCoroutine = StartCoroutine(AttackEverySecond());
-
-            }
-
-        }
-    }
     void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag("Solder") || other.CompareTag("Player"))
         {
-            if (Solderintrigger())
-            {
-                if (other == _SolderInTrigger[0])
-                {
-                    StopCoroutine(attackCoroutine);
-                    attackCoroutine = null;
-                }
-            }
             _SolderInTrigger.Remove(other);
         }
     }
@@ -99,20 +93,13 @@ public class RangeOrc : MonoBehaviour
     {      
         while (_SolderInTrigger.Count > 0)
         {
-
-            while (enemy.isMoving)
+            while (enemy.isMoving && attackCooldown<=0)
             {
                 yield return null;
             }
 
-            if (enemy.transform.position.x > _SolderInTrigger[0].transform.position.x)
-            {
-                enemy.transform.localScale = new Vector3(-Mathf.Abs(enemy.transform.localScale.x), enemy.transform.localScale.y, enemy.transform.localScale.z);
-            }
-            else if (enemy.transform.position.x < _SolderInTrigger[0].transform.position.x)
-            {
-                enemy.transform.localScale = new Vector3(Mathf.Abs(enemy.transform.localScale.x), enemy.transform.localScale.y, enemy.transform.localScale.z);
-            }     
+            enemy.flip(_SolderInTrigger[0].transform.position);
+            attackCooldown = 1f;
             enemy.Enemyanimator.SetTrigger("attack");
             yield return new WaitForSeconds(0.5f);
             _SolderInTrigger[0].GetComponent<action>().takedamage(_Damage);

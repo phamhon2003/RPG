@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: 75d7a74f21ad17745a1bdaec012caf5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6881651362750652101
+    second: PC Computer - Stardew Valley - Leah_0
+  - first:
+      213: 5252432094872298865
+    second: PC Computer - Stardew Valley - Leah_1
+  - first:
+      213: 6393906608198674883
+    second: PC Computer - Stardew Valley - Leah_2
+  - first:
+      213: -6465976670634465267
+    second: PC Computer - Stardew Valley - Leah_3
+  - first:
+      213: -6912814785884359292
+    second: PC Computer - Stardew Valley - Leah_4
+  - first:
+      213: -7246042036471516296
+    second: PC Computer - Stardew Valley - Leah_5
+  - first:
+      213: 3887661966243832529
+    second: PC Computer - Stardew Valley - Leah_6
+  - first:
+      213: -622511206509046873
+    second: PC Computer - Stardew Valley - Leah_7
+  - first:
+      213: -2967660745179442533
+    second: PC Computer - Stardew Valley - Leah_8
+  - first:
+      213: 6027169919023975056
+    second: PC Computer - Stardew Valley - Leah_9
+  - first:
+      213: 4590628592995723698
+    second: PC Computer - Stardew Valley - Leah_10
+  - first:
+      213: -298202848053756152
+    second: PC Computer - Stardew Valley - Leah_11
+  - first:
+      213: -7500169038686369256
+    second: PC Computer - Stardew Valley - Leah_12
+  - first:
+      213: -1779660718441325485
+    second: PC Computer - Stardew Valley - Leah_13
+  - first:
+      213: 7453554336204133597
+    second: PC Computer - Stardew Valley - Leah_14
+  - first:
+      213: -4152855951425591094
+    second: PC Computer - Stardew Valley - Leah_15
+  - first:
+      213: -5927299479249450205
+    second: PC Computer - Stardew Valley - Leah_16
+  - first:
+      213: -1120380514582741900
+    second: PC Computer - Stardew Valley - Leah_17
+  - first:
+      213: 8890061255793425303
+    second: PC Computer - Stardew Valley - Leah_18
+  - first:
+      213: 7763989333934636309
+    second: PC Computer - Stardew Valley - Leah_19
+  - first:
+      213: 5478609787600706637
+    second: PC Computer - Stardew Valley - Leah_20
+  - first:
+      213: -6689473054111936803
+    second: PC Computer - Stardew Valley - Leah_21
+  - first:
+      213: 8985847661473533190
+    second: PC Computer - Stardew Valley - Leah_22
+  - first:
+      213: 7768939990123189280
+    second: PC Computer - Stardew Valley - Leah_23
+  - first:
+      213: -3120804214088051274
+    second: PC Computer - Stardew Valley - Leah_24
+  - first:
+      213: -6126870356272788552
+    second: PC Computer - Stardew Valley - Leah_25
+  - first:
+      213: -8765027528571910320
+    second: PC Computer - Stardew Valley - Leah_26
+  - first:
+      213: -6671812172637774755
+    second: PC Computer - Stardew Valley - Leah_27
+  - first:
+      213: -2712947008686914840
+    second: PC Computer - Stardew Valley - Leah_28
+  - first:
+      213: 5858718670833013528
+    second: PC Computer - Stardew Valley - Leah_29
+  - first:
+      213: 2015233728088842497
+    second: PC Computer - Stardew Valley - Leah_30
+  - first:
+      213: -7975300708626742374
+    second: PC Computer - Stardew Valley - Leah_31
+  - first:
+      213: -5409241799426195864
+    second: PC Computer - Stardew Valley - Leah_32
+  - first:
+      213: 639684733264216192
+    second: PC Computer - Stardew Valley - Leah_33
+  - first:
+      213: 2044480048272770583
+    second: PC Computer - Stardew Valley - Leah_34
+  - first:
+      213: 3478367849400865171
+    second: PC Computer - Stardew Valley - Leah_35
+  - first:
+      213: -8853766498245934630
+    second: PC Computer - Stardew Valley - Leah_36
+  - first:
+      213: 2845452108478717302
+    second: PC Computer - Stardew Valley - Leah_37
+  - first:
+      213: 5821668505821029799
+    second: PC Computer - Stardew Valley - Leah_38
+  - first:
+      213: -6482088504115741904
+    second: PC Computer - Stardew Valley - Leah_39
+  - first:
+      213: -3109901046412250791
+    second: PC Computer - Stardew Valley - Leah_40
+  - first:
+      213: -8077248687459266958
+    second: PC Computer - Stardew Valley - Leah_41
+  - first:
+      213: 5609240535567574542
+    second: PC Computer - Stardew Valley - Leah_42
+  - first:
+      213: -2918192958054702250
+    second: PC Computer - Stardew Valley - Leah_43
+  - first:
+      213: -1042896232774965682
+    second: PC Computer - Stardew Valley - Leah_44
+  - first:
+      213: -2558266289821970661
+    second: PC Computer - Stardew Valley - Leah_45
+  - first:
+      213: -5689395513205527231
+    second: PC Computer - Stardew Valley - Leah_46
+  - first:
+      213: -8513458552643239372
+    second: PC Computer - Stardew Valley - Leah_47
+  - first:
+      213: -5951553377636810507
+    second: PC Computer - Stardew Valley - Leah_48
+  - first:
+      213: 3181667588620047986
+    second: PC Computer - Stardew Valley - Leah_49
+  - first:
+      213: -2637509860831786221
+    second: PC Computer - Stardew Valley - Leah_50
+  - first:
+      213: -3532617444467164558
+    second: PC Computer - Stardew Valley - Leah_51
+  - first:
+      213: -4055341918154914412
+    second: PC Computer - Stardew Valley - Leah_52
+  - first:
+      213: -5861746671711422073
+    second: PC Computer - Stardew Valley - Leah_53
+  - first:
+      213: 1295945027819472348
+    second: PC Computer - Stardew Valley - Leah_54
+  - first:
+      213: -7482995445359353207
+    second: PC Computer - Stardew Valley - Leah_55
+  - first:
+      213: 1010348722233095124
+    second: PC Computer - Stardew Valley - Leah_56
+  - first:
+      213: -8067069642716577793
+    second: PC Computer - Stardew Valley - Leah_57
+  - first:
+      213: -7929050492119968716
+    second: PC Computer - Stardew Valley - Leah_58
+  - first:
+      213: 2606320711261881542
+    second: PC Computer - Stardew Valley - Leah_59
+  - first:
+      213: -4494625369482958475
+    second: PC Computer - Stardew Valley - Leah_60
+  - first:
+      213: 8025306464170420318
+    second: PC Computer - Stardew Valley - Leah_61
+  - first:
+      213: -186567218479473469
+    second: PC Computer - Stardew Valley - Leah_62
+  - first:
+      213: -1204273350793448997
+    second: PC Computer - Stardew Valley - Leah_63
+  - first:
+      213: -6301774229376296167
+    second: PC Computer - Stardew Valley - Leah_64
+  - first:
+      213: -7852534413369310180
+    second: PC Computer - Stardew Valley - Leah_65
+  - first:
+      213: -1719861338499908762
+    second: PC Computer - Stardew Valley - Leah_66
+  - first:
+      213: 5026560626356863648
+    second: PC Computer - Stardew Valley - Leah_67
+  - first:
+      213: 4554961846062354423
+    second: PC Computer - Stardew Valley - Leah_68
+  - first:
+      213: 2553515955091088722
+    second: PC Computer - Stardew Valley - Leah_69
+  - first:
+      213: 4154112525377266851
+    second: PC Computer - Stardew Valley - Leah_70
+  - first:
+      213: 5867627089401959539
+    second: PC Computer - Stardew Valley - Leah_71
+  - first:
+      213: -5533756019416287387
+    second: PC Computer - Stardew Valley - Leah_72
+  - first:
+      213: -73293336046837124
+    second: PC Computer - Stardew Valley - Leah_73
+  - first:
+      213: -8611149853181600529
+    second: PC Computer - Stardew Valley - Leah_74
+  - first:
+      213: 8495681034308028645
+    second: PC Computer - Stardew Valley - Leah_75
+  - first:
+      213: 6447766171747936503
+    second: PC Computer - Stardew Valley - Leah_76
+  - first:
+      213: 2990294780532277784
+    second: PC Computer - Stardew Valley - Leah_77
+  - first:
+      213: 2446752487751583913
+    second: PC Computer - Stardew Valley - Leah_78
+  - first:
+      213: 7233919037817908128
+    second: PC Computer - Stardew Valley - Leah_79
+  - first:
+      213: 2574360467770515339
+    second: PC Computer - Stardew Valley - Leah_80
+  - first:
+      213: 5985413567160086403
+    second: PC Computer - Stardew Valley - Leah_81
+  - first:
+      213: 397516379629400476
+    second: PC Computer - Stardew Valley - Leah_82
+  - first:
+      213: -3079319582017824988
+    second: PC Computer - Stardew Valley - Leah_83
+  - first:
+      213: -7946301277070764293
+    second: PC Computer - Stardew Valley - Leah_84
+  - first:
+      213: -889592388149400352
+    second: PC Computer - Stardew Valley - Leah_85
+  - first:
+      213: -3914663373113297530
+    second: PC Computer - Stardew Valley - Leah_86
+  - first:
+      213: -6509607388565359331
+    second: PC Computer - Stardew Valley - Leah_87
+  - first:
+      213: -2855577442675556387
+    second: PC Computer - Stardew Valley - Leah_88
+  - first:
+      213: -7809145396446812821
+    second: PC Computer - Stardew Valley - Leah_89
+  - first:
+      213: 7569395674336598355
+    second: PC Computer - Stardew Valley - Leah_90
+  - first:
+      213: 6695796764020458513
+    second: PC Computer - Stardew Valley - Leah_91
+  - first:
+      213: 7103641432890119238
+    second: PC Computer - Stardew Valley - Leah_92
+  - first:
+      213: 7440988793042155787
+    second: PC Computer - Stardew Valley - Leah_93
+  - first:
+      213: 5741305828774483948
+    second: PC Computer - Stardew Valley - Leah_94
+  - first:
+      213: 8050917859936167562
+    second: PC Computer - Stardew Valley - Leah_95
+  - first:
+      213: 5674439868240456689
+    second: PC Computer - Stardew Valley - Leah_96
+  - first:
+      213: 1731983527540605655
+    second: PC Computer - Stardew Valley - Leah_97
+  - first:
+      213: 7831490037568034490
+    second: PC Computer - Stardew Valley - Leah_98
+  - first:
+      213: -8463908870662413995
+    second: PC Computer - Stardew Valley - Leah_99
+  - first:
+      213: -5280540562201168636
+    second: PC Computer - Stardew Valley - Leah_100
+  - first:
+      213: 6105721244284472879
+    second: PC Computer - Stardew Valley - Leah_101
+  - first:
+      213: 7200252709296532955
+    second: PC Computer - Stardew Valley - Leah_102
+  - first:
+      213: -7700831709051637597
+    second: PC Computer - Stardew Valley - Leah_103
+  - first:
+      213: 2881560368096358801
+    second: PC Computer - Stardew Valley - Leah_104
+  - first:
+      213: -987480668943437857
+    second: PC Computer - Stardew Valley - Leah_105
+  - first:
+      213: -7166681964071665599
+    second: PC Computer - Stardew Valley - Leah_106
+  - first:
+      213: 6365759116796439860
+    second: PC Computer - Stardew Valley - Leah_107
+  - first:
+      213: -1787283589777702274
+    second: PC Computer - Stardew Valley - Leah_108
+  - first:
+      213: -8230894165927806525
+    second: PC Computer - Stardew Valley - Leah_109
+  - first:
+      213: -2329998055358836224
+    second: PC Computer - Stardew Valley - Leah_110
+  - first:
+      213: -1810552035120439183
+    second: PC Computer - Stardew Valley - Leah_111
+  - first:
+      213: 8165584094484898177
+    second: PC Computer - Stardew Valley - Leah_112
+  - first:
+      213: -5916298201577572229
+    second: PC Computer - Stardew Valley - Leah_113
+  - first:
+      213: 3330147959141853599
+    second: PC Computer - Stardew Valley - Leah_114
+  - first:
+      213: -9031955871032629153
+    second: PC Computer - Stardew Valley - Leah_115
+  - first:
+      213: 2204974468572587926
+    second: PC Computer - Stardew Valley - Leah_116
+  - first:
+      213: -8166349489799311511
+    second: PC Computer - Stardew Valley - Leah_117
+  - first:
+      213: -2646779864339916781
+    second: PC Computer - Stardew Valley - Leah_118
+  - first:
+      213: -8907407038675331407
+    second: PC Computer - Stardew Valley - Leah_119
+  - first:
+      213: 1660273638073473701
+    second: PC Computer - Stardew Valley - Leah_120
+  - first:
+      213: 6283446897397491299
+    second: PC Computer - Stardew Valley - Leah_121
+  - first:
+      213: 451291554453753533
+    second: PC Computer - Stardew Valley - Leah_122
+  - first:
+      213: 7594913871504552431
+    second: PC Computer - Stardew Valley - Leah_123
+  - first:
+      213: -5161892866824430414
+    second: PC Computer - Stardew Valley - Leah_124
+  - first:
+      213: -9178514053431205138
+    second: PC Computer - Stardew Valley - Leah_125
+  - first:
+      213: 5022045464417523024
+    second: PC Computer - Stardew Valley - Leah_126
+  - first:
+      213: -2268220240778821880
+    second: PC Computer - Stardew Valley - Leah_127
+  - first:
+      213: -6973888513505071783
+    second: PC Computer - Stardew Valley - Leah_128
+  - first:
+      213: 1192773975731766886
+    second: PC Computer - Stardew Valley - Leah_129
+  - first:
+      213: 238844137446173598
+    second: PC Computer - Stardew Valley - Leah_130
+  - first:
+      213: 5344819822471982758
+    second: PC Computer - Stardew Valley - Leah_131
+  - first:
+      213: -83148227585722919
+    second: PC Computer - Stardew Valley - Leah_132
+  - first:
+      213: -189688761811904419
+    second: PC Computer - Stardew Valley - Leah_133
+  - first:
+      213: -2016241242885157316
+    second: PC Computer - Stardew Valley - Leah_134
+  - first:
+      213: 3522655240977547805
+    second: PC Computer - Stardew Valley - Leah_135
+  - first:
+      213: -1663396856295826983
+    second: PC Computer - Stardew Valley - Leah_136
+  - first:
+      213: -6009791244333224879
+    second: PC Computer - Stardew Valley - Leah_137
+  - first:
+      213: 6797026663131022729
+    second: PC Computer - Stardew Valley - Leah_138
+  - first:
+      213: 9044531523131710271
+    second: PC Computer - Stardew Valley - Leah_139
+  - first:
+      213: -4057930315866067026
+    second: PC Computer - Stardew Valley - Leah_140
+  - first:
+      213: 7180876368715602872
+    second: PC Computer - Stardew Valley - Leah_141
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Leah_0
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 253
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de76d70ac96123408772c97322023d9
+      internalID: -129732112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 966ba9778669c9541bea4d058516532a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Stardew Valley - Leah_0: -129732112
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

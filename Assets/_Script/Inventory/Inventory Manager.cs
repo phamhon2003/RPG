@@ -13,7 +13,7 @@ public class InventoryManager : MonoBehaviour
     public GameObject inventoryItemprefab;
     public int selectdslot = -1;
     public List<Item> Listitem, ListTest;
-    public CraftingRecipe CraftingRecipe;
+   // public CraftingRecipe CraftingRecipe;
     public Item ItemSelection;
     [SerializeField] Item itemadd;
 
@@ -25,6 +25,7 @@ public class InventoryManager : MonoBehaviour
     private void Start()
     {
         changeselectedSlot(0);
+        LoadInventory();
     }
     private void Update()
     {
@@ -58,6 +59,7 @@ public class InventoryManager : MonoBehaviour
     }
     public void addItem(Item item, int count = 1)
     {
+        QuestManager.Instance.OnItemCollected(item);
         for (int i = 0; i < InventorySlots.Length; i++)
         {
             InventorySlot slot = InventorySlots[i];

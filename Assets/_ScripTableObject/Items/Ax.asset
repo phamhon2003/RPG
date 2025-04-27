@@ -12,9 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9432dd199f22eb488c6b5da3f9995f2, type: 3}
   m_Name: Ax
   m_EditorClassIdentifier: 
-  count: 1
   Name: Ax
-  Tile: {fileID: 0}
   image: {fileID: -436218166004614734, guid: 99967a3ee1057824187826fe17c084ed, type: 3}
-  type: 0
-  stackable: 0
+  stackable: 1

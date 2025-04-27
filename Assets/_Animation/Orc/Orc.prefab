@@ -107,6 +107,10 @@ MonoBehaviour:
   Enemyanimator: {fileID: 0}
   MoveSpeed: 2.5
   isMoving: 0
+  enableWander: 1
+  wanderMoveDuration: 2
+  wanderWaitDuration: 4.08
+  isWandering: 0
 --- !u!70 &4090007041621579742
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

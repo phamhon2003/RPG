@@ -4,6 +4,7 @@ public class Gamemanager : MonoBehaviour
 {
     public static Gamemanager instance;
     public WeaponController weaponController;
+    
     private void Awake()
     {
         instance = this;
@@ -11,7 +12,5 @@ public class Gamemanager : MonoBehaviour
     void Start()
     {
 
-    }
-
-    
+    }  
 }

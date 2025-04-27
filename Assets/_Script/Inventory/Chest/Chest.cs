@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using static InventoryManager;
@@ -9,7 +10,7 @@ public class Chest : MonoBehaviour
     public float interactionDistance = 2f;
     public InventorySlot[] chestSlots;
     public Transform playerTransform;
-    private bool isPlayerInRange,isopenchest=false;
+    public bool  PlayerDetectedchest=false,isopenchest=false;
     public GameObject inventoryItemPrefab;
     void Start()
     {
@@ -20,41 +21,47 @@ public class Chest : MonoBehaviour
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.I)) SaveChest();
-        float distance = Vector2.Distance(transform.position, playerTransform.position);
-
-        if (distance <= interactionDistance)
-        {
-            if (!isPlayerInRange && !isopenchest)
+        
+        if(PlayerDetectedchest)
+            if (!isopenchest)
             {
-                isPlayerInRange = true;
-                UIManager.Instance.ShowOpenButton(this);
+
+                if (Input.GetKeyDown(KeyCode.F)) OpenChest();
+                UIManager.Instance.ShowOpenButton(this, transform.position);
             }
-            UIManager.Instance.UpdateButtonPosition(transform.position);
-            if (isopenchest)
+            else if (isopenchest)
             {
                 UIManager.Instance.HideOpenButton();
             }
-        }
-        else if (isPlayerInRange|| isopenchest)
+           
+        
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
         {
-            isPlayerInRange = false;
-            UIManager.Instance.HideOpenButton();
+            PlayerDetectedchest = true;            
         }
+    }
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        UIManager.Instance.HideOpenButton();
+        PlayerDetectedchest = false;
     }
 
     public void OpenChest()
     {
-        if (!isPlayerInRange) return;
+        if (isopenchest) return;
         isopenchest = true;
         Debug.Log("mo ruong:");
         UIManager.Instance.ShowChestUI(); 
         LoadChest();
     }
-    public void ExitChest()
-    {   
-        isopenchest=false;
-        UIManager.Instance.HideChestUI();
-    }
+    //public void ExitChest()
+    //{   
+    //    isopenchest=false;
+    //    UIManager.Instance.HideChestUI();
+    //}
     public bool AddItem(Item item, int count = 1)
     {
         for (int i = 0; i < chestSlots.Length; i++)
@@ -133,13 +140,18 @@ public class Chest : MonoBehaviour
 
     public void LoadChest()
     {
+        StartCoroutine(DelayedLoadChest());
+        
+    }
+    private IEnumerator DelayedLoadChest()
+    {
         string saveKey = "ChestData_" + gameObject.name;
         string json = PlayerPrefs.GetString(saveKey, "");
 
         if (string.IsNullOrEmpty(json))
         {
             Debug.Log($"[LOAD] Không có dữ liệu để tải cho rương '{gameObject.name}'.");
-            return;
+            yield break;
         }
 
         ChestSaveWrapper wrapper = JsonUtility.FromJson<ChestSaveWrapper>(json);
@@ -149,9 +161,12 @@ public class Chest : MonoBehaviour
         {
             foreach (Transform child in slot.transform)
             {
-                DestroyImmediate(child.gameObject);
+                Destroy(child.gameObject); 
             }
         }
+
+        // Chờ 1 frame để đảm bảo object đã bị huỷ hoàn toàn
+        yield return null;
 
         // Load item vào rương
         foreach (var data in wrapper.items)

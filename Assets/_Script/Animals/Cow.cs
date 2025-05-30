@@ -6,6 +6,8 @@ using UnityEngine;
 
 public class Cow : MonoBehaviour
 {
+    public string CowID;
+    public float Grown =0.5f;
     public enum CowGender { Male, Female }
     public CowGender gender;
     public float moveSpeed = 2f;
@@ -32,6 +34,8 @@ public class Cow : MonoBehaviour
     protected Coroutine moveAndEatCoroutine, Sleepcoroutine, MoveRandom;
     [SerializeField] protected GameObject _babyCowPrefab;
     protected Grass targetGrass;
+
+    PlacedObjectData data;
     protected virtual void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -39,8 +43,12 @@ public class Cow : MonoBehaviour
         MoveRandom=StartCoroutine(MoveRandomly());
     }
     protected virtual void Update()
-    {   if(hunger>=0) hunger -= hungerDecreaseRate * Time.deltaTime; 
-
+    {   if(hunger>=0) hunger -= hungerDecreaseRate * Time.deltaTime;
+        if (Grown <= 1&& hunger > 10)
+        {
+            Grown = Grown + 0.001f * Time.deltaTime;
+            transform.localScale = Vector3.one * Grown;
+        }
         if (hunger < 10f )
         {
             FindClosestGrass();
@@ -50,7 +58,6 @@ public class Cow : MonoBehaviour
             if (moveAndEatCoroutine == null)
                 moveAndEatCoroutine = StartCoroutine(MoveAndEatRoutine());
         }
-
     }
     protected IEnumerator MoveRandomly()
     {
@@ -189,7 +196,8 @@ public class Cow : MonoBehaviour
 
     protected IEnumerator MoveAndEatRoutine()
     {
-        if (targetGrass == null) yield break; 
+        if (targetGrass == null) yield break;
+        if (!targetGrass.isActiveAndEnabled) yield break;
         if (MoveRandom != null)
         {
             StopCoroutine(MoveRandom);
@@ -248,6 +256,42 @@ public class Cow : MonoBehaviour
             yield return null;
         }
         
+    }
+    void OnDisable()
+    {
+        save();
+    }
+    void OnApplicationQuit()
+    {
+        save();
+    }
+    void save()
+    {
+        foreach (PlacedObjectData objdata in SaveManager.Instance.placedObjects)
+        {
+            if (objdata.uniqueID == CowID)
+            {
+                data = objdata;
+            }
+        }
+        if (data == null)
+        {
+            data = new PlacedObjectData
+            {
+                prefabName = gameObject.name,
+                position = transform.position,
+                uniqueID = System.Guid.NewGuid().ToString(),
+                grown = Grown
+            };
+            SaveManager.Instance.placedObjects.Add(data);
+
+        }
+        else
+        {
+            data.grown = Grown;
+            SaveManager.Instance.UpdateSeedData(data);
+        }
+        SaveManager.Instance.SaveDataInstatiate();
     }
 }
 

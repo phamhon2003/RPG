@@ -101,6 +101,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63f7b8558c3b19b47a3fb86cc44c2cb5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _Grass: {fileID: 11400000, guid: de977bb75c5181f4687acf286304d467, type: 2}
+  _IsPlayerPlaced: 0
   maxWiggleAngle: 10
   wiggleSpeed: 30
   wiggleDuration: 0.3
@@ -139,7 +141,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.06778702, y: 0.5517234}
+  m_Offset: {x: -0.06778702, y: 0.55169845}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
@@ -149,5 +151,5 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.4582469, y: 0.6239691}
+  m_Size: {x: 0.4582469, y: 0.6240191}
   m_EdgeRadius: 0

@@ -1,9 +1,5 @@
-﻿using JetBrains.Annotations;
-using System.Collections.Generic;
-using Unity.VisualScripting;
-using UnityEditorInternal.VersionControl;
+﻿using System.Collections.Generic;
 using UnityEngine;
-using static UnityEditor.Progress;
 
 public class InventoryManager : MonoBehaviour
 {
@@ -30,8 +26,6 @@ public class InventoryManager : MonoBehaviour
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.P)) addItem(itemadd, 10);
-        if (Input.GetKeyDown(KeyCode.K)) SaveInventory();
-        if (Input.GetKeyDown(KeyCode.L)) LoadInventory();
         if (Input.inputString != null)
         {
             bool inumber = int.TryParse(Input.inputString, out int number);
@@ -57,7 +51,7 @@ public class InventoryManager : MonoBehaviour
         InventorySlots[newvalue].Select();
         selectdslot = newvalue;
     }
-    public void addItem(Item item, int count = 1)
+    public void addItem(Item item, int count = 1,bool AddfromData = false)
     {
         QuestManager.Instance.OnItemCollected(item);
         for (int i = 0; i < InventorySlots.Length; i++)
@@ -70,19 +64,19 @@ public class InventoryManager : MonoBehaviour
                 itemItem.itemInstance.count < countMaxstack &&
                 itemItem.itemInstance.IsStackable())
             {
-                //addcountitem(item);
                 itemItem.itemInstance.count += count;
                 itemItem.refreshcount();
+                if(!AddfromData) Gamemanager.instance.NotificationAdd(item);
                 return;
             }
             if (itemItem == null)
             {
                 SpawnNewItem(item, slot, count);
-                //Listitem.Add(item);
-                //addcountitem(item);
+                if (!AddfromData) Gamemanager.instance.NotificationAdd(item);
                 return;
             }
         }
+        
     }
 
     public void RemoveItem(Item item, int count = 1)
@@ -170,6 +164,7 @@ public class InventoryManager : MonoBehaviour
 
         foreach (var slot in InventorySlots)
         {
+            if (slot == null) continue;
             InventoryItem item = slot.GetComponentInChildren<InventoryItem>();
             if (item != null)
             {
@@ -186,29 +181,34 @@ public class InventoryManager : MonoBehaviour
     public void LoadInventory()
     {
         string json = PlayerPrefs.GetString("InventoryData", "");
-        Debug.Log("Trying to load inventory: " + json);
         if (string.IsNullOrEmpty(json)) return;
-        Debug.Log("load");
         SaveWrapper wrapper = JsonUtility.FromJson<SaveWrapper>(json);
 
         foreach (var slot in InventorySlots)
-        {
+        {   
             foreach (Transform child in slot.transform)
             {
                 Destroy(child.gameObject);
             }
         }
-        Debug.Log("load");
         foreach (var data in wrapper.items)
         {
             Item item = ListTest.Find(i => i.name == data.itemName);
             if (item != null)
-            {
-                addItem(item, data.count);
+            {   if (!item.stackable) data.count = 1;
+                addItem(item, data.count,true);
             }
         }
     }
+    private void OnDisable()
+    {
+        SaveInventory();
+    }
 
+    private void OnApplicationQuit()
+    {
+        SaveInventory();
+    }
     [System.Serializable]
     class SaveWrapper
     {

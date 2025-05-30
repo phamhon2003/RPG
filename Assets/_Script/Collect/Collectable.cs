@@ -1,17 +1,28 @@
+using DG.Tweening.Core.Easing;
 using UnityEngine;
 
 public class Collectable : MonoBehaviour
 {
     public Item item;
     private bool isPlayerInRange = false;
+    public string id => transform.position.ToString();
+    private void Start()
+    {
+        if (SaveManager.Instance != null && SaveManager.Instance.IsCollected(id))
+        {   
+            gameObject.SetActive(false);
+        }
+    }
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.F) && isPlayerInRange)
         {
             Debug.Log("F");
+            AudioManager.Instance.PlaySFX(AudioManager.Instance._Claim);
             UIManager.Instance.TextCollectUI.SetActive(false);
             InventoryManager.instance.addItem(item);
-            Destroy(gameObject);
+            gameObject.SetActive(false);
+            SaveManager.Instance.RegisterCollected(id);
         }
     }
     private void OnTriggerStay2D(Collider2D collision)

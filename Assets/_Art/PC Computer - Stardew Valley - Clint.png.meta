@@ -1,0 +1,2275 @@
+fileFormatVersion: 2
+guid: 8cd34c965eecd1c46b3f18939c5e87b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6821377391778187049
+    second: PC Computer - Stardew Valley - Clint_0
+  - first:
+      213: 260817797671335215
+    second: PC Computer - Stardew Valley - Clint_1
+  - first:
+      213: -2933604602983440801
+    second: PC Computer - Stardew Valley - Clint_2
+  - first:
+      213: -8309479000716753510
+    second: PC Computer - Stardew Valley - Clint_3
+  - first:
+      213: -3744328405112659689
+    second: PC Computer - Stardew Valley - Clint_4
+  - first:
+      213: 6713806760873065659
+    second: PC Computer - Stardew Valley - Clint_5
+  - first:
+      213: -725493332761417367
+    second: PC Computer - Stardew Valley - Clint_6
+  - first:
+      213: 6516325003250702631
+    second: PC Computer - Stardew Valley - Clint_7
+  - first:
+      213: -7000794862100909882
+    second: PC Computer - Stardew Valley - Clint_8
+  - first:
+      213: -6825612326749249936
+    second: PC Computer - Stardew Valley - Clint_9
+  - first:
+      213: 3345687061202651277
+    second: PC Computer - Stardew Valley - Clint_10
+  - first:
+      213: -5605184403648131423
+    second: PC Computer - Stardew Valley - Clint_11
+  - first:
+      213: -4810327573894093000
+    second: PC Computer - Stardew Valley - Clint_12
+  - first:
+      213: -8294639791182654989
+    second: PC Computer - Stardew Valley - Clint_13
+  - first:
+      213: -5859349360597911130
+    second: PC Computer - Stardew Valley - Clint_14
+  - first:
+      213: -3590288197197760567
+    second: PC Computer - Stardew Valley - Clint_15
+  - first:
+      213: 2196426565194316562
+    second: PC Computer - Stardew Valley - Clint_16
+  - first:
+      213: 2601749516627966183
+    second: PC Computer - Stardew Valley - Clint_17
+  - first:
+      213: 2788816269108926281
+    second: PC Computer - Stardew Valley - Clint_18
+  - first:
+      213: -2855935863179748176
+    second: PC Computer - Stardew Valley - Clint_19
+  - first:
+      213: -821685519466199940
+    second: PC Computer - Stardew Valley - Clint_20
+  - first:
+      213: -7640437233072371818
+    second: PC Computer - Stardew Valley - Clint_21
+  - first:
+      213: -4411913340318862717
+    second: PC Computer - Stardew Valley - Clint_22
+  - first:
+      213: -2562043606872687668
+    second: PC Computer - Stardew Valley - Clint_23
+  - first:
+      213: 2900760307667244374
+    second: PC Computer - Stardew Valley - Clint_24
+  - first:
+      213: 2226375408100114080
+    second: PC Computer - Stardew Valley - Clint_25
+  - first:
+      213: 7118773761836206803
+    second: PC Computer - Stardew Valley - Clint_26
+  - first:
+      213: -2666907243986434202
+    second: PC Computer - Stardew Valley - Clint_27
+  - first:
+      213: 1806560793892576266
+    second: PC Computer - Stardew Valley - Clint_28
+  - first:
+      213: -8287585729826523029
+    second: PC Computer - Stardew Valley - Clint_29
+  - first:
+      213: -4307763970683807779
+    second: PC Computer - Stardew Valley - Clint_30
+  - first:
+      213: -740795100191919002
+    second: PC Computer - Stardew Valley - Clint_31
+  - first:
+      213: -4284541665442248913
+    second: PC Computer - Stardew Valley - Clint_32
+  - first:
+      213: -4756931580058323872
+    second: PC Computer - Stardew Valley - Clint_33
+  - first:
+      213: 7679298885055027061
+    second: PC Computer - Stardew Valley - Clint_34
+  - first:
+      213: -6397268726658173477
+    second: PC Computer - Stardew Valley - Clint_35
+  - first:
+      213: -6485127469776753897
+    second: PC Computer - Stardew Valley - Clint_36
+  - first:
+      213: 6366333387528454632
+    second: PC Computer - Stardew Valley - Clint_37
+  - first:
+      213: -6974963009206434620
+    second: PC Computer - Stardew Valley - Clint_38
+  - first:
+      213: 7714308075308819070
+    second: PC Computer - Stardew Valley - Clint_39
+  - first:
+      213: -6470414919697363495
+    second: PC Computer - Stardew Valley - Clint_40
+  - first:
+      213: -55267883499957762
+    second: PC Computer - Stardew Valley - Clint_41
+  - first:
+      213: 972681627096538347
+    second: PC Computer - Stardew Valley - Clint_42
+  - first:
+      213: -5033352102484031803
+    second: PC Computer - Stardew Valley - Clint_43
+  - first:
+      213: 8263149323898756661
+    second: PC Computer - Stardew Valley - Clint_44
+  - first:
+      213: -3959207754501749399
+    second: PC Computer - Stardew Valley - Clint_45
+  - first:
+      213: 1833460537888982910
+    second: PC Computer - Stardew Valley - Clint_46
+  - first:
+      213: -6390337411309648482
+    second: PC Computer - Stardew Valley - Clint_47
+  - first:
+      213: 6557422185915165439
+    second: PC Computer - Stardew Valley - Clint_48
+  - first:
+      213: 5103965910705074417
+    second: PC Computer - Stardew Valley - Clint_49
+  - first:
+      213: 1169208586358244935
+    second: PC Computer - Stardew Valley - Clint_50
+  - first:
+      213: -5081078103651404347
+    second: PC Computer - Stardew Valley - Clint_51
+  - first:
+      213: 5609929297556543200
+    second: PC Computer - Stardew Valley - Clint_52
+  - first:
+      213: 4385070178226281256
+    second: PC Computer - Stardew Valley - Clint_53
+  - first:
+      213: -1974589673468490591
+    second: PC Computer - Stardew Valley - Clint_54
+  - first:
+      213: 4262982824734985469
+    second: PC Computer - Stardew Valley - Clint_55
+  - first:
+      213: 6078143891639561620
+    second: PC Computer - Stardew Valley - Clint_56
+  - first:
+      213: 1578317379473280365
+    second: PC Computer - Stardew Valley - Clint_57
+  - first:
+      213: 8759046033151630681
+    second: PC Computer - Stardew Valley - Clint_58
+  - first:
+      213: -4272556449407941795
+    second: PC Computer - Stardew Valley - Clint_59
+  - first:
+      213: 4075177776300815422
+    second: PC Computer - Stardew Valley - Clint_60
+  - first:
+      213: 3583571018043417952
+    second: PC Computer - Stardew Valley - Clint_61
+  - first:
+      213: -4341125037786628548
+    second: PC Computer - Stardew Valley - Clint_62
+  - first:
+      213: -6335984198630178525
+    second: PC Computer - Stardew Valley - Clint_63
+  - first:
+      213: -78530676764381462
+    second: PC Computer - Stardew Valley - Clint_64
+  - first:
+      213: -6405245687905144028
+    second: PC Computer - Stardew Valley - Clint_65
+  - first:
+      213: -8622612906501544825
+    second: PC Computer - Stardew Valley - Clint_66
+  - first:
+      213: 7562180308518009165
+    second: PC Computer - Stardew Valley - Clint_67
+  - first:
+      213: 1034643608802046502
+    second: PC Computer - Stardew Valley - Clint_68
+  - first:
+      213: -6130133163359829683
+    second: PC Computer - Stardew Valley - Clint_69
+  - first:
+      213: -4617331973088367478
+    second: PC Computer - Stardew Valley - Clint_70
+  - first:
+      213: -4410328129665915151
+    second: PC Computer - Stardew Valley - Clint_71
+  - first:
+      213: -295077147252372525
+    second: PC Computer - Stardew Valley - Clint_72
+  - first:
+      213: 6353309645362151029
+    second: PC Computer - Stardew Valley - Clint_73
+  - first:
+      213: 6868773758541675760
+    second: PC Computer - Stardew Valley - Clint_74
+  - first:
+      213: 8234073203560594429
+    second: PC Computer - Stardew Valley - Clint_75
+  - first:
+      213: 1144681996988735508
+    second: PC Computer - Stardew Valley - Clint_76
+  - first:
+      213: 2961099413701891819
+    second: PC Computer - Stardew Valley - Clint_77
+  - first:
+      213: 5844926843762031488
+    second: PC Computer - Stardew Valley - Clint_78
+  - first:
+      213: 1354447281256624311
+    second: PC Computer - Stardew Valley - Clint_79
+  - first:
+      213: 1473781587477432669
+    second: PC Computer - Stardew Valley - Clint_80
+  - first:
+      213: 3651344345234138894
+    second: PC Computer - Stardew Valley - Clint_81
+  - first:
+      213: 3334457181375329847
+    second: PC Computer - Stardew Valley - Clint_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d83e2447699551a0800000000000000
+      internalID: -6821377391778187049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 319
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25bc45b76c9e9300800000000000000
+      internalID: 260817797671335215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 319
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e98bf082eb947d0800000000000000
+      internalID: -2933604602983440801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 319
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95c5b5dfdcceac80800000000000000
+      internalID: -8309479000716753510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 319
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711ead26729790cc0800000000000000
+      internalID: -3744328405112659689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 319
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc74708dab3c2d50800000000000000
+      internalID: 6713806760873065659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 319
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96967dd58a78ee5f0800000000000000
+      internalID: -725493332761417367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 319
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72911c3c013ae6a50800000000000000
+      internalID: 6516325003250702631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0781b2a2e28de90800000000000000
+      internalID: -7000794862100909882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 287
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e5591a0cd8641a0800000000000000
+      internalID: -6825612326749249936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 287
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88ca9ce7a44e6e20800000000000000
+      internalID: 3345687061202651277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 287
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae4eff7b726632b0800000000000000
+      internalID: -5605184403648131423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 287
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837a6c8ce884e3db0800000000000000
+      internalID: -4810327573894093000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 287
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1dcba8e0583ec80800000000000000
+      internalID: -8294639791182654989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 287
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a936aafcc86faea0800000000000000
+      internalID: -5859349360597911130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 287
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7ffb428ebbc2ec0800000000000000
+      internalID: -3590288197197760567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b73a9e2564b7e10800000000000000
+      internalID: 2196426565194316562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 255
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8772596654b1420800000000000000
+      internalID: 2601749516627966183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 255
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9475118fe9dd3b620800000000000000
+      internalID: 2788816269108926281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 255
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc5fddb67dad58d0800000000000000
+      internalID: -2855935863179748176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 255
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74822f9f59c894f0800000000000000
+      internalID: -821685519466199940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 255
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6978d0a31d6b7f590800000000000000
+      internalID: -7640437233072371818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 255
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382bc7a313cb5c2c0800000000000000
+      internalID: -4411913340318862717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 255
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbfa41f9eac17cd0800000000000000
+      internalID: -2562043606872687668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6551f058122914820800000000000000
+      internalID: 2900760307667244374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 223
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aef87843aca5ee10800000000000000
+      internalID: 2226375408100114080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da4e9ef407fac260800000000000000
+      internalID: 7118773761836206803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667c541ddfd3dfad0800000000000000
+      internalID: -2666907243986434202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 130
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c5d117871321910800000000000000
+      internalID: 1806560793892576266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 223
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68f71030b49cfc80800000000000000
+      internalID: -8287585729826523029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 223
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd75a2ffd7fb734c0800000000000000
+      internalID: -4307763970683807779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 223
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664f5b108ca28b5f0800000000000000
+      internalID: -740795100191919002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 223
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2744f54e004a84c0800000000000000
+      internalID: -4284541665442248913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 191
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06439c56eebfbfdb0800000000000000
+      internalID: -4756931580058323872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 191
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57712c736a9529a60800000000000000
+      internalID: 7679298885055027061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5f2debcf55837a0800000000000000
+      internalID: -6397268726658173477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 191
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b24d80de23006a0800000000000000
+      internalID: -6485127469776753897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 191
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1c7555c72c95850800000000000000
+      internalID: 6366333387528454632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 191
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4c2ca1914f33f90800000000000000
+      internalID: -6974963009206434620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72a5b4825abe0b60800000000000000
+      internalID: 7714308075308819070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 159
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd0d0a89e77436a0800000000000000
+      internalID: -6470414919697363495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 130
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef15f7c1726ab3ff0800000000000000
+      internalID: -55267883499957762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec53ae49c8af7d00800000000000000
+      internalID: 972681627096538347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 159
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c649fd3ee0f52ab0800000000000000
+      internalID: -5033352102484031803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 127
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e9ef0b78a9ca270800000000000000
+      internalID: 8263149323898756661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 127
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96583f826811e09c0800000000000000
+      internalID: -3959207754501749399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 111
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77c19625a2c17910800000000000000
+      internalID: 1833460537888982910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 111
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95cffb5bf5f057a0800000000000000
+      internalID: -6390337411309648482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_48
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 130
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa2db14cb4a00b50800000000000000
+      internalID: 6557422185915165439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_49
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 111
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0774d24fde4d640800000000000000
+      internalID: 5103965910705074417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_50
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 111
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746483ab30dd93010800000000000000
+      internalID: 1169208586358244935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 63
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5b7dba2626c79b0800000000000000
+      internalID: -5081078103651404347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 63
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e61ae339f87add40800000000000000
+      internalID: 5609929297556543200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_53
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 95
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b16501816eadc30800000000000000
+      internalID: 4385070178226281256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_54
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 95
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac81cf5729d894e0800000000000000
+      internalID: -1974589673468490591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_55
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 95
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc8be7fa48292b30800000000000000
+      internalID: 4262982824734985469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_56
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 95
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49de2e28aa7e95450800000000000000
+      internalID: 6078143891639561620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_57
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 63
+        width: 129
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d845a5b4f47e510800000000000000
+      internalID: 1578317379473280365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d1c41b5f16e8970800000000000000
+      internalID: 8759046033151630681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 69
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d534c36db84d4b4c0800000000000000
+      internalID: -4272556449407941795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 63
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34f9f8a890fd8830800000000000000
+      internalID: 4075177776300815422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 69
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065ecd5bad66bb130800000000000000
+      internalID: 3583571018043417952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_62
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 63
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e7c2547c931c3c0800000000000000
+      internalID: -4341125037786628548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_63
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321092ad0ff0218a0800000000000000
+      internalID: -6335984198630178525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_64
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 63
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeec7bf3c009eef0800000000000000
+      internalID: -78530676764381462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_65
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 63
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423bf49bbfefb17a0800000000000000
+      internalID: -6405245687905144028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784e6400f33565880800000000000000
+      internalID: -8622612906501544825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_67
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d497ba8ace242f860800000000000000
+      internalID: 7562180308518009165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_68
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 130
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62236c361eacb5e00800000000000000
+      internalID: 1034643608802046502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d418814ed546deaa0800000000000000
+      internalID: -6130133163359829683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_70
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 31
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ca30eb801fbefb0800000000000000
+      internalID: -4617331973088367478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 130
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6a958deed5bc2c0800000000000000
+      internalID: -4410328129665915151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_72
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 31
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbcfa0e5eca7ebf0800000000000000
+      internalID: -295077147252372525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 31
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ebfdf067d7b2850800000000000000
+      internalID: 6353309645362151029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_74
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 31
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcb6605759c25f50800000000000000
+      internalID: 6868773758541675760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_75
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 31
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbbac0e3fd454270800000000000000
+      internalID: 8234073203560594429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_76
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 129
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4106c43263ab2ef00800000000000000
+      internalID: 1144681996988735508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_77
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6915a6a30f71920800000000000000
+      internalID: 2961099413701891819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_78
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bb4942ff95d1150800000000000000
+      internalID: 5844926843762031488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_79
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b07b4a40a6fbc210800000000000000
+      internalID: 1354447281256624311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_80
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d598a1e9b8ce37410800000000000000
+      internalID: 1473781587477432669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_81
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07ef4a165e2ca230800000000000000
+      internalID: 3651344345234138894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Clint_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73670a6c32f564e20800000000000000
+      internalID: 3334457181375329847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Stardew Valley - Clint_0: -6821377391778187049
+      PC Computer - Stardew Valley - Clint_1: 260817797671335215
+      PC Computer - Stardew Valley - Clint_10: 3345687061202651277
+      PC Computer - Stardew Valley - Clint_11: -5605184403648131423
+      PC Computer - Stardew Valley - Clint_12: -4810327573894093000
+      PC Computer - Stardew Valley - Clint_13: -8294639791182654989
+      PC Computer - Stardew Valley - Clint_14: -5859349360597911130
+      PC Computer - Stardew Valley - Clint_15: -3590288197197760567
+      PC Computer - Stardew Valley - Clint_16: 2196426565194316562
+      PC Computer - Stardew Valley - Clint_17: 2601749516627966183
+      PC Computer - Stardew Valley - Clint_18: 2788816269108926281
+      PC Computer - Stardew Valley - Clint_19: -2855935863179748176
+      PC Computer - Stardew Valley - Clint_2: -2933604602983440801
+      PC Computer - Stardew Valley - Clint_20: -821685519466199940
+      PC Computer - Stardew Valley - Clint_21: -7640437233072371818
+      PC Computer - Stardew Valley - Clint_22: -4411913340318862717
+      PC Computer - Stardew Valley - Clint_23: -2562043606872687668
+      PC Computer - Stardew Valley - Clint_24: 2900760307667244374
+      PC Computer - Stardew Valley - Clint_25: 2226375408100114080
+      PC Computer - Stardew Valley - Clint_26: 7118773761836206803
+      PC Computer - Stardew Valley - Clint_27: -2666907243986434202
+      PC Computer - Stardew Valley - Clint_28: 1806560793892576266
+      PC Computer - Stardew Valley - Clint_29: -8287585729826523029
+      PC Computer - Stardew Valley - Clint_3: -8309479000716753510
+      PC Computer - Stardew Valley - Clint_30: -4307763970683807779
+      PC Computer - Stardew Valley - Clint_31: -740795100191919002
+      PC Computer - Stardew Valley - Clint_32: -4284541665442248913
+      PC Computer - Stardew Valley - Clint_33: -4756931580058323872
+      PC Computer - Stardew Valley - Clint_34: 7679298885055027061
+      PC Computer - Stardew Valley - Clint_35: -6397268726658173477
+      PC Computer - Stardew Valley - Clint_36: -6485127469776753897
+      PC Computer - Stardew Valley - Clint_37: 6366333387528454632
+      PC Computer - Stardew Valley - Clint_38: -6974963009206434620
+      PC Computer - Stardew Valley - Clint_39: 7714308075308819070
+      PC Computer - Stardew Valley - Clint_4: -3744328405112659689
+      PC Computer - Stardew Valley - Clint_40: -6470414919697363495
+      PC Computer - Stardew Valley - Clint_41: -55267883499957762
+      PC Computer - Stardew Valley - Clint_42: 972681627096538347
+      PC Computer - Stardew Valley - Clint_43: -5033352102484031803
+      PC Computer - Stardew Valley - Clint_44: 8263149323898756661
+      PC Computer - Stardew Valley - Clint_45: -3959207754501749399
+      PC Computer - Stardew Valley - Clint_46: 1833460537888982910
+      PC Computer - Stardew Valley - Clint_47: -6390337411309648482
+      PC Computer - Stardew Valley - Clint_48: 6557422185915165439
+      PC Computer - Stardew Valley - Clint_49: 5103965910705074417
+      PC Computer - Stardew Valley - Clint_5: 6713806760873065659
+      PC Computer - Stardew Valley - Clint_50: 1169208586358244935
+      PC Computer - Stardew Valley - Clint_51: -5081078103651404347
+      PC Computer - Stardew Valley - Clint_52: 5609929297556543200
+      PC Computer - Stardew Valley - Clint_53: 4385070178226281256
+      PC Computer - Stardew Valley - Clint_54: -1974589673468490591
+      PC Computer - Stardew Valley - Clint_55: 4262982824734985469
+      PC Computer - Stardew Valley - Clint_56: 6078143891639561620
+      PC Computer - Stardew Valley - Clint_57: 1578317379473280365
+      PC Computer - Stardew Valley - Clint_58: 8759046033151630681
+      PC Computer - Stardew Valley - Clint_59: -4272556449407941795
+      PC Computer - Stardew Valley - Clint_6: -725493332761417367
+      PC Computer - Stardew Valley - Clint_60: 4075177776300815422
+      PC Computer - Stardew Valley - Clint_61: 3583571018043417952
+      PC Computer - Stardew Valley - Clint_62: -4341125037786628548
+      PC Computer - Stardew Valley - Clint_63: -6335984198630178525
+      PC Computer - Stardew Valley - Clint_64: -78530676764381462
+      PC Computer - Stardew Valley - Clint_65: -6405245687905144028
+      PC Computer - Stardew Valley - Clint_66: -8622612906501544825
+      PC Computer - Stardew Valley - Clint_67: 7562180308518009165
+      PC Computer - Stardew Valley - Clint_68: 1034643608802046502
+      PC Computer - Stardew Valley - Clint_69: -6130133163359829683
+      PC Computer - Stardew Valley - Clint_7: 6516325003250702631
+      PC Computer - Stardew Valley - Clint_70: -4617331973088367478
+      PC Computer - Stardew Valley - Clint_71: -4410328129665915151
+      PC Computer - Stardew Valley - Clint_72: -295077147252372525
+      PC Computer - Stardew Valley - Clint_73: 6353309645362151029
+      PC Computer - Stardew Valley - Clint_74: 6868773758541675760
+      PC Computer - Stardew Valley - Clint_75: 8234073203560594429
+      PC Computer - Stardew Valley - Clint_76: 1144681996988735508
+      PC Computer - Stardew Valley - Clint_77: 2961099413701891819
+      PC Computer - Stardew Valley - Clint_78: 5844926843762031488
+      PC Computer - Stardew Valley - Clint_79: 1354447281256624311
+      PC Computer - Stardew Valley - Clint_8: -7000794862100909882
+      PC Computer - Stardew Valley - Clint_80: 1473781587477432669
+      PC Computer - Stardew Valley - Clint_81: 3651344345234138894
+      PC Computer - Stardew Valley - Clint_82: 3334457181375329847
+      PC Computer - Stardew Valley - Clint_9: -6825612326749249936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,7 +1,5 @@
 using Unity.VisualScripting;
 using UnityEngine;
-using static UnityEditor.Progress;
-using static UnityEngine.Rendering.STP;
 
 public class Stone : MonoBehaviour, CanGethit
 {   

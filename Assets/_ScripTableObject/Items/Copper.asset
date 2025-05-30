@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: Copper
   m_EditorClassIdentifier: 
   Name: Copper
-  image: {fileID: -917000169626989346, guid: 1f7e31e5d25787c41b2de1649183ff51, type: 3}
+  image: {fileID: -5191636829510389982, guid: 1f7e31e5d25787c41b2de1649183ff51, type: 3}
   stackable: 1
+  IsFood: 0

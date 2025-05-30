@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9432dd199f22eb488c6b5da3f9995f2, type: 3}
   m_Name: Grass
   m_EditorClassIdentifier: 
-  Name: 
-  image: {fileID: 0}
+  Name: Grass
+  image: {fileID: -4385127030135008551, guid: a20acf035be7bc145b02ef8778844984, type: 3}
   stackable: 1
+  IsFood: 0

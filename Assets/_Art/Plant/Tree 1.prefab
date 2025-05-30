@@ -109,8 +109,7 @@ MonoBehaviour:
   shakeAngle: 5
   shakeDuration: 0.1
   fallDistance: 1
-  fallDuration: 0.5
-  chopEffect: {fileID: 0}
+  fallDuration: 1.7
   player: {fileID: 0}
 --- !u!61 &3834162703691033389
 BoxCollider2D:

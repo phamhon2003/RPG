@@ -1,11 +1,8 @@
 ﻿
 using System.Collections;
-using TMPro;
-using Unity.VisualScripting;
-using UnityEditor.Rendering.LookDev;
 using UnityEngine;
-using UnityEngine.Assertions.Must;
-using UnityEngine.Tilemaps;
+using UnityEngine.EventSystems;
+
 
 public class PlayerController : MonoBehaviour, action
 {
@@ -19,27 +16,32 @@ public class PlayerController : MonoBehaviour, action
     private Vector2 Movement;
     float SpeedX, SpeedY,_CooldownTimeAction=0 ;
     bool facingRight = true;
-    bool iswalks;
+    [SerializeField] bool iswalks;
     bool canmove = true,cooldowntimecandig=true;
-    bool stonedetection, treedetection, _Canfishing; 
+    private float stepDistance = 0.4f; 
+    private float lastStepTime = 0f;
+
+    [Header("RayCast")]
+    public bool stonedetection, treedetection, _Canfishing; 
     public bool _Isfishing, _Isreeling;
     RaycastHit2D hit;
     public LayerMask targetLayer; 
-    public GameObject khoai;
-    //public Transform aim;
+    public GameObject _Harvest;
+
     public WeaponController weaponController;
     private Coroutine moveCoroutine;
 
 
     void Start()
-    {   
+    {
+        if(LoadSceneStatic.PosPlayer != Vector3.zero) transform.position = LoadSceneStatic.PosPlayer;
         rb = GetComponent<Rigidbody2D>();
         MyAnimator = GetComponent<Animator>();
+        
     }
-   
-    
     private void Update()
     {
+        HandleHunger();
         if (_CooldownTimeAction > 0) _CooldownTimeAction -= Time.deltaTime;
         if (_CooldownTimeAction <= 0 && !_Isfishing)
         {
@@ -60,7 +62,7 @@ public class PlayerController : MonoBehaviour, action
             }
         }
         ShootRay();
-        InteractFarm();
+        if(TimapsManager.instance!=null) InteractFarm();
         if (Input.GetKeyDown(KeyCode.Space))
         {
             if (InventoryManager.instance.ItemSelection != null)
@@ -114,23 +116,49 @@ public class PlayerController : MonoBehaviour, action
                 {
                     case "fishing rod":
                         fishing();
-                        break;
+                        break;                
                     default:
                         break;
                 }
             }
                 
         }
+        if (Input.GetMouseButtonDown(1) && !_Isfishing)
+        {
+            if (InventoryManager.instance.ItemSelection != null)
+            {
+                switch (InventoryManager.instance.ItemSelection.Name)
+                {
+                    case "Cooked fish":
+                        _Food += 20f;
+                        _Food = Mathf.Min(_HP, 100f);
+                        break;
+                    case "Cooked beef":
+                        _Food += 50f;
+                        _Food = Mathf.Min(_HP, 100f);
+                        break;
+                    case "Cooked chicken":
+                        _Food += 50f;
+                        _Food = Mathf.Min(_HP, 100f);
+                        break;
+                    case "Bread":
+                        _Food += 50f;
+                        _Food = Mathf.Min(_HP, 100f);
+                        break;
+                    default:
+                        break;
+                }
+            }
+
+        }
     }
     private void FixedUpdate()
-    {   
-
+    {  
         if (UIManager.Instance.IsOpenIventoryItem) return;
         Debug.DrawRay(transform.position, transform.localScale.x > 0 ? Vector2.right * 2f : Vector2.left * 2f, Color.red);
         Move();
         
     }
-
     void Move()
     {
         if (canmove == true)
@@ -141,21 +169,15 @@ public class PlayerController : MonoBehaviour, action
             MyAnimator.SetFloat("SpeedY", SpeedY);
             Movement = new Vector2(SpeedX, SpeedY).normalized * MoveSpeed;
             rb.linearVelocity = Movement;
-            if (SpeedX > 0 && !facingRight)
-            {
-                flip();
-            }
-            if (SpeedX < 0 && facingRight)
-            {
-                flip();
-            }
+            if (SpeedX > 0 && !facingRight) flip();
+            if (SpeedX < 0 && facingRight)  flip();        
         }
-        if (SpeedX == 0 && SpeedY ==0)
+        if (SpeedX == 0 && SpeedY == 0)    iswalks = false;                  
+        else if (SpeedX !=0 || SpeedY !=0) iswalks = true;               
+        if (iswalks && Time.time - lastStepTime > stepDistance)
         {
-            iswalks = false;
-        }else if (SpeedX !=0 || SpeedY !=0)
-        {
-            iswalks = true;
+            AudioManager.Instance.PlaySFX(AudioManager.Instance._FoodStep);
+            lastStepTime = Time.time;
         }
         if (Movement != Vector2.zero && moveCoroutine != null)
         {
@@ -174,8 +196,8 @@ public class PlayerController : MonoBehaviour, action
         
     }
     void InteractFarm()
-    {
-        if (Input.GetMouseButtonDown(0)) {
+    {   if (_Harvest != null && _Harvest.activeSelf) return; 
+        if (Input.GetMouseButtonDown(0) && !EventSystem.current.IsPointerOverGameObject() ) {
             if (TimapsManager.instance.interactabbleMap == null) return;
             Vector3Int Pos = TimapsManager.instance.getpostile(Camera.main.ScreenToWorldPoint(Input.mousePosition));
             Vector3 PosSeed = TimapsManager.instance.GetCenterTile(Pos);
@@ -218,14 +240,21 @@ public class PlayerController : MonoBehaviour, action
         MyAnimator.SetTrigger("Dig");
         canmove = false;
         _CooldownTimeAction = 0.7f;
+        AudioManager.Instance.PlaySFX(AudioManager.Instance._Dig);
     }
-     void Axe()
+    public void Watering()
     {
-        MyAnimator.SetTrigger("Axe");
+        MyAnimator.SetTrigger("Watering");
+        canmove = false;
+        _CooldownTimeAction = 0.7f;
+        //AudioManager.Instance.PlaySFX(AudioManager.Instance._Dig);
+    }
+    void Axe()
+    {
+        MyAnimator.SetTrigger("Axe");       
         canmove = false;
         cooldowntimecandig = false;
         _CooldownTimeAction = 0.7f;
-
     }
     
     void flip()
@@ -268,7 +297,7 @@ public class PlayerController : MonoBehaviour, action
     }
     public void takedamage(float Damage)
     {
-        
+        _HP -= Damage;
     }
     void fishing()
     {
@@ -276,9 +305,15 @@ public class PlayerController : MonoBehaviour, action
         {
             canmove = false;
             _Isfishing = true;
-            MyAnimator.SetTrigger("Casting");
+            StartCoroutine(Casting());
             StartCoroutine(FishBiteRoutine());
         }
+    }
+    IEnumerator Casting()
+    {   
+        MyAnimator.SetTrigger("Casting");
+        yield return new WaitForSeconds(0.5f);
+        AudioManager.Instance.PlaySFX(AudioManager.Instance._Splash);
     }
     IEnumerator FishBiteRoutine()
     {
@@ -286,7 +321,27 @@ public class PlayerController : MonoBehaviour, action
         yield return new WaitForSeconds(waitTime);
         _Isreeling = true;
         MyAnimator.SetBool("Isreeling", _Isreeling);
+        AudioManager.Instance.PlayLoopingSFX(AudioManager.Instance._PullFish);
         UIManager.Instance.StartFishing();
+        
     }
-    
+    void HandleHunger()
+    {
+        if (_Food > 0)
+        {
+            _Food -= 0.2f * Time.deltaTime;
+            _Food = Mathf.Max(_Food, 0f); 
+        }
+
+        if (_Food <= 0 && _HP > 0)
+        {
+            _HP -= 0.5f * Time.deltaTime;
+            _HP = Mathf.Max(_HP, 0f);
+        }
+        if (_Food > 90f && _HP < 100f)
+        {
+            _HP += 0.2f * Time.deltaTime;
+            _HP = Mathf.Min(_HP, 100f); 
+        }
+    }
 }

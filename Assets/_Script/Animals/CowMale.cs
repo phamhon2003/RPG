@@ -18,7 +18,7 @@ public class CowMale : Cow
     {
         base.Update();
         if(isReadyToBreed) CheckForMate();
-        if(_female != null)
+        if(_female != null && Grown >=1 && _female.Grown>=1)
         {
             if (MoveToFemale == null)
                 MoveToFemale = StartCoroutine(MoveToFemaleAndBreed());

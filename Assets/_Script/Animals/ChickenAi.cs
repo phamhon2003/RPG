@@ -5,15 +5,15 @@ using UnityEngine.InputSystem.EnhancedTouch;
 
 public class ChickenAI : MonoBehaviour
 {
+    public string CowID;
+    public float Grown = 0.5f;
     public enum State { Idle, Eat, Rest, Walk }
     [SerializeField] private State currentState;
     private Animator animator;
     private Rigidbody2D rb;
     private float _eggCooldown = 600f;
-    private float _lastEggTime = -999f;
-    private float _hunger = 100f;
-    [SerializeField] private float _hungerDecreaseRate = 1f;
-
+    private float _lastEggTime = 0f;
+  
     public float walkSpeed = 1.5f;
     public float runSpeed = 3.5f;
     public float stateDuration = 5f;
@@ -21,6 +21,7 @@ public class ChickenAI : MonoBehaviour
     private bool isFacingRight = true;
     public float obstacleCheckDistance = 1.5f ;
     private Nest _Nest;
+    PlacedObjectData data;
     [SerializeField] private LayerMask obstacleLayer;
     private void Start()
     {
@@ -30,8 +31,12 @@ public class ChickenAI : MonoBehaviour
     }
     private void Update()
     {
-        if (_hunger >= 0) _hunger -= _hungerDecreaseRate * Time.deltaTime;
-        if (_hunger >= 50f && currentState == State.Rest) CheckNearNest();
+        if (Grown <= 1)
+        {
+            Grown = Grown + 0.002f * Time.deltaTime;
+            transform.localScale = Vector3.one * Grown;
+        }
+        if (currentState == State.Rest) CheckNearNest();
     }
     private IEnumerator StateMachine()
     {
@@ -65,16 +70,18 @@ public class ChickenAI : MonoBehaviour
                 case State.Rest:
                     
                     yield return new WaitForSeconds(1f);
-                    if (_Nest != null)
+                    if (_Nest != null && !_Nest.Ischicken)
                     {
+                        _Nest.Ischicken=true;
                         yield return StartCoroutine(MoveToPos(_Nest.transform.position));
                         animator.Play("Rest");
                         yield return new WaitForSeconds(stateDuration);
-                        if(Time.time - _lastEggTime >= _eggCooldown)
-                        {
+                        if(Time.time - _lastEggTime >= _eggCooldown && !_Nest.Haveegg&& Grown>=1)
+                        {   
                             _Nest.GetEgge();
                             _lastEggTime = Time.time;
                         }
+                        _Nest.Ischicken = false;
                     }                  
                     ChangeState(State.Idle);
                     break;
@@ -147,4 +154,40 @@ public class ChickenAI : MonoBehaviour
         }
         
     }
+    void OnDisable()
+    {
+        save();
+    }
+    void save()
+    {
+        foreach (PlacedObjectData objdata in SaveManager.Instance.placedObjects)
+        {
+            if (objdata.uniqueID == CowID)
+            {
+                data = objdata;
+            }
+        }
+        if (data == null)
+        {
+            data = new PlacedObjectData
+            {
+                prefabName = gameObject.name,
+                position = transform.position,
+                uniqueID = System.Guid.NewGuid().ToString(),
+                grown = Grown
+            };
+            SaveManager.Instance.placedObjects.Add(data);
+
+        }
+        else
+        {
+            data.grown = Grown;
+            SaveManager.Instance.UpdateSeedData(data);
+        }
+        SaveManager.Instance.SaveDataInstatiate();
+    }
+    void OnApplicationQuit()
+    {
+        save();
+    } 
 }

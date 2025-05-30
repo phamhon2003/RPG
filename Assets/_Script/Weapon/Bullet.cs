@@ -2,10 +2,10 @@
 
 public class Bullet : MonoBehaviour
 {
-    [SerializeField] float _speed, _dmg, _lifetime;
-    [SerializeField] Rigidbody2D _rb;
-    Vector2 _movement=Vector2.zero;
-    void Start()
+    [SerializeField] protected float _speed, _dmg, _lifetime;
+    [SerializeField] protected Rigidbody2D _rb;
+    protected Vector2 _movement=Vector2.zero;
+    protected virtual void Start()
     {
         if (_rb == null)
         {

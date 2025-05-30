@@ -26,7 +26,7 @@ public class Frence : MonoBehaviour
 
             if (fenceTilemap.GetTile(cellPos) != null) return;
 
-            // Kiểm tra 4 hướng cơ bản
+            AudioManager.Instance.PlaySFX(AudioManager.Instance._Put);
             bool left = fenceTilemap.GetTile(cellPos + Vector3Int.left) != null;
             bool right = fenceTilemap.GetTile(cellPos + Vector3Int.right) != null;
             bool top = fenceTilemap.GetTile(cellPos + Vector3Int.up) != null;

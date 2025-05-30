@@ -93,6 +93,8 @@ public class Fishing : MonoBehaviour
     void CatchSuccess()
     {
         InventoryManager.instance.addItem(Fish, 1);
+        AudioManager.Instance.StopLoopingSFX();
+        AudioManager.Instance.PlaySFX(AudioManager.Instance._Splash);
         Debug.Log("🎉 Bắt được cá!");
         UIManager.Instance.StopFishing();
     }
@@ -100,6 +102,8 @@ public class Fishing : MonoBehaviour
     void CatchFail()
     {
         Debug.Log("💥 Cá thoát mất!");
+        AudioManager.Instance.StopLoopingSFX();
+        AudioManager.Instance.PlaySFX(AudioManager.Instance._Splash);
         UIManager.Instance.StopFishing();
     }
 }

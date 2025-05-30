@@ -12,10 +12,20 @@ public class Chest : MonoBehaviour
     public Transform playerTransform;
     public bool  PlayerDetectedchest=false,isopenchest=false;
     public GameObject inventoryItemPrefab;
+    public string chestID;
+
+    private void Awake()
+    {
+        // Nếu chưa có ID, tạo mới
+        if (string.IsNullOrEmpty(chestID))
+        {
+            chestID = System.Guid.NewGuid().ToString();
+        }
+    }
     void Start()
     {
         playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
-           
+        chestSlots= UIManager.Instance.chestSlots;
     }
 
     void Update()
@@ -27,7 +37,7 @@ public class Chest : MonoBehaviour
             {
 
                 if (Input.GetKeyDown(KeyCode.F)) OpenChest();
-                UIManager.Instance.ShowOpenButton(this, transform.position);
+                UIManager.Instance.ShowOpenText(this, transform.position);
             }
             else if (isopenchest)
             {
@@ -52,6 +62,7 @@ public class Chest : MonoBehaviour
     public void OpenChest()
     {
         if (isopenchest) return;
+        AudioManager.Instance.PlaySFX(AudioManager.Instance._OpenChest);
         isopenchest = true;
         Debug.Log("mo ruong:");
         UIManager.Instance.ShowChestUI(); 
@@ -131,7 +142,7 @@ public class Chest : MonoBehaviour
         string json = JsonUtility.ToJson(wrapper, true);
 
         // Tạo key theo tên rương
-        string saveKey = "ChestData_" + gameObject.name;
+        string saveKey = "ChestData_" + chestID;
         PlayerPrefs.SetString(saveKey, json);
         PlayerPrefs.Save();
 
@@ -145,25 +156,29 @@ public class Chest : MonoBehaviour
     }
     private IEnumerator DelayedLoadChest()
     {
-        string saveKey = "ChestData_" + gameObject.name;
+        string saveKey = "ChestData_" + chestID;
         string json = PlayerPrefs.GetString(saveKey, "");
-
+        foreach (var slot in chestSlots)
+        {
+            if (slot == null)
+            {
+                continue;
+            }
+            foreach (Transform child in slot.transform)
+            {
+                Destroy(child.gameObject);
+            }
+        }
         if (string.IsNullOrEmpty(json))
         {
-            Debug.Log($"[LOAD] Không có dữ liệu để tải cho rương '{gameObject.name}'.");
+            Debug.Log($"[LOAD] Không có dữ liệu để tải cho rương '{chestID}'.");
             yield break;
         }
 
         ChestSaveWrapper wrapper = JsonUtility.FromJson<ChestSaveWrapper>(json);
 
         // Xóa item cũ trước khi load mới
-        foreach (var slot in chestSlots)
-        {
-            foreach (Transform child in slot.transform)
-            {
-                Destroy(child.gameObject); 
-            }
-        }
+       
 
         // Chờ 1 frame để đảm bảo object đã bị huỷ hoàn toàn
         yield return null;
@@ -182,7 +197,7 @@ public class Chest : MonoBehaviour
             }
         }
 
-        Debug.Log($"[LOAD] Đã tải lại dữ liệu rương '{gameObject.name}':\n{json}");
+        Debug.Log($"[LOAD] Đã tải lại dữ liệu rương '{chestID}':\n{json}");
     }
     [System.Serializable]
     public class ChestSaveWrapper

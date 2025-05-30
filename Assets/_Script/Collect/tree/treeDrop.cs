@@ -12,42 +12,34 @@ public class TreeDrop : MonoBehaviour,CanGethit
     public float shakeAngle = 5f;
     public float shakeDuration = 0.1f;
     public float fallDistance = 1f;
-    public float fallDuration = 0.5f;
-    public ParticleSystem chopEffect;
-    //public AudioClip chopSound;
-    //public AudioClip fallSound;
+    public float fallDuration = 3f;
     public Transform player;
 
     private int currentHits = 0;
     private bool isFalling = false, isShaking = false;
-    private AudioSource audioSource;
     private Collider2D col;
 
+    public string id => transform.position.ToString();
     void Start()
     {
-        audioSource = GetComponent<AudioSource>();
         col = GetComponent<Collider2D>();
+        if (SaveManager.Instance != null && SaveManager.Instance.IsCollected(id))
+        {   
+            GetComponentInParent<CapsuleCollider2D>().enabled = false;
+            gameObject.SetActive(false);
+        }
     }
 
     public void Gethit()
-    {
-        Debug.Log("gethit");
+    {        
         if (isFalling || player == null) return;
-
         currentHits++;
-
-        if (chopEffect != null)
-            Invoke("ChopEffect",0.5f);
-
-        //if (chopSound != null)
-        //    audioSource.PlayOneShot(chopSound);
-
+        Shake();
         if (currentHits >= maxHits)
         {         
             StartCoroutine(Fall());
             transform.parent.GetComponent<CapsuleCollider2D>().enabled = false;
         }
-        Shake();
     }
     public void Shake()
     {
@@ -56,15 +48,11 @@ public class TreeDrop : MonoBehaviour,CanGethit
 
         StartCoroutine(ShakeEffect());
     }
-    void ChopEffect()
-    {
-        chopEffect.transform.position = transform.position;
-        chopEffect.Play();
-    }
     IEnumerator ShakeEffect()
     {
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(0.4f);
         ChopDrop();
+        AudioManager.Instance.PlaySFX(AudioManager.Instance._Cutdowntrees);
         Quaternion originalRotation = transform.localRotation;
         float elapsed = 0f;
 
@@ -86,10 +74,7 @@ public class TreeDrop : MonoBehaviour,CanGethit
         isFalling = true;
         col.enabled = false;
         yield return new WaitForSeconds(0.5f);
-        //if (fallSound != null)
-        //    audioSource.PlayOneShot(fallSound);
-
-        // Tính góc đổ ngược lại hướng người chơi
+        AudioManager.Instance.PlaySFX(AudioManager.Instance._TreeFalling);
         float targetZ = (player.position.x < transform.position.x) ? -90f : 90f;
 
         Quaternion startRot = transform.rotation;
@@ -104,7 +89,8 @@ public class TreeDrop : MonoBehaviour,CanGethit
             yield return null;
         }
         DropWood();
-        Destroy(gameObject);
+        gameObject.SetActive(false);
+        SaveManager.Instance.RegisterCollected(id);
     }
 
     void DropWood()

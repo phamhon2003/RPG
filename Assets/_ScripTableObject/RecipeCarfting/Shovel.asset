@@ -15,9 +15,7 @@ MonoBehaviour:
   ingredients:
   - item: {fileID: 11400000, guid: 71034da127b56e840a89f580a7898983, type: 2}
     quantity: 2
-  - item: {fileID: 11400000, guid: f68ce246c2ddb0d4a9c05bd34d0916bb, type: 2}
-    quantity: 3
   - item: {fileID: 11400000, guid: d3c39bb5adba2f441816508cfba1feb9, type: 2}
-    quantity: 1
+    quantity: 3
   resultItem: {fileID: 11400000, guid: c38aee0676cd60a42b912f52fc86f700, type: 2}
-  resultQuantity: 0
+  resultQuantity: 1

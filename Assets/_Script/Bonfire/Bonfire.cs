@@ -46,6 +46,7 @@ public class Bonfire : MonoBehaviour
                                 break;
                             case "Wood":
                                 _Wood += 50f;
+                                InventoryManager.instance.RemoveItem(InventoryManager.instance.ItemSelection, 1);
                                 break;
                             default:
                                 break;
@@ -80,6 +81,7 @@ public class Bonfire : MonoBehaviour
         _Fỉre.gameObject.SetActive(true);
         _Iscooking = true;
         _CookingTime = 10f;
+        InventoryManager.instance.RemoveItem(item,1);
     }
     private void StopCooking()
     {

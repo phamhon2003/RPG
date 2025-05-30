@@ -26,7 +26,7 @@ public class RangeAttackSolder : MonoBehaviour
                 MoveCloserToEnemy();
             }
             
-            if (enemiesInTrigger[0].GetComponent<Enemy>().HP<=0)
+            if (enemiesInTrigger[0].GetComponent<Orc>().HP<=0)
             {
                 enemiesInTrigger.Remove(enemiesInTrigger[0]);
             }

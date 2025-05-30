@@ -1,24 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
-using Microsoft.Unity.VisualStudio.Editor;
-using Unity.VisualScripting;
 using UnityEngine;
-using static UnityEditor.ShaderGraph.Internal.KeywordDependentCollection;
 
-public class RangeOrc : MonoBehaviour
+
+public class RangeOrc : RangeAttackBase
 {
-    private List<Collider2D> _SolderInTrigger = new List<Collider2D>();
-    [SerializeField] float _Damage;
-    Enemy enemy;
-    private Coroutine attackCoroutine;
-    private float attackCooldown = 0f;
-    float distance;
+    
+    Orc _Orc; 
     void Start() 
     {
-        enemy = GetComponentInParent<Enemy>();
+        _Damage = 5;
+        _Orc = GetComponentInParent<Orc>();
     }
-
-    
     void Update()
     {
         if (attackCooldown > 0)
@@ -26,30 +19,20 @@ public class RangeOrc : MonoBehaviour
             attackCooldown -= Time.deltaTime;
             return;
         }
-        if (Solderintrigger())
+        if (target!= null)
         {
-            enemy.enableWander = false;
+            _Orc.enableWander = false;
             MoveCloserToSolder();
-            Solder solder = _SolderInTrigger[0].GetComponent<Solder>();
-            if (solder != null && solder.HP <= 0)
-            {
-                _SolderInTrigger.Remove(_SolderInTrigger[0]);
-            }
         }
         else
         {
-            enemy.enableWander = true; 
+            _Orc.enableWander = true; 
             //StopMoving(); 
         }
     }
-    void StopMoving()
-    {
-        enemy.Enemyanimator.SetBool("isWalking", false);
-        enemy.isMoving = false;
-    }
     void MoveCloserToSolder()
     {
-        Vector3 targetPos = _SolderInTrigger[0].transform.position; 
+        Vector3 targetPos = target.position; 
         distance = Vector3.Distance(transform.position, targetPos);
         if (distance > 1f)
         {
@@ -59,50 +42,47 @@ public class RangeOrc : MonoBehaviour
                 StopCoroutine(attackCoroutine);
                 attackCoroutine = null;
             }
-            enemy.MoveToPos(targetPos);
+            _Orc.MoveToPos(targetPos);
         }
         else
         {
-            enemy.Enemyanimator.SetBool("isWalking", false);
-            enemy.isMoving = false;
+            _Orc.Enemyanimator.SetBool("isWalking", false);
+            _Orc.isMoving = false;
             if (attackCoroutine == null)
                 attackCoroutine = StartCoroutine(AttackEverySecond());
         }
         
     }
-    bool Solderintrigger()
-    {
-        return _SolderInTrigger.Count > 0;
-    }
+    
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Solder")|| collision.CompareTag("Player"))
+        if (collision.CompareTag("Player"))
         {
 
-            _SolderInTrigger.Add(collision);
+            target = collision.transform;
         }
     }
     void OnTriggerExit2D(Collider2D other)
     {
-        if (other.CompareTag("Solder") || other.CompareTag("Player"))
+        if (other.CompareTag("Player"))
         {
-            _SolderInTrigger.Remove(other);
+            target = null;
         }
     }
-    public IEnumerator AttackEverySecond()
+    protected override IEnumerator AttackEverySecond()
     {      
-        while (_SolderInTrigger.Count > 0)
+        while (target!=null)
         {
-            while (enemy.isMoving && attackCooldown<=0)
+            while (_Orc.isMoving && attackCooldown<=0)
             {
                 yield return null;
             }
 
-            enemy.flip(_SolderInTrigger[0].transform.position);
+            _Orc.flip(target.position);
             attackCooldown = 1f;
-            enemy.Enemyanimator.SetTrigger("attack");
+            _Orc.Enemyanimator.SetTrigger("attack");
             yield return new WaitForSeconds(0.5f);
-            _SolderInTrigger[0].GetComponent<action>().takedamage(_Damage);
+            target.GetComponent<action>().takedamage(_Damage);
             attackCooldown = 0.5f;
             yield return new WaitForSeconds(1f);          
         }

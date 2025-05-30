@@ -7,16 +7,6 @@ public class WorldLight : MonoBehaviour
     private Light2D _light;
     [SerializeField] WorldTime _WorldTime;
     [SerializeField] Gradient _Gradient;
-    private void Start()
-    {
-        Material mat = GetComponent<SpriteRenderer>().material;
-        mat.shader = Shader.Find("Custom/VoronoiWater");
-
-        if (mat.shader == null)
-        {
-            Debug.LogError("Shader Custom/VoronoiWater không tìm thấy!");
-        }
-    }
     //private void Awake()
     //{
     //    _light = GetComponent<Light2D>();
@@ -33,9 +23,5 @@ public class WorldLight : MonoBehaviour
     //private float PercentOfDay(TimeSpan timeSpan)
     //{
     //    return (float)timeSpan.TotalMinutes % WorldTimeConstants.MinutesInDay / WorldTimeConstants.MinutesInDay;
-    //}
-    //void Update()
-    //{
-
     //}
 }

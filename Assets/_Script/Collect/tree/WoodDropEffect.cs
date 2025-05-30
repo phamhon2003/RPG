@@ -49,6 +49,7 @@ public class WoodDropEffect : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             InventoryManager.instance.addItem(Wood, 1);
+            AudioManager.Instance.PlaySFX(AudioManager.Instance._Collect);
             Destroy(gameObject);
         }
     }
